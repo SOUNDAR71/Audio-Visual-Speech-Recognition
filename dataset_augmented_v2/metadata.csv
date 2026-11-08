@@ -1,0 +1,1601 @@
+split,label,source_recording,output_file,snr
+train,Aaron,Aaron_20.wav,train/Aaron/Aaron_20.wav,clean
+train,Aaron,Aaron_20.wav,train/Aaron/Aaron_20_snr_-5dB.wav,-5 dB
+train,Aaron,Aaron_20.wav,train/Aaron/Aaron_20_snr_0dB.wav,0 dB
+train,Aaron,Aaron_20.wav,train/Aaron/Aaron_20_snr_5dB.wav,5 dB
+train,Aaron,Aaron_20.wav,train/Aaron/Aaron_20_snr_10dB.wav,10 dB
+train,Aaron,Aaron_20.wav,train/Aaron/Aaron_20_snr_15dB.wav,15 dB
+train,Aaron,Aaron_06.wav,train/Aaron/Aaron_06.wav,clean
+train,Aaron,Aaron_06.wav,train/Aaron/Aaron_06_snr_-5dB.wav,-5 dB
+train,Aaron,Aaron_06.wav,train/Aaron/Aaron_06_snr_0dB.wav,0 dB
+train,Aaron,Aaron_06.wav,train/Aaron/Aaron_06_snr_5dB.wav,5 dB
+train,Aaron,Aaron_06.wav,train/Aaron/Aaron_06_snr_10dB.wav,10 dB
+train,Aaron,Aaron_06.wav,train/Aaron/Aaron_06_snr_15dB.wav,15 dB
+train,Aaron,Aaron_15.wav,train/Aaron/Aaron_15.wav,clean
+train,Aaron,Aaron_15.wav,train/Aaron/Aaron_15_snr_-5dB.wav,-5 dB
+train,Aaron,Aaron_15.wav,train/Aaron/Aaron_15_snr_0dB.wav,0 dB
+train,Aaron,Aaron_15.wav,train/Aaron/Aaron_15_snr_5dB.wav,5 dB
+train,Aaron,Aaron_15.wav,train/Aaron/Aaron_15_snr_10dB.wav,10 dB
+train,Aaron,Aaron_15.wav,train/Aaron/Aaron_15_snr_15dB.wav,15 dB
+train,Aaron,Aaron_05.wav,train/Aaron/Aaron_05.wav,clean
+train,Aaron,Aaron_05.wav,train/Aaron/Aaron_05_snr_-5dB.wav,-5 dB
+train,Aaron,Aaron_05.wav,train/Aaron/Aaron_05_snr_0dB.wav,0 dB
+train,Aaron,Aaron_05.wav,train/Aaron/Aaron_05_snr_5dB.wav,5 dB
+train,Aaron,Aaron_05.wav,train/Aaron/Aaron_05_snr_10dB.wav,10 dB
+train,Aaron,Aaron_05.wav,train/Aaron/Aaron_05_snr_15dB.wav,15 dB
+train,Aaron,Aaron_10.wav,train/Aaron/Aaron_10.wav,clean
+train,Aaron,Aaron_10.wav,train/Aaron/Aaron_10_snr_-5dB.wav,-5 dB
+train,Aaron,Aaron_10.wav,train/Aaron/Aaron_10_snr_0dB.wav,0 dB
+train,Aaron,Aaron_10.wav,train/Aaron/Aaron_10_snr_5dB.wav,5 dB
+train,Aaron,Aaron_10.wav,train/Aaron/Aaron_10_snr_10dB.wav,10 dB
+train,Aaron,Aaron_10.wav,train/Aaron/Aaron_10_snr_15dB.wav,15 dB
+train,Aaron,Aaron_14.wav,train/Aaron/Aaron_14.wav,clean
+train,Aaron,Aaron_14.wav,train/Aaron/Aaron_14_snr_-5dB.wav,-5 dB
+train,Aaron,Aaron_14.wav,train/Aaron/Aaron_14_snr_0dB.wav,0 dB
+train,Aaron,Aaron_14.wav,train/Aaron/Aaron_14_snr_5dB.wav,5 dB
+train,Aaron,Aaron_14.wav,train/Aaron/Aaron_14_snr_10dB.wav,10 dB
+train,Aaron,Aaron_14.wav,train/Aaron/Aaron_14_snr_15dB.wav,15 dB
+train,Aaron,Aaron_16.wav,train/Aaron/Aaron_16.wav,clean
+train,Aaron,Aaron_16.wav,train/Aaron/Aaron_16_snr_-5dB.wav,-5 dB
+train,Aaron,Aaron_16.wav,train/Aaron/Aaron_16_snr_0dB.wav,0 dB
+train,Aaron,Aaron_16.wav,train/Aaron/Aaron_16_snr_5dB.wav,5 dB
+train,Aaron,Aaron_16.wav,train/Aaron/Aaron_16_snr_10dB.wav,10 dB
+train,Aaron,Aaron_16.wav,train/Aaron/Aaron_16_snr_15dB.wav,15 dB
+train,Aaron,Aaron_19.wav,train/Aaron/Aaron_19.wav,clean
+train,Aaron,Aaron_19.wav,train/Aaron/Aaron_19_snr_-5dB.wav,-5 dB
+train,Aaron,Aaron_19.wav,train/Aaron/Aaron_19_snr_0dB.wav,0 dB
+train,Aaron,Aaron_19.wav,train/Aaron/Aaron_19_snr_5dB.wav,5 dB
+train,Aaron,Aaron_19.wav,train/Aaron/Aaron_19_snr_10dB.wav,10 dB
+train,Aaron,Aaron_19.wav,train/Aaron/Aaron_19_snr_15dB.wav,15 dB
+train,Aaron,Aaron_07.wav,train/Aaron/Aaron_07.wav,clean
+train,Aaron,Aaron_07.wav,train/Aaron/Aaron_07_snr_-5dB.wav,-5 dB
+train,Aaron,Aaron_07.wav,train/Aaron/Aaron_07_snr_0dB.wav,0 dB
+train,Aaron,Aaron_07.wav,train/Aaron/Aaron_07_snr_5dB.wav,5 dB
+train,Aaron,Aaron_07.wav,train/Aaron/Aaron_07_snr_10dB.wav,10 dB
+train,Aaron,Aaron_07.wav,train/Aaron/Aaron_07_snr_15dB.wav,15 dB
+train,Aaron,Aaron_13.wav,train/Aaron/Aaron_13.wav,clean
+train,Aaron,Aaron_13.wav,train/Aaron/Aaron_13_snr_-5dB.wav,-5 dB
+train,Aaron,Aaron_13.wav,train/Aaron/Aaron_13_snr_0dB.wav,0 dB
+train,Aaron,Aaron_13.wav,train/Aaron/Aaron_13_snr_5dB.wav,5 dB
+train,Aaron,Aaron_13.wav,train/Aaron/Aaron_13_snr_10dB.wav,10 dB
+train,Aaron,Aaron_13.wav,train/Aaron/Aaron_13_snr_15dB.wav,15 dB
+train,Aaron,Aaron_18.wav,train/Aaron/Aaron_18.wav,clean
+train,Aaron,Aaron_18.wav,train/Aaron/Aaron_18_snr_-5dB.wav,-5 dB
+train,Aaron,Aaron_18.wav,train/Aaron/Aaron_18_snr_0dB.wav,0 dB
+train,Aaron,Aaron_18.wav,train/Aaron/Aaron_18_snr_5dB.wav,5 dB
+train,Aaron,Aaron_18.wav,train/Aaron/Aaron_18_snr_10dB.wav,10 dB
+train,Aaron,Aaron_18.wav,train/Aaron/Aaron_18_snr_15dB.wav,15 dB
+train,Aaron,Aaron_11.wav,train/Aaron/Aaron_11.wav,clean
+train,Aaron,Aaron_11.wav,train/Aaron/Aaron_11_snr_-5dB.wav,-5 dB
+train,Aaron,Aaron_11.wav,train/Aaron/Aaron_11_snr_0dB.wav,0 dB
+train,Aaron,Aaron_11.wav,train/Aaron/Aaron_11_snr_5dB.wav,5 dB
+train,Aaron,Aaron_11.wav,train/Aaron/Aaron_11_snr_10dB.wav,10 dB
+train,Aaron,Aaron_11.wav,train/Aaron/Aaron_11_snr_15dB.wav,15 dB
+validation,Aaron,Aaron_02.wav,validation/Aaron/Aaron_02.wav,clean
+validation,Aaron,Aaron_12.wav,validation/Aaron/Aaron_12.wav,clean
+validation,Aaron,Aaron_03.wav,validation/Aaron/Aaron_03.wav,clean
+test,Aaron,Aaron_17.wav,test/Aaron/Aaron_17.wav,clean
+test,Aaron,Aaron_08.wav,test/Aaron/Aaron_08.wav,clean
+test,Aaron,Aaron_09.wav,test/Aaron/Aaron_09.wav,clean
+test,Aaron,Aaron_01.wav,test/Aaron/Aaron_01.wav,clean
+test,Aaron,Aaron_04.wav,test/Aaron/Aaron_04.wav,clean
+train,Alex,Alex_10.wav,train/Alex/Alex_10.wav,clean
+train,Alex,Alex_10.wav,train/Alex/Alex_10_snr_-5dB.wav,-5 dB
+train,Alex,Alex_10.wav,train/Alex/Alex_10_snr_0dB.wav,0 dB
+train,Alex,Alex_10.wav,train/Alex/Alex_10_snr_5dB.wav,5 dB
+train,Alex,Alex_10.wav,train/Alex/Alex_10_snr_10dB.wav,10 dB
+train,Alex,Alex_10.wav,train/Alex/Alex_10_snr_15dB.wav,15 dB
+train,Alex,Alex_16.wav,train/Alex/Alex_16.wav,clean
+train,Alex,Alex_16.wav,train/Alex/Alex_16_snr_-5dB.wav,-5 dB
+train,Alex,Alex_16.wav,train/Alex/Alex_16_snr_0dB.wav,0 dB
+train,Alex,Alex_16.wav,train/Alex/Alex_16_snr_5dB.wav,5 dB
+train,Alex,Alex_16.wav,train/Alex/Alex_16_snr_10dB.wav,10 dB
+train,Alex,Alex_16.wav,train/Alex/Alex_16_snr_15dB.wav,15 dB
+train,Alex,Alex_07.wav,train/Alex/Alex_07.wav,clean
+train,Alex,Alex_07.wav,train/Alex/Alex_07_snr_-5dB.wav,-5 dB
+train,Alex,Alex_07.wav,train/Alex/Alex_07_snr_0dB.wav,0 dB
+train,Alex,Alex_07.wav,train/Alex/Alex_07_snr_5dB.wav,5 dB
+train,Alex,Alex_07.wav,train/Alex/Alex_07_snr_10dB.wav,10 dB
+train,Alex,Alex_07.wav,train/Alex/Alex_07_snr_15dB.wav,15 dB
+train,Alex,Alex_18.wav,train/Alex/Alex_18.wav,clean
+train,Alex,Alex_18.wav,train/Alex/Alex_18_snr_-5dB.wav,-5 dB
+train,Alex,Alex_18.wav,train/Alex/Alex_18_snr_0dB.wav,0 dB
+train,Alex,Alex_18.wav,train/Alex/Alex_18_snr_5dB.wav,5 dB
+train,Alex,Alex_18.wav,train/Alex/Alex_18_snr_10dB.wav,10 dB
+train,Alex,Alex_18.wav,train/Alex/Alex_18_snr_15dB.wav,15 dB
+train,Alex,Alex_12.wav,train/Alex/Alex_12.wav,clean
+train,Alex,Alex_12.wav,train/Alex/Alex_12_snr_-5dB.wav,-5 dB
+train,Alex,Alex_12.wav,train/Alex/Alex_12_snr_0dB.wav,0 dB
+train,Alex,Alex_12.wav,train/Alex/Alex_12_snr_5dB.wav,5 dB
+train,Alex,Alex_12.wav,train/Alex/Alex_12_snr_10dB.wav,10 dB
+train,Alex,Alex_12.wav,train/Alex/Alex_12_snr_15dB.wav,15 dB
+train,Alex,Alex_14.wav,train/Alex/Alex_14.wav,clean
+train,Alex,Alex_14.wav,train/Alex/Alex_14_snr_-5dB.wav,-5 dB
+train,Alex,Alex_14.wav,train/Alex/Alex_14_snr_0dB.wav,0 dB
+train,Alex,Alex_14.wav,train/Alex/Alex_14_snr_5dB.wav,5 dB
+train,Alex,Alex_14.wav,train/Alex/Alex_14_snr_10dB.wav,10 dB
+train,Alex,Alex_14.wav,train/Alex/Alex_14_snr_15dB.wav,15 dB
+train,Alex,Alex_08.wav,train/Alex/Alex_08.wav,clean
+train,Alex,Alex_08.wav,train/Alex/Alex_08_snr_-5dB.wav,-5 dB
+train,Alex,Alex_08.wav,train/Alex/Alex_08_snr_0dB.wav,0 dB
+train,Alex,Alex_08.wav,train/Alex/Alex_08_snr_5dB.wav,5 dB
+train,Alex,Alex_08.wav,train/Alex/Alex_08_snr_10dB.wav,10 dB
+train,Alex,Alex_08.wav,train/Alex/Alex_08_snr_15dB.wav,15 dB
+train,Alex,Alex_03.wav,train/Alex/Alex_03.wav,clean
+train,Alex,Alex_03.wav,train/Alex/Alex_03_snr_-5dB.wav,-5 dB
+train,Alex,Alex_03.wav,train/Alex/Alex_03_snr_0dB.wav,0 dB
+train,Alex,Alex_03.wav,train/Alex/Alex_03_snr_5dB.wav,5 dB
+train,Alex,Alex_03.wav,train/Alex/Alex_03_snr_10dB.wav,10 dB
+train,Alex,Alex_03.wav,train/Alex/Alex_03_snr_15dB.wav,15 dB
+train,Alex,Alex_04.wav,train/Alex/Alex_04.wav,clean
+train,Alex,Alex_04.wav,train/Alex/Alex_04_snr_-5dB.wav,-5 dB
+train,Alex,Alex_04.wav,train/Alex/Alex_04_snr_0dB.wav,0 dB
+train,Alex,Alex_04.wav,train/Alex/Alex_04_snr_5dB.wav,5 dB
+train,Alex,Alex_04.wav,train/Alex/Alex_04_snr_10dB.wav,10 dB
+train,Alex,Alex_04.wav,train/Alex/Alex_04_snr_15dB.wav,15 dB
+train,Alex,Alex_19.wav,train/Alex/Alex_19.wav,clean
+train,Alex,Alex_19.wav,train/Alex/Alex_19_snr_-5dB.wav,-5 dB
+train,Alex,Alex_19.wav,train/Alex/Alex_19_snr_0dB.wav,0 dB
+train,Alex,Alex_19.wav,train/Alex/Alex_19_snr_5dB.wav,5 dB
+train,Alex,Alex_19.wav,train/Alex/Alex_19_snr_10dB.wav,10 dB
+train,Alex,Alex_19.wav,train/Alex/Alex_19_snr_15dB.wav,15 dB
+train,Alex,Alex_13.wav,train/Alex/Alex_13.wav,clean
+train,Alex,Alex_13.wav,train/Alex/Alex_13_snr_-5dB.wav,-5 dB
+train,Alex,Alex_13.wav,train/Alex/Alex_13_snr_0dB.wav,0 dB
+train,Alex,Alex_13.wav,train/Alex/Alex_13_snr_5dB.wav,5 dB
+train,Alex,Alex_13.wav,train/Alex/Alex_13_snr_10dB.wav,10 dB
+train,Alex,Alex_13.wav,train/Alex/Alex_13_snr_15dB.wav,15 dB
+train,Alex,Alex_05.wav,train/Alex/Alex_05.wav,clean
+train,Alex,Alex_05.wav,train/Alex/Alex_05_snr_-5dB.wav,-5 dB
+train,Alex,Alex_05.wav,train/Alex/Alex_05_snr_0dB.wav,0 dB
+train,Alex,Alex_05.wav,train/Alex/Alex_05_snr_5dB.wav,5 dB
+train,Alex,Alex_05.wav,train/Alex/Alex_05_snr_10dB.wav,10 dB
+train,Alex,Alex_05.wav,train/Alex/Alex_05_snr_15dB.wav,15 dB
+validation,Alex,Alex_11.wav,validation/Alex/Alex_11.wav,clean
+validation,Alex,Alex_02.wav,validation/Alex/Alex_02.wav,clean
+validation,Alex,Alex_17.wav,validation/Alex/Alex_17.wav,clean
+test,Alex,Alex_20.wav,test/Alex/Alex_20.wav,clean
+test,Alex,Alex_09.wav,test/Alex/Alex_09.wav,clean
+test,Alex,Alex_01.wav,test/Alex/Alex_01.wav,clean
+test,Alex,Alex_15.wav,test/Alex/Alex_15.wav,clean
+test,Alex,Alex_06.wav,test/Alex/Alex_06.wav,clean
+train,Ali,Ali_11.wav,train/Ali/Ali_11.wav,clean
+train,Ali,Ali_11.wav,train/Ali/Ali_11_snr_-5dB.wav,-5 dB
+train,Ali,Ali_11.wav,train/Ali/Ali_11_snr_0dB.wav,0 dB
+train,Ali,Ali_11.wav,train/Ali/Ali_11_snr_5dB.wav,5 dB
+train,Ali,Ali_11.wav,train/Ali/Ali_11_snr_10dB.wav,10 dB
+train,Ali,Ali_11.wav,train/Ali/Ali_11_snr_15dB.wav,15 dB
+train,Ali,Ali_03.wav,train/Ali/Ali_03.wav,clean
+train,Ali,Ali_03.wav,train/Ali/Ali_03_snr_-5dB.wav,-5 dB
+train,Ali,Ali_03.wav,train/Ali/Ali_03_snr_0dB.wav,0 dB
+train,Ali,Ali_03.wav,train/Ali/Ali_03_snr_5dB.wav,5 dB
+train,Ali,Ali_03.wav,train/Ali/Ali_03_snr_10dB.wav,10 dB
+train,Ali,Ali_03.wav,train/Ali/Ali_03_snr_15dB.wav,15 dB
+train,Ali,Ali_19.wav,train/Ali/Ali_19.wav,clean
+train,Ali,Ali_19.wav,train/Ali/Ali_19_snr_-5dB.wav,-5 dB
+train,Ali,Ali_19.wav,train/Ali/Ali_19_snr_0dB.wav,0 dB
+train,Ali,Ali_19.wav,train/Ali/Ali_19_snr_5dB.wav,5 dB
+train,Ali,Ali_19.wav,train/Ali/Ali_19_snr_10dB.wav,10 dB
+train,Ali,Ali_19.wav,train/Ali/Ali_19_snr_15dB.wav,15 dB
+train,Ali,Ali_02.wav,train/Ali/Ali_02.wav,clean
+train,Ali,Ali_02.wav,train/Ali/Ali_02_snr_-5dB.wav,-5 dB
+train,Ali,Ali_02.wav,train/Ali/Ali_02_snr_0dB.wav,0 dB
+train,Ali,Ali_02.wav,train/Ali/Ali_02_snr_5dB.wav,5 dB
+train,Ali,Ali_02.wav,train/Ali/Ali_02_snr_10dB.wav,10 dB
+train,Ali,Ali_02.wav,train/Ali/Ali_02_snr_15dB.wav,15 dB
+train,Ali,Ali_20.wav,train/Ali/Ali_20.wav,clean
+train,Ali,Ali_20.wav,train/Ali/Ali_20_snr_-5dB.wav,-5 dB
+train,Ali,Ali_20.wav,train/Ali/Ali_20_snr_0dB.wav,0 dB
+train,Ali,Ali_20.wav,train/Ali/Ali_20_snr_5dB.wav,5 dB
+train,Ali,Ali_20.wav,train/Ali/Ali_20_snr_10dB.wav,10 dB
+train,Ali,Ali_20.wav,train/Ali/Ali_20_snr_15dB.wav,15 dB
+train,Ali,Ali_15.wav,train/Ali/Ali_15.wav,clean
+train,Ali,Ali_15.wav,train/Ali/Ali_15_snr_-5dB.wav,-5 dB
+train,Ali,Ali_15.wav,train/Ali/Ali_15_snr_0dB.wav,0 dB
+train,Ali,Ali_15.wav,train/Ali/Ali_15_snr_5dB.wav,5 dB
+train,Ali,Ali_15.wav,train/Ali/Ali_15_snr_10dB.wav,10 dB
+train,Ali,Ali_15.wav,train/Ali/Ali_15_snr_15dB.wav,15 dB
+train,Ali,Ali_08.wav,train/Ali/Ali_08.wav,clean
+train,Ali,Ali_08.wav,train/Ali/Ali_08_snr_-5dB.wav,-5 dB
+train,Ali,Ali_08.wav,train/Ali/Ali_08_snr_0dB.wav,0 dB
+train,Ali,Ali_08.wav,train/Ali/Ali_08_snr_5dB.wav,5 dB
+train,Ali,Ali_08.wav,train/Ali/Ali_08_snr_10dB.wav,10 dB
+train,Ali,Ali_08.wav,train/Ali/Ali_08_snr_15dB.wav,15 dB
+train,Ali,Ali_12.wav,train/Ali/Ali_12.wav,clean
+train,Ali,Ali_12.wav,train/Ali/Ali_12_snr_-5dB.wav,-5 dB
+train,Ali,Ali_12.wav,train/Ali/Ali_12_snr_0dB.wav,0 dB
+train,Ali,Ali_12.wav,train/Ali/Ali_12_snr_5dB.wav,5 dB
+train,Ali,Ali_12.wav,train/Ali/Ali_12_snr_10dB.wav,10 dB
+train,Ali,Ali_12.wav,train/Ali/Ali_12_snr_15dB.wav,15 dB
+train,Ali,Ali_06.wav,train/Ali/Ali_06.wav,clean
+train,Ali,Ali_06.wav,train/Ali/Ali_06_snr_-5dB.wav,-5 dB
+train,Ali,Ali_06.wav,train/Ali/Ali_06_snr_0dB.wav,0 dB
+train,Ali,Ali_06.wav,train/Ali/Ali_06_snr_5dB.wav,5 dB
+train,Ali,Ali_06.wav,train/Ali/Ali_06_snr_10dB.wav,10 dB
+train,Ali,Ali_06.wav,train/Ali/Ali_06_snr_15dB.wav,15 dB
+train,Ali,Ali_13.wav,train/Ali/Ali_13.wav,clean
+train,Ali,Ali_13.wav,train/Ali/Ali_13_snr_-5dB.wav,-5 dB
+train,Ali,Ali_13.wav,train/Ali/Ali_13_snr_0dB.wav,0 dB
+train,Ali,Ali_13.wav,train/Ali/Ali_13_snr_5dB.wav,5 dB
+train,Ali,Ali_13.wav,train/Ali/Ali_13_snr_10dB.wav,10 dB
+train,Ali,Ali_13.wav,train/Ali/Ali_13_snr_15dB.wav,15 dB
+train,Ali,Ali_09.wav,train/Ali/Ali_09.wav,clean
+train,Ali,Ali_09.wav,train/Ali/Ali_09_snr_-5dB.wav,-5 dB
+train,Ali,Ali_09.wav,train/Ali/Ali_09_snr_0dB.wav,0 dB
+train,Ali,Ali_09.wav,train/Ali/Ali_09_snr_5dB.wav,5 dB
+train,Ali,Ali_09.wav,train/Ali/Ali_09_snr_10dB.wav,10 dB
+train,Ali,Ali_09.wav,train/Ali/Ali_09_snr_15dB.wav,15 dB
+train,Ali,Ali_10.wav,train/Ali/Ali_10.wav,clean
+train,Ali,Ali_10.wav,train/Ali/Ali_10_snr_-5dB.wav,-5 dB
+train,Ali,Ali_10.wav,train/Ali/Ali_10_snr_0dB.wav,0 dB
+train,Ali,Ali_10.wav,train/Ali/Ali_10_snr_5dB.wav,5 dB
+train,Ali,Ali_10.wav,train/Ali/Ali_10_snr_10dB.wav,10 dB
+train,Ali,Ali_10.wav,train/Ali/Ali_10_snr_15dB.wav,15 dB
+validation,Ali,Ali_01.wav,validation/Ali/Ali_01.wav,clean
+validation,Ali,Ali_04.wav,validation/Ali/Ali_04.wav,clean
+validation,Ali,Ali_17.wav,validation/Ali/Ali_17.wav,clean
+test,Ali,Ali_07.wav,test/Ali/Ali_07.wav,clean
+test,Ali,Ali_05.wav,test/Ali/Ali_05.wav,clean
+test,Ali,Ali_16.wav,test/Ali/Ali_16.wav,clean
+test,Ali,Ali_18.wav,test/Ali/Ali_18.wav,clean
+test,Ali,Ali_14.wav,test/Ali/Ali_14.wav,clean
+train,Charlie,Charlie_10.wav,train/Charlie/Charlie_10.wav,clean
+train,Charlie,Charlie_10.wav,train/Charlie/Charlie_10_snr_-5dB.wav,-5 dB
+train,Charlie,Charlie_10.wav,train/Charlie/Charlie_10_snr_0dB.wav,0 dB
+train,Charlie,Charlie_10.wav,train/Charlie/Charlie_10_snr_5dB.wav,5 dB
+train,Charlie,Charlie_10.wav,train/Charlie/Charlie_10_snr_10dB.wav,10 dB
+train,Charlie,Charlie_10.wav,train/Charlie/Charlie_10_snr_15dB.wav,15 dB
+train,Charlie,Charlie_11.wav,train/Charlie/Charlie_11.wav,clean
+train,Charlie,Charlie_11.wav,train/Charlie/Charlie_11_snr_-5dB.wav,-5 dB
+train,Charlie,Charlie_11.wav,train/Charlie/Charlie_11_snr_0dB.wav,0 dB
+train,Charlie,Charlie_11.wav,train/Charlie/Charlie_11_snr_5dB.wav,5 dB
+train,Charlie,Charlie_11.wav,train/Charlie/Charlie_11_snr_10dB.wav,10 dB
+train,Charlie,Charlie_11.wav,train/Charlie/Charlie_11_snr_15dB.wav,15 dB
+train,Charlie,Charlie_03.wav,train/Charlie/Charlie_03.wav,clean
+train,Charlie,Charlie_03.wav,train/Charlie/Charlie_03_snr_-5dB.wav,-5 dB
+train,Charlie,Charlie_03.wav,train/Charlie/Charlie_03_snr_0dB.wav,0 dB
+train,Charlie,Charlie_03.wav,train/Charlie/Charlie_03_snr_5dB.wav,5 dB
+train,Charlie,Charlie_03.wav,train/Charlie/Charlie_03_snr_10dB.wav,10 dB
+train,Charlie,Charlie_03.wav,train/Charlie/Charlie_03_snr_15dB.wav,15 dB
+train,Charlie,Charlie_15.wav,train/Charlie/Charlie_15.wav,clean
+train,Charlie,Charlie_15.wav,train/Charlie/Charlie_15_snr_-5dB.wav,-5 dB
+train,Charlie,Charlie_15.wav,train/Charlie/Charlie_15_snr_0dB.wav,0 dB
+train,Charlie,Charlie_15.wav,train/Charlie/Charlie_15_snr_5dB.wav,5 dB
+train,Charlie,Charlie_15.wav,train/Charlie/Charlie_15_snr_10dB.wav,10 dB
+train,Charlie,Charlie_15.wav,train/Charlie/Charlie_15_snr_15dB.wav,15 dB
+train,Charlie,Charlie_19.wav,train/Charlie/Charlie_19.wav,clean
+train,Charlie,Charlie_19.wav,train/Charlie/Charlie_19_snr_-5dB.wav,-5 dB
+train,Charlie,Charlie_19.wav,train/Charlie/Charlie_19_snr_0dB.wav,0 dB
+train,Charlie,Charlie_19.wav,train/Charlie/Charlie_19_snr_5dB.wav,5 dB
+train,Charlie,Charlie_19.wav,train/Charlie/Charlie_19_snr_10dB.wav,10 dB
+train,Charlie,Charlie_19.wav,train/Charlie/Charlie_19_snr_15dB.wav,15 dB
+train,Charlie,Charlie_02.wav,train/Charlie/Charlie_02.wav,clean
+train,Charlie,Charlie_02.wav,train/Charlie/Charlie_02_snr_-5dB.wav,-5 dB
+train,Charlie,Charlie_02.wav,train/Charlie/Charlie_02_snr_0dB.wav,0 dB
+train,Charlie,Charlie_02.wav,train/Charlie/Charlie_02_snr_5dB.wav,5 dB
+train,Charlie,Charlie_02.wav,train/Charlie/Charlie_02_snr_10dB.wav,10 dB
+train,Charlie,Charlie_02.wav,train/Charlie/Charlie_02_snr_15dB.wav,15 dB
+train,Charlie,Charlie_07.wav,train/Charlie/Charlie_07.wav,clean
+train,Charlie,Charlie_07.wav,train/Charlie/Charlie_07_snr_-5dB.wav,-5 dB
+train,Charlie,Charlie_07.wav,train/Charlie/Charlie_07_snr_0dB.wav,0 dB
+train,Charlie,Charlie_07.wav,train/Charlie/Charlie_07_snr_5dB.wav,5 dB
+train,Charlie,Charlie_07.wav,train/Charlie/Charlie_07_snr_10dB.wav,10 dB
+train,Charlie,Charlie_07.wav,train/Charlie/Charlie_07_snr_15dB.wav,15 dB
+train,Charlie,Charlie_05.wav,train/Charlie/Charlie_05.wav,clean
+train,Charlie,Charlie_05.wav,train/Charlie/Charlie_05_snr_-5dB.wav,-5 dB
+train,Charlie,Charlie_05.wav,train/Charlie/Charlie_05_snr_0dB.wav,0 dB
+train,Charlie,Charlie_05.wav,train/Charlie/Charlie_05_snr_5dB.wav,5 dB
+train,Charlie,Charlie_05.wav,train/Charlie/Charlie_05_snr_10dB.wav,10 dB
+train,Charlie,Charlie_05.wav,train/Charlie/Charlie_05_snr_15dB.wav,15 dB
+train,Charlie,Charlie_18.wav,train/Charlie/Charlie_18.wav,clean
+train,Charlie,Charlie_18.wav,train/Charlie/Charlie_18_snr_-5dB.wav,-5 dB
+train,Charlie,Charlie_18.wav,train/Charlie/Charlie_18_snr_0dB.wav,0 dB
+train,Charlie,Charlie_18.wav,train/Charlie/Charlie_18_snr_5dB.wav,5 dB
+train,Charlie,Charlie_18.wav,train/Charlie/Charlie_18_snr_10dB.wav,10 dB
+train,Charlie,Charlie_18.wav,train/Charlie/Charlie_18_snr_15dB.wav,15 dB
+train,Charlie,Charlie_16.wav,train/Charlie/Charlie_16.wav,clean
+train,Charlie,Charlie_16.wav,train/Charlie/Charlie_16_snr_-5dB.wav,-5 dB
+train,Charlie,Charlie_16.wav,train/Charlie/Charlie_16_snr_0dB.wav,0 dB
+train,Charlie,Charlie_16.wav,train/Charlie/Charlie_16_snr_5dB.wav,5 dB
+train,Charlie,Charlie_16.wav,train/Charlie/Charlie_16_snr_10dB.wav,10 dB
+train,Charlie,Charlie_16.wav,train/Charlie/Charlie_16_snr_15dB.wav,15 dB
+train,Charlie,Charlie_12.wav,train/Charlie/Charlie_12.wav,clean
+train,Charlie,Charlie_12.wav,train/Charlie/Charlie_12_snr_-5dB.wav,-5 dB
+train,Charlie,Charlie_12.wav,train/Charlie/Charlie_12_snr_0dB.wav,0 dB
+train,Charlie,Charlie_12.wav,train/Charlie/Charlie_12_snr_5dB.wav,5 dB
+train,Charlie,Charlie_12.wav,train/Charlie/Charlie_12_snr_10dB.wav,10 dB
+train,Charlie,Charlie_12.wav,train/Charlie/Charlie_12_snr_15dB.wav,15 dB
+train,Charlie,Charlie_17.wav,train/Charlie/Charlie_17.wav,clean
+train,Charlie,Charlie_17.wav,train/Charlie/Charlie_17_snr_-5dB.wav,-5 dB
+train,Charlie,Charlie_17.wav,train/Charlie/Charlie_17_snr_0dB.wav,0 dB
+train,Charlie,Charlie_17.wav,train/Charlie/Charlie_17_snr_5dB.wav,5 dB
+train,Charlie,Charlie_17.wav,train/Charlie/Charlie_17_snr_10dB.wav,10 dB
+train,Charlie,Charlie_17.wav,train/Charlie/Charlie_17_snr_15dB.wav,15 dB
+validation,Charlie,Charlie_20.wav,validation/Charlie/Charlie_20.wav,clean
+validation,Charlie,Charlie_01.wav,validation/Charlie/Charlie_01.wav,clean
+validation,Charlie,Charlie_14.wav,validation/Charlie/Charlie_14.wav,clean
+test,Charlie,Charlie_13.wav,test/Charlie/Charlie_13.wav,clean
+test,Charlie,Charlie_04.wav,test/Charlie/Charlie_04.wav,clean
+test,Charlie,Charlie_06.wav,test/Charlie/Charlie_06.wav,clean
+test,Charlie,Charlie_09.wav,test/Charlie/Charlie_09.wav,clean
+test,Charlie,Charlie_08.wav,test/Charlie/Charlie_08.wav,clean
+train,Harriet,Harriet_20.wav,train/Harriet/Harriet_20.wav,clean
+train,Harriet,Harriet_20.wav,train/Harriet/Harriet_20_snr_-5dB.wav,-5 dB
+train,Harriet,Harriet_20.wav,train/Harriet/Harriet_20_snr_0dB.wav,0 dB
+train,Harriet,Harriet_20.wav,train/Harriet/Harriet_20_snr_5dB.wav,5 dB
+train,Harriet,Harriet_20.wav,train/Harriet/Harriet_20_snr_10dB.wav,10 dB
+train,Harriet,Harriet_20.wav,train/Harriet/Harriet_20_snr_15dB.wav,15 dB
+train,Harriet,Harriet_02.wav,train/Harriet/Harriet_02.wav,clean
+train,Harriet,Harriet_02.wav,train/Harriet/Harriet_02_snr_-5dB.wav,-5 dB
+train,Harriet,Harriet_02.wav,train/Harriet/Harriet_02_snr_0dB.wav,0 dB
+train,Harriet,Harriet_02.wav,train/Harriet/Harriet_02_snr_5dB.wav,5 dB
+train,Harriet,Harriet_02.wav,train/Harriet/Harriet_02_snr_10dB.wav,10 dB
+train,Harriet,Harriet_02.wav,train/Harriet/Harriet_02_snr_15dB.wav,15 dB
+train,Harriet,Harriet_01.wav,train/Harriet/Harriet_01.wav,clean
+train,Harriet,Harriet_01.wav,train/Harriet/Harriet_01_snr_-5dB.wav,-5 dB
+train,Harriet,Harriet_01.wav,train/Harriet/Harriet_01_snr_0dB.wav,0 dB
+train,Harriet,Harriet_01.wav,train/Harriet/Harriet_01_snr_5dB.wav,5 dB
+train,Harriet,Harriet_01.wav,train/Harriet/Harriet_01_snr_10dB.wav,10 dB
+train,Harriet,Harriet_01.wav,train/Harriet/Harriet_01_snr_15dB.wav,15 dB
+train,Harriet,Harriet_16.wav,train/Harriet/Harriet_16.wav,clean
+train,Harriet,Harriet_16.wav,train/Harriet/Harriet_16_snr_-5dB.wav,-5 dB
+train,Harriet,Harriet_16.wav,train/Harriet/Harriet_16_snr_0dB.wav,0 dB
+train,Harriet,Harriet_16.wav,train/Harriet/Harriet_16_snr_5dB.wav,5 dB
+train,Harriet,Harriet_16.wav,train/Harriet/Harriet_16_snr_10dB.wav,10 dB
+train,Harriet,Harriet_16.wav,train/Harriet/Harriet_16_snr_15dB.wav,15 dB
+train,Harriet,Harriet_18.wav,train/Harriet/Harriet_18.wav,clean
+train,Harriet,Harriet_18.wav,train/Harriet/Harriet_18_snr_-5dB.wav,-5 dB
+train,Harriet,Harriet_18.wav,train/Harriet/Harriet_18_snr_0dB.wav,0 dB
+train,Harriet,Harriet_18.wav,train/Harriet/Harriet_18_snr_5dB.wav,5 dB
+train,Harriet,Harriet_18.wav,train/Harriet/Harriet_18_snr_10dB.wav,10 dB
+train,Harriet,Harriet_18.wav,train/Harriet/Harriet_18_snr_15dB.wav,15 dB
+train,Harriet,Harriet_04.wav,train/Harriet/Harriet_04.wav,clean
+train,Harriet,Harriet_04.wav,train/Harriet/Harriet_04_snr_-5dB.wav,-5 dB
+train,Harriet,Harriet_04.wav,train/Harriet/Harriet_04_snr_0dB.wav,0 dB
+train,Harriet,Harriet_04.wav,train/Harriet/Harriet_04_snr_5dB.wav,5 dB
+train,Harriet,Harriet_04.wav,train/Harriet/Harriet_04_snr_10dB.wav,10 dB
+train,Harriet,Harriet_04.wav,train/Harriet/Harriet_04_snr_15dB.wav,15 dB
+train,Harriet,Harriet_06.wav,train/Harriet/Harriet_06.wav,clean
+train,Harriet,Harriet_06.wav,train/Harriet/Harriet_06_snr_-5dB.wav,-5 dB
+train,Harriet,Harriet_06.wav,train/Harriet/Harriet_06_snr_0dB.wav,0 dB
+train,Harriet,Harriet_06.wav,train/Harriet/Harriet_06_snr_5dB.wav,5 dB
+train,Harriet,Harriet_06.wav,train/Harriet/Harriet_06_snr_10dB.wav,10 dB
+train,Harriet,Harriet_06.wav,train/Harriet/Harriet_06_snr_15dB.wav,15 dB
+train,Harriet,Harriet_03.wav,train/Harriet/Harriet_03.wav,clean
+train,Harriet,Harriet_03.wav,train/Harriet/Harriet_03_snr_-5dB.wav,-5 dB
+train,Harriet,Harriet_03.wav,train/Harriet/Harriet_03_snr_0dB.wav,0 dB
+train,Harriet,Harriet_03.wav,train/Harriet/Harriet_03_snr_5dB.wav,5 dB
+train,Harriet,Harriet_03.wav,train/Harriet/Harriet_03_snr_10dB.wav,10 dB
+train,Harriet,Harriet_03.wav,train/Harriet/Harriet_03_snr_15dB.wav,15 dB
+train,Harriet,Harriet_08.wav,train/Harriet/Harriet_08.wav,clean
+train,Harriet,Harriet_08.wav,train/Harriet/Harriet_08_snr_-5dB.wav,-5 dB
+train,Harriet,Harriet_08.wav,train/Harriet/Harriet_08_snr_0dB.wav,0 dB
+train,Harriet,Harriet_08.wav,train/Harriet/Harriet_08_snr_5dB.wav,5 dB
+train,Harriet,Harriet_08.wav,train/Harriet/Harriet_08_snr_10dB.wav,10 dB
+train,Harriet,Harriet_08.wav,train/Harriet/Harriet_08_snr_15dB.wav,15 dB
+train,Harriet,Harriet_13.wav,train/Harriet/Harriet_13.wav,clean
+train,Harriet,Harriet_13.wav,train/Harriet/Harriet_13_snr_-5dB.wav,-5 dB
+train,Harriet,Harriet_13.wav,train/Harriet/Harriet_13_snr_0dB.wav,0 dB
+train,Harriet,Harriet_13.wav,train/Harriet/Harriet_13_snr_5dB.wav,5 dB
+train,Harriet,Harriet_13.wav,train/Harriet/Harriet_13_snr_10dB.wav,10 dB
+train,Harriet,Harriet_13.wav,train/Harriet/Harriet_13_snr_15dB.wav,15 dB
+train,Harriet,Harriet_07.wav,train/Harriet/Harriet_07.wav,clean
+train,Harriet,Harriet_07.wav,train/Harriet/Harriet_07_snr_-5dB.wav,-5 dB
+train,Harriet,Harriet_07.wav,train/Harriet/Harriet_07_snr_0dB.wav,0 dB
+train,Harriet,Harriet_07.wav,train/Harriet/Harriet_07_snr_5dB.wav,5 dB
+train,Harriet,Harriet_07.wav,train/Harriet/Harriet_07_snr_10dB.wav,10 dB
+train,Harriet,Harriet_07.wav,train/Harriet/Harriet_07_snr_15dB.wav,15 dB
+train,Harriet,Harriet_09.wav,train/Harriet/Harriet_09.wav,clean
+train,Harriet,Harriet_09.wav,train/Harriet/Harriet_09_snr_-5dB.wav,-5 dB
+train,Harriet,Harriet_09.wav,train/Harriet/Harriet_09_snr_0dB.wav,0 dB
+train,Harriet,Harriet_09.wav,train/Harriet/Harriet_09_snr_5dB.wav,5 dB
+train,Harriet,Harriet_09.wav,train/Harriet/Harriet_09_snr_10dB.wav,10 dB
+train,Harriet,Harriet_09.wav,train/Harriet/Harriet_09_snr_15dB.wav,15 dB
+validation,Harriet,Harriet_12.wav,validation/Harriet/Harriet_12.wav,clean
+validation,Harriet,Harriet_14.wav,validation/Harriet/Harriet_14.wav,clean
+validation,Harriet,Harriet_10.wav,validation/Harriet/Harriet_10.wav,clean
+test,Harriet,Harriet_19.wav,test/Harriet/Harriet_19.wav,clean
+test,Harriet,Harriet_11.wav,test/Harriet/Harriet_11.wav,clean
+test,Harriet,Harriet_17.wav,test/Harriet/Harriet_17.wav,clean
+test,Harriet,Harriet_15.wav,test/Harriet/Harriet_15.wav,clean
+test,Harriet,Harriet_05.wav,test/Harriet/Harriet_05.wav,clean
+train,Jacek,Jacek_17.wav,train/Jacek/Jacek_17.wav,clean
+train,Jacek,Jacek_17.wav,train/Jacek/Jacek_17_snr_-5dB.wav,-5 dB
+train,Jacek,Jacek_17.wav,train/Jacek/Jacek_17_snr_0dB.wav,0 dB
+train,Jacek,Jacek_17.wav,train/Jacek/Jacek_17_snr_5dB.wav,5 dB
+train,Jacek,Jacek_17.wav,train/Jacek/Jacek_17_snr_10dB.wav,10 dB
+train,Jacek,Jacek_17.wav,train/Jacek/Jacek_17_snr_15dB.wav,15 dB
+train,Jacek,Jacek_12.wav,train/Jacek/Jacek_12.wav,clean
+train,Jacek,Jacek_12.wav,train/Jacek/Jacek_12_snr_-5dB.wav,-5 dB
+train,Jacek,Jacek_12.wav,train/Jacek/Jacek_12_snr_0dB.wav,0 dB
+train,Jacek,Jacek_12.wav,train/Jacek/Jacek_12_snr_5dB.wav,5 dB
+train,Jacek,Jacek_12.wav,train/Jacek/Jacek_12_snr_10dB.wav,10 dB
+train,Jacek,Jacek_12.wav,train/Jacek/Jacek_12_snr_15dB.wav,15 dB
+train,Jacek,Jacek_05.wav,train/Jacek/Jacek_05.wav,clean
+train,Jacek,Jacek_05.wav,train/Jacek/Jacek_05_snr_-5dB.wav,-5 dB
+train,Jacek,Jacek_05.wav,train/Jacek/Jacek_05_snr_0dB.wav,0 dB
+train,Jacek,Jacek_05.wav,train/Jacek/Jacek_05_snr_5dB.wav,5 dB
+train,Jacek,Jacek_05.wav,train/Jacek/Jacek_05_snr_10dB.wav,10 dB
+train,Jacek,Jacek_05.wav,train/Jacek/Jacek_05_snr_15dB.wav,15 dB
+train,Jacek,Jacek_18.wav,train/Jacek/Jacek_18.wav,clean
+train,Jacek,Jacek_18.wav,train/Jacek/Jacek_18_snr_-5dB.wav,-5 dB
+train,Jacek,Jacek_18.wav,train/Jacek/Jacek_18_snr_0dB.wav,0 dB
+train,Jacek,Jacek_18.wav,train/Jacek/Jacek_18_snr_5dB.wav,5 dB
+train,Jacek,Jacek_18.wav,train/Jacek/Jacek_18_snr_10dB.wav,10 dB
+train,Jacek,Jacek_18.wav,train/Jacek/Jacek_18_snr_15dB.wav,15 dB
+train,Jacek,Jacek_15.wav,train/Jacek/Jacek_15.wav,clean
+train,Jacek,Jacek_15.wav,train/Jacek/Jacek_15_snr_-5dB.wav,-5 dB
+train,Jacek,Jacek_15.wav,train/Jacek/Jacek_15_snr_0dB.wav,0 dB
+train,Jacek,Jacek_15.wav,train/Jacek/Jacek_15_snr_5dB.wav,5 dB
+train,Jacek,Jacek_15.wav,train/Jacek/Jacek_15_snr_10dB.wav,10 dB
+train,Jacek,Jacek_15.wav,train/Jacek/Jacek_15_snr_15dB.wav,15 dB
+train,Jacek,Jacek_19.wav,train/Jacek/Jacek_19.wav,clean
+train,Jacek,Jacek_19.wav,train/Jacek/Jacek_19_snr_-5dB.wav,-5 dB
+train,Jacek,Jacek_19.wav,train/Jacek/Jacek_19_snr_0dB.wav,0 dB
+train,Jacek,Jacek_19.wav,train/Jacek/Jacek_19_snr_5dB.wav,5 dB
+train,Jacek,Jacek_19.wav,train/Jacek/Jacek_19_snr_10dB.wav,10 dB
+train,Jacek,Jacek_19.wav,train/Jacek/Jacek_19_snr_15dB.wav,15 dB
+train,Jacek,Jacek_09.wav,train/Jacek/Jacek_09.wav,clean
+train,Jacek,Jacek_09.wav,train/Jacek/Jacek_09_snr_-5dB.wav,-5 dB
+train,Jacek,Jacek_09.wav,train/Jacek/Jacek_09_snr_0dB.wav,0 dB
+train,Jacek,Jacek_09.wav,train/Jacek/Jacek_09_snr_5dB.wav,5 dB
+train,Jacek,Jacek_09.wav,train/Jacek/Jacek_09_snr_10dB.wav,10 dB
+train,Jacek,Jacek_09.wav,train/Jacek/Jacek_09_snr_15dB.wav,15 dB
+train,Jacek,Jacek_20.wav,train/Jacek/Jacek_20.wav,clean
+train,Jacek,Jacek_20.wav,train/Jacek/Jacek_20_snr_-5dB.wav,-5 dB
+train,Jacek,Jacek_20.wav,train/Jacek/Jacek_20_snr_0dB.wav,0 dB
+train,Jacek,Jacek_20.wav,train/Jacek/Jacek_20_snr_5dB.wav,5 dB
+train,Jacek,Jacek_20.wav,train/Jacek/Jacek_20_snr_10dB.wav,10 dB
+train,Jacek,Jacek_20.wav,train/Jacek/Jacek_20_snr_15dB.wav,15 dB
+train,Jacek,Jacek_06.wav,train/Jacek/Jacek_06.wav,clean
+train,Jacek,Jacek_06.wav,train/Jacek/Jacek_06_snr_-5dB.wav,-5 dB
+train,Jacek,Jacek_06.wav,train/Jacek/Jacek_06_snr_0dB.wav,0 dB
+train,Jacek,Jacek_06.wav,train/Jacek/Jacek_06_snr_5dB.wav,5 dB
+train,Jacek,Jacek_06.wav,train/Jacek/Jacek_06_snr_10dB.wav,10 dB
+train,Jacek,Jacek_06.wav,train/Jacek/Jacek_06_snr_15dB.wav,15 dB
+train,Jacek,Jacek_01.wav,train/Jacek/Jacek_01.wav,clean
+train,Jacek,Jacek_01.wav,train/Jacek/Jacek_01_snr_-5dB.wav,-5 dB
+train,Jacek,Jacek_01.wav,train/Jacek/Jacek_01_snr_0dB.wav,0 dB
+train,Jacek,Jacek_01.wav,train/Jacek/Jacek_01_snr_5dB.wav,5 dB
+train,Jacek,Jacek_01.wav,train/Jacek/Jacek_01_snr_10dB.wav,10 dB
+train,Jacek,Jacek_01.wav,train/Jacek/Jacek_01_snr_15dB.wav,15 dB
+train,Jacek,Jacek_13.wav,train/Jacek/Jacek_13.wav,clean
+train,Jacek,Jacek_13.wav,train/Jacek/Jacek_13_snr_-5dB.wav,-5 dB
+train,Jacek,Jacek_13.wav,train/Jacek/Jacek_13_snr_0dB.wav,0 dB
+train,Jacek,Jacek_13.wav,train/Jacek/Jacek_13_snr_5dB.wav,5 dB
+train,Jacek,Jacek_13.wav,train/Jacek/Jacek_13_snr_10dB.wav,10 dB
+train,Jacek,Jacek_13.wav,train/Jacek/Jacek_13_snr_15dB.wav,15 dB
+train,Jacek,Jacek_02.wav,train/Jacek/Jacek_02.wav,clean
+train,Jacek,Jacek_02.wav,train/Jacek/Jacek_02_snr_-5dB.wav,-5 dB
+train,Jacek,Jacek_02.wav,train/Jacek/Jacek_02_snr_0dB.wav,0 dB
+train,Jacek,Jacek_02.wav,train/Jacek/Jacek_02_snr_5dB.wav,5 dB
+train,Jacek,Jacek_02.wav,train/Jacek/Jacek_02_snr_10dB.wav,10 dB
+train,Jacek,Jacek_02.wav,train/Jacek/Jacek_02_snr_15dB.wav,15 dB
+validation,Jacek,Jacek_16.wav,validation/Jacek/Jacek_16.wav,clean
+validation,Jacek,Jacek_11.wav,validation/Jacek/Jacek_11.wav,clean
+validation,Jacek,Jacek_14.wav,validation/Jacek/Jacek_14.wav,clean
+test,Jacek,Jacek_10.wav,test/Jacek/Jacek_10.wav,clean
+test,Jacek,Jacek_04.wav,test/Jacek/Jacek_04.wav,clean
+test,Jacek,Jacek_08.wav,test/Jacek/Jacek_08.wav,clean
+test,Jacek,Jacek_03.wav,test/Jacek/Jacek_03.wav,clean
+test,Jacek,Jacek_07.wav,test/Jacek/Jacek_07.wav,clean
+train,Jack,Jack_13.wav,train/Jack/Jack_13.wav,clean
+train,Jack,Jack_13.wav,train/Jack/Jack_13_snr_-5dB.wav,-5 dB
+train,Jack,Jack_13.wav,train/Jack/Jack_13_snr_0dB.wav,0 dB
+train,Jack,Jack_13.wav,train/Jack/Jack_13_snr_5dB.wav,5 dB
+train,Jack,Jack_13.wav,train/Jack/Jack_13_snr_10dB.wav,10 dB
+train,Jack,Jack_13.wav,train/Jack/Jack_13_snr_15dB.wav,15 dB
+train,Jack,Jack_20.wav,train/Jack/Jack_20.wav,clean
+train,Jack,Jack_20.wav,train/Jack/Jack_20_snr_-5dB.wav,-5 dB
+train,Jack,Jack_20.wav,train/Jack/Jack_20_snr_0dB.wav,0 dB
+train,Jack,Jack_20.wav,train/Jack/Jack_20_snr_5dB.wav,5 dB
+train,Jack,Jack_20.wav,train/Jack/Jack_20_snr_10dB.wav,10 dB
+train,Jack,Jack_20.wav,train/Jack/Jack_20_snr_15dB.wav,15 dB
+train,Jack,Jack_17.wav,train/Jack/Jack_17.wav,clean
+train,Jack,Jack_17.wav,train/Jack/Jack_17_snr_-5dB.wav,-5 dB
+train,Jack,Jack_17.wav,train/Jack/Jack_17_snr_0dB.wav,0 dB
+train,Jack,Jack_17.wav,train/Jack/Jack_17_snr_5dB.wav,5 dB
+train,Jack,Jack_17.wav,train/Jack/Jack_17_snr_10dB.wav,10 dB
+train,Jack,Jack_17.wav,train/Jack/Jack_17_snr_15dB.wav,15 dB
+train,Jack,Jack_18.wav,train/Jack/Jack_18.wav,clean
+train,Jack,Jack_18.wav,train/Jack/Jack_18_snr_-5dB.wav,-5 dB
+train,Jack,Jack_18.wav,train/Jack/Jack_18_snr_0dB.wav,0 dB
+train,Jack,Jack_18.wav,train/Jack/Jack_18_snr_5dB.wav,5 dB
+train,Jack,Jack_18.wav,train/Jack/Jack_18_snr_10dB.wav,10 dB
+train,Jack,Jack_18.wav,train/Jack/Jack_18_snr_15dB.wav,15 dB
+train,Jack,Jack_12.wav,train/Jack/Jack_12.wav,clean
+train,Jack,Jack_12.wav,train/Jack/Jack_12_snr_-5dB.wav,-5 dB
+train,Jack,Jack_12.wav,train/Jack/Jack_12_snr_0dB.wav,0 dB
+train,Jack,Jack_12.wav,train/Jack/Jack_12_snr_5dB.wav,5 dB
+train,Jack,Jack_12.wav,train/Jack/Jack_12_snr_10dB.wav,10 dB
+train,Jack,Jack_12.wav,train/Jack/Jack_12_snr_15dB.wav,15 dB
+train,Jack,Jack_05.wav,train/Jack/Jack_05.wav,clean
+train,Jack,Jack_05.wav,train/Jack/Jack_05_snr_-5dB.wav,-5 dB
+train,Jack,Jack_05.wav,train/Jack/Jack_05_snr_0dB.wav,0 dB
+train,Jack,Jack_05.wav,train/Jack/Jack_05_snr_5dB.wav,5 dB
+train,Jack,Jack_05.wav,train/Jack/Jack_05_snr_10dB.wav,10 dB
+train,Jack,Jack_05.wav,train/Jack/Jack_05_snr_15dB.wav,15 dB
+train,Jack,Jack_11.wav,train/Jack/Jack_11.wav,clean
+train,Jack,Jack_11.wav,train/Jack/Jack_11_snr_-5dB.wav,-5 dB
+train,Jack,Jack_11.wav,train/Jack/Jack_11_snr_0dB.wav,0 dB
+train,Jack,Jack_11.wav,train/Jack/Jack_11_snr_5dB.wav,5 dB
+train,Jack,Jack_11.wav,train/Jack/Jack_11_snr_10dB.wav,10 dB
+train,Jack,Jack_11.wav,train/Jack/Jack_11_snr_15dB.wav,15 dB
+train,Jack,Jack_03.wav,train/Jack/Jack_03.wav,clean
+train,Jack,Jack_03.wav,train/Jack/Jack_03_snr_-5dB.wav,-5 dB
+train,Jack,Jack_03.wav,train/Jack/Jack_03_snr_0dB.wav,0 dB
+train,Jack,Jack_03.wav,train/Jack/Jack_03_snr_5dB.wav,5 dB
+train,Jack,Jack_03.wav,train/Jack/Jack_03_snr_10dB.wav,10 dB
+train,Jack,Jack_03.wav,train/Jack/Jack_03_snr_15dB.wav,15 dB
+train,Jack,Jack_01.wav,train/Jack/Jack_01.wav,clean
+train,Jack,Jack_01.wav,train/Jack/Jack_01_snr_-5dB.wav,-5 dB
+train,Jack,Jack_01.wav,train/Jack/Jack_01_snr_0dB.wav,0 dB
+train,Jack,Jack_01.wav,train/Jack/Jack_01_snr_5dB.wav,5 dB
+train,Jack,Jack_01.wav,train/Jack/Jack_01_snr_10dB.wav,10 dB
+train,Jack,Jack_01.wav,train/Jack/Jack_01_snr_15dB.wav,15 dB
+train,Jack,Jack_10.wav,train/Jack/Jack_10.wav,clean
+train,Jack,Jack_10.wav,train/Jack/Jack_10_snr_-5dB.wav,-5 dB
+train,Jack,Jack_10.wav,train/Jack/Jack_10_snr_0dB.wav,0 dB
+train,Jack,Jack_10.wav,train/Jack/Jack_10_snr_5dB.wav,5 dB
+train,Jack,Jack_10.wav,train/Jack/Jack_10_snr_10dB.wav,10 dB
+train,Jack,Jack_10.wav,train/Jack/Jack_10_snr_15dB.wav,15 dB
+train,Jack,Jack_15.wav,train/Jack/Jack_15.wav,clean
+train,Jack,Jack_15.wav,train/Jack/Jack_15_snr_-5dB.wav,-5 dB
+train,Jack,Jack_15.wav,train/Jack/Jack_15_snr_0dB.wav,0 dB
+train,Jack,Jack_15.wav,train/Jack/Jack_15_snr_5dB.wav,5 dB
+train,Jack,Jack_15.wav,train/Jack/Jack_15_snr_10dB.wav,10 dB
+train,Jack,Jack_15.wav,train/Jack/Jack_15_snr_15dB.wav,15 dB
+train,Jack,Jack_08.wav,train/Jack/Jack_08.wav,clean
+train,Jack,Jack_08.wav,train/Jack/Jack_08_snr_-5dB.wav,-5 dB
+train,Jack,Jack_08.wav,train/Jack/Jack_08_snr_0dB.wav,0 dB
+train,Jack,Jack_08.wav,train/Jack/Jack_08_snr_5dB.wav,5 dB
+train,Jack,Jack_08.wav,train/Jack/Jack_08_snr_10dB.wav,10 dB
+train,Jack,Jack_08.wav,train/Jack/Jack_08_snr_15dB.wav,15 dB
+validation,Jack,Jack_07.wav,validation/Jack/Jack_07.wav,clean
+validation,Jack,Jack_19.wav,validation/Jack/Jack_19.wav,clean
+validation,Jack,Jack_14.wav,validation/Jack/Jack_14.wav,clean
+test,Jack,Jack_04.wav,test/Jack/Jack_04.wav,clean
+test,Jack,Jack_16.wav,test/Jack/Jack_16.wav,clean
+test,Jack,Jack_09.wav,test/Jack/Jack_09.wav,clean
+test,Jack,Jack_02.wav,test/Jack/Jack_02.wav,clean
+test,Jack,Jack_06.wav,test/Jack/Jack_06.wav,clean
+train,Jade,Jade_15.wav,train/Jade/Jade_15.wav,clean
+train,Jade,Jade_15.wav,train/Jade/Jade_15_snr_-5dB.wav,-5 dB
+train,Jade,Jade_15.wav,train/Jade/Jade_15_snr_0dB.wav,0 dB
+train,Jade,Jade_15.wav,train/Jade/Jade_15_snr_5dB.wav,5 dB
+train,Jade,Jade_15.wav,train/Jade/Jade_15_snr_10dB.wav,10 dB
+train,Jade,Jade_15.wav,train/Jade/Jade_15_snr_15dB.wav,15 dB
+train,Jade,Jade_06.wav,train/Jade/Jade_06.wav,clean
+train,Jade,Jade_06.wav,train/Jade/Jade_06_snr_-5dB.wav,-5 dB
+train,Jade,Jade_06.wav,train/Jade/Jade_06_snr_0dB.wav,0 dB
+train,Jade,Jade_06.wav,train/Jade/Jade_06_snr_5dB.wav,5 dB
+train,Jade,Jade_06.wav,train/Jade/Jade_06_snr_10dB.wav,10 dB
+train,Jade,Jade_06.wav,train/Jade/Jade_06_snr_15dB.wav,15 dB
+train,Jade,Jade_18.wav,train/Jade/Jade_18.wav,clean
+train,Jade,Jade_18.wav,train/Jade/Jade_18_snr_-5dB.wav,-5 dB
+train,Jade,Jade_18.wav,train/Jade/Jade_18_snr_0dB.wav,0 dB
+train,Jade,Jade_18.wav,train/Jade/Jade_18_snr_5dB.wav,5 dB
+train,Jade,Jade_18.wav,train/Jade/Jade_18_snr_10dB.wav,10 dB
+train,Jade,Jade_18.wav,train/Jade/Jade_18_snr_15dB.wav,15 dB
+train,Jade,Jade_09.wav,train/Jade/Jade_09.wav,clean
+train,Jade,Jade_09.wav,train/Jade/Jade_09_snr_-5dB.wav,-5 dB
+train,Jade,Jade_09.wav,train/Jade/Jade_09_snr_0dB.wav,0 dB
+train,Jade,Jade_09.wav,train/Jade/Jade_09_snr_5dB.wav,5 dB
+train,Jade,Jade_09.wav,train/Jade/Jade_09_snr_10dB.wav,10 dB
+train,Jade,Jade_09.wav,train/Jade/Jade_09_snr_15dB.wav,15 dB
+train,Jade,Jade_03.wav,train/Jade/Jade_03.wav,clean
+train,Jade,Jade_03.wav,train/Jade/Jade_03_snr_-5dB.wav,-5 dB
+train,Jade,Jade_03.wav,train/Jade/Jade_03_snr_0dB.wav,0 dB
+train,Jade,Jade_03.wav,train/Jade/Jade_03_snr_5dB.wav,5 dB
+train,Jade,Jade_03.wav,train/Jade/Jade_03_snr_10dB.wav,10 dB
+train,Jade,Jade_03.wav,train/Jade/Jade_03_snr_15dB.wav,15 dB
+train,Jade,Jade_19.wav,train/Jade/Jade_19.wav,clean
+train,Jade,Jade_19.wav,train/Jade/Jade_19_snr_-5dB.wav,-5 dB
+train,Jade,Jade_19.wav,train/Jade/Jade_19_snr_0dB.wav,0 dB
+train,Jade,Jade_19.wav,train/Jade/Jade_19_snr_5dB.wav,5 dB
+train,Jade,Jade_19.wav,train/Jade/Jade_19_snr_10dB.wav,10 dB
+train,Jade,Jade_19.wav,train/Jade/Jade_19_snr_15dB.wav,15 dB
+train,Jade,Jade_16.wav,train/Jade/Jade_16.wav,clean
+train,Jade,Jade_16.wav,train/Jade/Jade_16_snr_-5dB.wav,-5 dB
+train,Jade,Jade_16.wav,train/Jade/Jade_16_snr_0dB.wav,0 dB
+train,Jade,Jade_16.wav,train/Jade/Jade_16_snr_5dB.wav,5 dB
+train,Jade,Jade_16.wav,train/Jade/Jade_16_snr_10dB.wav,10 dB
+train,Jade,Jade_16.wav,train/Jade/Jade_16_snr_15dB.wav,15 dB
+train,Jade,Jade_05.wav,train/Jade/Jade_05.wav,clean
+train,Jade,Jade_05.wav,train/Jade/Jade_05_snr_-5dB.wav,-5 dB
+train,Jade,Jade_05.wav,train/Jade/Jade_05_snr_0dB.wav,0 dB
+train,Jade,Jade_05.wav,train/Jade/Jade_05_snr_5dB.wav,5 dB
+train,Jade,Jade_05.wav,train/Jade/Jade_05_snr_10dB.wav,10 dB
+train,Jade,Jade_05.wav,train/Jade/Jade_05_snr_15dB.wav,15 dB
+train,Jade,Jade_04.wav,train/Jade/Jade_04.wav,clean
+train,Jade,Jade_04.wav,train/Jade/Jade_04_snr_-5dB.wav,-5 dB
+train,Jade,Jade_04.wav,train/Jade/Jade_04_snr_0dB.wav,0 dB
+train,Jade,Jade_04.wav,train/Jade/Jade_04_snr_5dB.wav,5 dB
+train,Jade,Jade_04.wav,train/Jade/Jade_04_snr_10dB.wav,10 dB
+train,Jade,Jade_04.wav,train/Jade/Jade_04_snr_15dB.wav,15 dB
+train,Jade,Jade_01.wav,train/Jade/Jade_01.wav,clean
+train,Jade,Jade_01.wav,train/Jade/Jade_01_snr_-5dB.wav,-5 dB
+train,Jade,Jade_01.wav,train/Jade/Jade_01_snr_0dB.wav,0 dB
+train,Jade,Jade_01.wav,train/Jade/Jade_01_snr_5dB.wav,5 dB
+train,Jade,Jade_01.wav,train/Jade/Jade_01_snr_10dB.wav,10 dB
+train,Jade,Jade_01.wav,train/Jade/Jade_01_snr_15dB.wav,15 dB
+train,Jade,Jade_20.wav,train/Jade/Jade_20.wav,clean
+train,Jade,Jade_20.wav,train/Jade/Jade_20_snr_-5dB.wav,-5 dB
+train,Jade,Jade_20.wav,train/Jade/Jade_20_snr_0dB.wav,0 dB
+train,Jade,Jade_20.wav,train/Jade/Jade_20_snr_5dB.wav,5 dB
+train,Jade,Jade_20.wav,train/Jade/Jade_20_snr_10dB.wav,10 dB
+train,Jade,Jade_20.wav,train/Jade/Jade_20_snr_15dB.wav,15 dB
+train,Jade,Jade_11.wav,train/Jade/Jade_11.wav,clean
+train,Jade,Jade_11.wav,train/Jade/Jade_11_snr_-5dB.wav,-5 dB
+train,Jade,Jade_11.wav,train/Jade/Jade_11_snr_0dB.wav,0 dB
+train,Jade,Jade_11.wav,train/Jade/Jade_11_snr_5dB.wav,5 dB
+train,Jade,Jade_11.wav,train/Jade/Jade_11_snr_10dB.wav,10 dB
+train,Jade,Jade_11.wav,train/Jade/Jade_11_snr_15dB.wav,15 dB
+validation,Jade,Jade_08.wav,validation/Jade/Jade_08.wav,clean
+validation,Jade,Jade_13.wav,validation/Jade/Jade_13.wav,clean
+validation,Jade,Jade_10.wav,validation/Jade/Jade_10.wav,clean
+test,Jade,Jade_12.wav,test/Jade/Jade_12.wav,clean
+test,Jade,Jade_17.wav,test/Jade/Jade_17.wav,clean
+test,Jade,Jade_07.wav,test/Jade/Jade_07.wav,clean
+test,Jade,Jade_02.wav,test/Jade/Jade_02.wav,clean
+test,Jade,Jade_14.wav,test/Jade/Jade_14.wav,clean
+train,Joshua,Joshua_01.wav,train/Joshua/Joshua_01.wav,clean
+train,Joshua,Joshua_01.wav,train/Joshua/Joshua_01_snr_-5dB.wav,-5 dB
+train,Joshua,Joshua_01.wav,train/Joshua/Joshua_01_snr_0dB.wav,0 dB
+train,Joshua,Joshua_01.wav,train/Joshua/Joshua_01_snr_5dB.wav,5 dB
+train,Joshua,Joshua_01.wav,train/Joshua/Joshua_01_snr_10dB.wav,10 dB
+train,Joshua,Joshua_01.wav,train/Joshua/Joshua_01_snr_15dB.wav,15 dB
+train,Joshua,Joshua_11.wav,train/Joshua/Joshua_11.wav,clean
+train,Joshua,Joshua_11.wav,train/Joshua/Joshua_11_snr_-5dB.wav,-5 dB
+train,Joshua,Joshua_11.wav,train/Joshua/Joshua_11_snr_0dB.wav,0 dB
+train,Joshua,Joshua_11.wav,train/Joshua/Joshua_11_snr_5dB.wav,5 dB
+train,Joshua,Joshua_11.wav,train/Joshua/Joshua_11_snr_10dB.wav,10 dB
+train,Joshua,Joshua_11.wav,train/Joshua/Joshua_11_snr_15dB.wav,15 dB
+train,Joshua,Joshua_18.wav,train/Joshua/Joshua_18.wav,clean
+train,Joshua,Joshua_18.wav,train/Joshua/Joshua_18_snr_-5dB.wav,-5 dB
+train,Joshua,Joshua_18.wav,train/Joshua/Joshua_18_snr_0dB.wav,0 dB
+train,Joshua,Joshua_18.wav,train/Joshua/Joshua_18_snr_5dB.wav,5 dB
+train,Joshua,Joshua_18.wav,train/Joshua/Joshua_18_snr_10dB.wav,10 dB
+train,Joshua,Joshua_18.wav,train/Joshua/Joshua_18_snr_15dB.wav,15 dB
+train,Joshua,Joshua_09.wav,train/Joshua/Joshua_09.wav,clean
+train,Joshua,Joshua_09.wav,train/Joshua/Joshua_09_snr_-5dB.wav,-5 dB
+train,Joshua,Joshua_09.wav,train/Joshua/Joshua_09_snr_0dB.wav,0 dB
+train,Joshua,Joshua_09.wav,train/Joshua/Joshua_09_snr_5dB.wav,5 dB
+train,Joshua,Joshua_09.wav,train/Joshua/Joshua_09_snr_10dB.wav,10 dB
+train,Joshua,Joshua_09.wav,train/Joshua/Joshua_09_snr_15dB.wav,15 dB
+train,Joshua,Joshua_16.wav,train/Joshua/Joshua_16.wav,clean
+train,Joshua,Joshua_16.wav,train/Joshua/Joshua_16_snr_-5dB.wav,-5 dB
+train,Joshua,Joshua_16.wav,train/Joshua/Joshua_16_snr_0dB.wav,0 dB
+train,Joshua,Joshua_16.wav,train/Joshua/Joshua_16_snr_5dB.wav,5 dB
+train,Joshua,Joshua_16.wav,train/Joshua/Joshua_16_snr_10dB.wav,10 dB
+train,Joshua,Joshua_16.wav,train/Joshua/Joshua_16_snr_15dB.wav,15 dB
+train,Joshua,Joshua_13.wav,train/Joshua/Joshua_13.wav,clean
+train,Joshua,Joshua_13.wav,train/Joshua/Joshua_13_snr_-5dB.wav,-5 dB
+train,Joshua,Joshua_13.wav,train/Joshua/Joshua_13_snr_0dB.wav,0 dB
+train,Joshua,Joshua_13.wav,train/Joshua/Joshua_13_snr_5dB.wav,5 dB
+train,Joshua,Joshua_13.wav,train/Joshua/Joshua_13_snr_10dB.wav,10 dB
+train,Joshua,Joshua_13.wav,train/Joshua/Joshua_13_snr_15dB.wav,15 dB
+train,Joshua,Joshua_20.wav,train/Joshua/Joshua_20.wav,clean
+train,Joshua,Joshua_20.wav,train/Joshua/Joshua_20_snr_-5dB.wav,-5 dB
+train,Joshua,Joshua_20.wav,train/Joshua/Joshua_20_snr_0dB.wav,0 dB
+train,Joshua,Joshua_20.wav,train/Joshua/Joshua_20_snr_5dB.wav,5 dB
+train,Joshua,Joshua_20.wav,train/Joshua/Joshua_20_snr_10dB.wav,10 dB
+train,Joshua,Joshua_20.wav,train/Joshua/Joshua_20_snr_15dB.wav,15 dB
+train,Joshua,Joshua_19.wav,train/Joshua/Joshua_19.wav,clean
+train,Joshua,Joshua_19.wav,train/Joshua/Joshua_19_snr_-5dB.wav,-5 dB
+train,Joshua,Joshua_19.wav,train/Joshua/Joshua_19_snr_0dB.wav,0 dB
+train,Joshua,Joshua_19.wav,train/Joshua/Joshua_19_snr_5dB.wav,5 dB
+train,Joshua,Joshua_19.wav,train/Joshua/Joshua_19_snr_10dB.wav,10 dB
+train,Joshua,Joshua_19.wav,train/Joshua/Joshua_19_snr_15dB.wav,15 dB
+train,Joshua,Joshua_04.wav,train/Joshua/Joshua_04.wav,clean
+train,Joshua,Joshua_04.wav,train/Joshua/Joshua_04_snr_-5dB.wav,-5 dB
+train,Joshua,Joshua_04.wav,train/Joshua/Joshua_04_snr_0dB.wav,0 dB
+train,Joshua,Joshua_04.wav,train/Joshua/Joshua_04_snr_5dB.wav,5 dB
+train,Joshua,Joshua_04.wav,train/Joshua/Joshua_04_snr_10dB.wav,10 dB
+train,Joshua,Joshua_04.wav,train/Joshua/Joshua_04_snr_15dB.wav,15 dB
+train,Joshua,Joshua_12.wav,train/Joshua/Joshua_12.wav,clean
+train,Joshua,Joshua_12.wav,train/Joshua/Joshua_12_snr_-5dB.wav,-5 dB
+train,Joshua,Joshua_12.wav,train/Joshua/Joshua_12_snr_0dB.wav,0 dB
+train,Joshua,Joshua_12.wav,train/Joshua/Joshua_12_snr_5dB.wav,5 dB
+train,Joshua,Joshua_12.wav,train/Joshua/Joshua_12_snr_10dB.wav,10 dB
+train,Joshua,Joshua_12.wav,train/Joshua/Joshua_12_snr_15dB.wav,15 dB
+train,Joshua,Joshua_07.wav,train/Joshua/Joshua_07.wav,clean
+train,Joshua,Joshua_07.wav,train/Joshua/Joshua_07_snr_-5dB.wav,-5 dB
+train,Joshua,Joshua_07.wav,train/Joshua/Joshua_07_snr_0dB.wav,0 dB
+train,Joshua,Joshua_07.wav,train/Joshua/Joshua_07_snr_5dB.wav,5 dB
+train,Joshua,Joshua_07.wav,train/Joshua/Joshua_07_snr_10dB.wav,10 dB
+train,Joshua,Joshua_07.wav,train/Joshua/Joshua_07_snr_15dB.wav,15 dB
+train,Joshua,Joshua_10.wav,train/Joshua/Joshua_10.wav,clean
+train,Joshua,Joshua_10.wav,train/Joshua/Joshua_10_snr_-5dB.wav,-5 dB
+train,Joshua,Joshua_10.wav,train/Joshua/Joshua_10_snr_0dB.wav,0 dB
+train,Joshua,Joshua_10.wav,train/Joshua/Joshua_10_snr_5dB.wav,5 dB
+train,Joshua,Joshua_10.wav,train/Joshua/Joshua_10_snr_10dB.wav,10 dB
+train,Joshua,Joshua_10.wav,train/Joshua/Joshua_10_snr_15dB.wav,15 dB
+validation,Joshua,Joshua_02.wav,validation/Joshua/Joshua_02.wav,clean
+validation,Joshua,Joshua_15.wav,validation/Joshua/Joshua_15.wav,clean
+validation,Joshua,Joshua_03.wav,validation/Joshua/Joshua_03.wav,clean
+test,Joshua,Joshua_06.wav,test/Joshua/Joshua_06.wav,clean
+test,Joshua,Joshua_14.wav,test/Joshua/Joshua_14.wav,clean
+test,Joshua,Joshua_17.wav,test/Joshua/Joshua_17.wav,clean
+test,Joshua,Joshua_08.wav,test/Joshua/Joshua_08.wav,clean
+test,Joshua,Joshua_05.wav,test/Joshua/Joshua_05.wav,clean
+train,Mason,Mason_06.wav,train/Mason/Mason_06.wav,clean
+train,Mason,Mason_06.wav,train/Mason/Mason_06_snr_-5dB.wav,-5 dB
+train,Mason,Mason_06.wav,train/Mason/Mason_06_snr_0dB.wav,0 dB
+train,Mason,Mason_06.wav,train/Mason/Mason_06_snr_5dB.wav,5 dB
+train,Mason,Mason_06.wav,train/Mason/Mason_06_snr_10dB.wav,10 dB
+train,Mason,Mason_06.wav,train/Mason/Mason_06_snr_15dB.wav,15 dB
+train,Mason,Mason_20.wav,train/Mason/Mason_20.wav,clean
+train,Mason,Mason_20.wav,train/Mason/Mason_20_snr_-5dB.wav,-5 dB
+train,Mason,Mason_20.wav,train/Mason/Mason_20_snr_0dB.wav,0 dB
+train,Mason,Mason_20.wav,train/Mason/Mason_20_snr_5dB.wav,5 dB
+train,Mason,Mason_20.wav,train/Mason/Mason_20_snr_10dB.wav,10 dB
+train,Mason,Mason_20.wav,train/Mason/Mason_20_snr_15dB.wav,15 dB
+train,Mason,Mason_04.wav,train/Mason/Mason_04.wav,clean
+train,Mason,Mason_04.wav,train/Mason/Mason_04_snr_-5dB.wav,-5 dB
+train,Mason,Mason_04.wav,train/Mason/Mason_04_snr_0dB.wav,0 dB
+train,Mason,Mason_04.wav,train/Mason/Mason_04_snr_5dB.wav,5 dB
+train,Mason,Mason_04.wav,train/Mason/Mason_04_snr_10dB.wav,10 dB
+train,Mason,Mason_04.wav,train/Mason/Mason_04_snr_15dB.wav,15 dB
+train,Mason,Mason_18.wav,train/Mason/Mason_18.wav,clean
+train,Mason,Mason_18.wav,train/Mason/Mason_18_snr_-5dB.wav,-5 dB
+train,Mason,Mason_18.wav,train/Mason/Mason_18_snr_0dB.wav,0 dB
+train,Mason,Mason_18.wav,train/Mason/Mason_18_snr_5dB.wav,5 dB
+train,Mason,Mason_18.wav,train/Mason/Mason_18_snr_10dB.wav,10 dB
+train,Mason,Mason_18.wav,train/Mason/Mason_18_snr_15dB.wav,15 dB
+train,Mason,Mason_09.wav,train/Mason/Mason_09.wav,clean
+train,Mason,Mason_09.wav,train/Mason/Mason_09_snr_-5dB.wav,-5 dB
+train,Mason,Mason_09.wav,train/Mason/Mason_09_snr_0dB.wav,0 dB
+train,Mason,Mason_09.wav,train/Mason/Mason_09_snr_5dB.wav,5 dB
+train,Mason,Mason_09.wav,train/Mason/Mason_09_snr_10dB.wav,10 dB
+train,Mason,Mason_09.wav,train/Mason/Mason_09_snr_15dB.wav,15 dB
+train,Mason,Mason_01.wav,train/Mason/Mason_01.wav,clean
+train,Mason,Mason_01.wav,train/Mason/Mason_01_snr_-5dB.wav,-5 dB
+train,Mason,Mason_01.wav,train/Mason/Mason_01_snr_0dB.wav,0 dB
+train,Mason,Mason_01.wav,train/Mason/Mason_01_snr_5dB.wav,5 dB
+train,Mason,Mason_01.wav,train/Mason/Mason_01_snr_10dB.wav,10 dB
+train,Mason,Mason_01.wav,train/Mason/Mason_01_snr_15dB.wav,15 dB
+train,Mason,Mason_19.wav,train/Mason/Mason_19.wav,clean
+train,Mason,Mason_19.wav,train/Mason/Mason_19_snr_-5dB.wav,-5 dB
+train,Mason,Mason_19.wav,train/Mason/Mason_19_snr_0dB.wav,0 dB
+train,Mason,Mason_19.wav,train/Mason/Mason_19_snr_5dB.wav,5 dB
+train,Mason,Mason_19.wav,train/Mason/Mason_19_snr_10dB.wav,10 dB
+train,Mason,Mason_19.wav,train/Mason/Mason_19_snr_15dB.wav,15 dB
+train,Mason,Mason_11.wav,train/Mason/Mason_11.wav,clean
+train,Mason,Mason_11.wav,train/Mason/Mason_11_snr_-5dB.wav,-5 dB
+train,Mason,Mason_11.wav,train/Mason/Mason_11_snr_0dB.wav,0 dB
+train,Mason,Mason_11.wav,train/Mason/Mason_11_snr_5dB.wav,5 dB
+train,Mason,Mason_11.wav,train/Mason/Mason_11_snr_10dB.wav,10 dB
+train,Mason,Mason_11.wav,train/Mason/Mason_11_snr_15dB.wav,15 dB
+train,Mason,Mason_08.wav,train/Mason/Mason_08.wav,clean
+train,Mason,Mason_08.wav,train/Mason/Mason_08_snr_-5dB.wav,-5 dB
+train,Mason,Mason_08.wav,train/Mason/Mason_08_snr_0dB.wav,0 dB
+train,Mason,Mason_08.wav,train/Mason/Mason_08_snr_5dB.wav,5 dB
+train,Mason,Mason_08.wav,train/Mason/Mason_08_snr_10dB.wav,10 dB
+train,Mason,Mason_08.wav,train/Mason/Mason_08_snr_15dB.wav,15 dB
+train,Mason,Mason_02.wav,train/Mason/Mason_02.wav,clean
+train,Mason,Mason_02.wav,train/Mason/Mason_02_snr_-5dB.wav,-5 dB
+train,Mason,Mason_02.wav,train/Mason/Mason_02_snr_0dB.wav,0 dB
+train,Mason,Mason_02.wav,train/Mason/Mason_02_snr_5dB.wav,5 dB
+train,Mason,Mason_02.wav,train/Mason/Mason_02_snr_10dB.wav,10 dB
+train,Mason,Mason_02.wav,train/Mason/Mason_02_snr_15dB.wav,15 dB
+train,Mason,Mason_07.wav,train/Mason/Mason_07.wav,clean
+train,Mason,Mason_07.wav,train/Mason/Mason_07_snr_-5dB.wav,-5 dB
+train,Mason,Mason_07.wav,train/Mason/Mason_07_snr_0dB.wav,0 dB
+train,Mason,Mason_07.wav,train/Mason/Mason_07_snr_5dB.wav,5 dB
+train,Mason,Mason_07.wav,train/Mason/Mason_07_snr_10dB.wav,10 dB
+train,Mason,Mason_07.wav,train/Mason/Mason_07_snr_15dB.wav,15 dB
+train,Mason,Mason_03.wav,train/Mason/Mason_03.wav,clean
+train,Mason,Mason_03.wav,train/Mason/Mason_03_snr_-5dB.wav,-5 dB
+train,Mason,Mason_03.wav,train/Mason/Mason_03_snr_0dB.wav,0 dB
+train,Mason,Mason_03.wav,train/Mason/Mason_03_snr_5dB.wav,5 dB
+train,Mason,Mason_03.wav,train/Mason/Mason_03_snr_10dB.wav,10 dB
+train,Mason,Mason_03.wav,train/Mason/Mason_03_snr_15dB.wav,15 dB
+validation,Mason,Mason_16.wav,validation/Mason/Mason_16.wav,clean
+validation,Mason,Mason_17.wav,validation/Mason/Mason_17.wav,clean
+validation,Mason,Mason_10.wav,validation/Mason/Mason_10.wav,clean
+test,Mason,Mason_14.wav,test/Mason/Mason_14.wav,clean
+test,Mason,Mason_12.wav,test/Mason/Mason_12.wav,clean
+test,Mason,Mason_15.wav,test/Mason/Mason_15.wav,clean
+test,Mason,Mason_13.wav,test/Mason/Mason_13.wav,clean
+test,Mason,Mason_05.wav,test/Mason/Mason_05.wav,clean
+train,Nathan,Nathan_13.wav,train/Nathan/Nathan_13.wav,clean
+train,Nathan,Nathan_13.wav,train/Nathan/Nathan_13_snr_-5dB.wav,-5 dB
+train,Nathan,Nathan_13.wav,train/Nathan/Nathan_13_snr_0dB.wav,0 dB
+train,Nathan,Nathan_13.wav,train/Nathan/Nathan_13_snr_5dB.wav,5 dB
+train,Nathan,Nathan_13.wav,train/Nathan/Nathan_13_snr_10dB.wav,10 dB
+train,Nathan,Nathan_13.wav,train/Nathan/Nathan_13_snr_15dB.wav,15 dB
+train,Nathan,Nathan_08.wav,train/Nathan/Nathan_08.wav,clean
+train,Nathan,Nathan_08.wav,train/Nathan/Nathan_08_snr_-5dB.wav,-5 dB
+train,Nathan,Nathan_08.wav,train/Nathan/Nathan_08_snr_0dB.wav,0 dB
+train,Nathan,Nathan_08.wav,train/Nathan/Nathan_08_snr_5dB.wav,5 dB
+train,Nathan,Nathan_08.wav,train/Nathan/Nathan_08_snr_10dB.wav,10 dB
+train,Nathan,Nathan_08.wav,train/Nathan/Nathan_08_snr_15dB.wav,15 dB
+train,Nathan,Nathan_04.wav,train/Nathan/Nathan_04.wav,clean
+train,Nathan,Nathan_04.wav,train/Nathan/Nathan_04_snr_-5dB.wav,-5 dB
+train,Nathan,Nathan_04.wav,train/Nathan/Nathan_04_snr_0dB.wav,0 dB
+train,Nathan,Nathan_04.wav,train/Nathan/Nathan_04_snr_5dB.wav,5 dB
+train,Nathan,Nathan_04.wav,train/Nathan/Nathan_04_snr_10dB.wav,10 dB
+train,Nathan,Nathan_04.wav,train/Nathan/Nathan_04_snr_15dB.wav,15 dB
+train,Nathan,Nathan_10.wav,train/Nathan/Nathan_10.wav,clean
+train,Nathan,Nathan_10.wav,train/Nathan/Nathan_10_snr_-5dB.wav,-5 dB
+train,Nathan,Nathan_10.wav,train/Nathan/Nathan_10_snr_0dB.wav,0 dB
+train,Nathan,Nathan_10.wav,train/Nathan/Nathan_10_snr_5dB.wav,5 dB
+train,Nathan,Nathan_10.wav,train/Nathan/Nathan_10_snr_10dB.wav,10 dB
+train,Nathan,Nathan_10.wav,train/Nathan/Nathan_10_snr_15dB.wav,15 dB
+train,Nathan,Nathan_11.wav,train/Nathan/Nathan_11.wav,clean
+train,Nathan,Nathan_11.wav,train/Nathan/Nathan_11_snr_-5dB.wav,-5 dB
+train,Nathan,Nathan_11.wav,train/Nathan/Nathan_11_snr_0dB.wav,0 dB
+train,Nathan,Nathan_11.wav,train/Nathan/Nathan_11_snr_5dB.wav,5 dB
+train,Nathan,Nathan_11.wav,train/Nathan/Nathan_11_snr_10dB.wav,10 dB
+train,Nathan,Nathan_11.wav,train/Nathan/Nathan_11_snr_15dB.wav,15 dB
+train,Nathan,Nathan_14.wav,train/Nathan/Nathan_14.wav,clean
+train,Nathan,Nathan_14.wav,train/Nathan/Nathan_14_snr_-5dB.wav,-5 dB
+train,Nathan,Nathan_14.wav,train/Nathan/Nathan_14_snr_0dB.wav,0 dB
+train,Nathan,Nathan_14.wav,train/Nathan/Nathan_14_snr_5dB.wav,5 dB
+train,Nathan,Nathan_14.wav,train/Nathan/Nathan_14_snr_10dB.wav,10 dB
+train,Nathan,Nathan_14.wav,train/Nathan/Nathan_14_snr_15dB.wav,15 dB
+train,Nathan,Nathan_20.wav,train/Nathan/Nathan_20.wav,clean
+train,Nathan,Nathan_20.wav,train/Nathan/Nathan_20_snr_-5dB.wav,-5 dB
+train,Nathan,Nathan_20.wav,train/Nathan/Nathan_20_snr_0dB.wav,0 dB
+train,Nathan,Nathan_20.wav,train/Nathan/Nathan_20_snr_5dB.wav,5 dB
+train,Nathan,Nathan_20.wav,train/Nathan/Nathan_20_snr_10dB.wav,10 dB
+train,Nathan,Nathan_20.wav,train/Nathan/Nathan_20_snr_15dB.wav,15 dB
+train,Nathan,Nathan_01.wav,train/Nathan/Nathan_01.wav,clean
+train,Nathan,Nathan_01.wav,train/Nathan/Nathan_01_snr_-5dB.wav,-5 dB
+train,Nathan,Nathan_01.wav,train/Nathan/Nathan_01_snr_0dB.wav,0 dB
+train,Nathan,Nathan_01.wav,train/Nathan/Nathan_01_snr_5dB.wav,5 dB
+train,Nathan,Nathan_01.wav,train/Nathan/Nathan_01_snr_10dB.wav,10 dB
+train,Nathan,Nathan_01.wav,train/Nathan/Nathan_01_snr_15dB.wav,15 dB
+train,Nathan,Nathan_09.wav,train/Nathan/Nathan_09.wav,clean
+train,Nathan,Nathan_09.wav,train/Nathan/Nathan_09_snr_-5dB.wav,-5 dB
+train,Nathan,Nathan_09.wav,train/Nathan/Nathan_09_snr_0dB.wav,0 dB
+train,Nathan,Nathan_09.wav,train/Nathan/Nathan_09_snr_5dB.wav,5 dB
+train,Nathan,Nathan_09.wav,train/Nathan/Nathan_09_snr_10dB.wav,10 dB
+train,Nathan,Nathan_09.wav,train/Nathan/Nathan_09_snr_15dB.wav,15 dB
+train,Nathan,Nathan_19.wav,train/Nathan/Nathan_19.wav,clean
+train,Nathan,Nathan_19.wav,train/Nathan/Nathan_19_snr_-5dB.wav,-5 dB
+train,Nathan,Nathan_19.wav,train/Nathan/Nathan_19_snr_0dB.wav,0 dB
+train,Nathan,Nathan_19.wav,train/Nathan/Nathan_19_snr_5dB.wav,5 dB
+train,Nathan,Nathan_19.wav,train/Nathan/Nathan_19_snr_10dB.wav,10 dB
+train,Nathan,Nathan_19.wav,train/Nathan/Nathan_19_snr_15dB.wav,15 dB
+train,Nathan,Nathan_06.wav,train/Nathan/Nathan_06.wav,clean
+train,Nathan,Nathan_06.wav,train/Nathan/Nathan_06_snr_-5dB.wav,-5 dB
+train,Nathan,Nathan_06.wav,train/Nathan/Nathan_06_snr_0dB.wav,0 dB
+train,Nathan,Nathan_06.wav,train/Nathan/Nathan_06_snr_5dB.wav,5 dB
+train,Nathan,Nathan_06.wav,train/Nathan/Nathan_06_snr_10dB.wav,10 dB
+train,Nathan,Nathan_06.wav,train/Nathan/Nathan_06_snr_15dB.wav,15 dB
+train,Nathan,Nathan_12.wav,train/Nathan/Nathan_12.wav,clean
+train,Nathan,Nathan_12.wav,train/Nathan/Nathan_12_snr_-5dB.wav,-5 dB
+train,Nathan,Nathan_12.wav,train/Nathan/Nathan_12_snr_0dB.wav,0 dB
+train,Nathan,Nathan_12.wav,train/Nathan/Nathan_12_snr_5dB.wav,5 dB
+train,Nathan,Nathan_12.wav,train/Nathan/Nathan_12_snr_10dB.wav,10 dB
+train,Nathan,Nathan_12.wav,train/Nathan/Nathan_12_snr_15dB.wav,15 dB
+validation,Nathan,Nathan_15.wav,validation/Nathan/Nathan_15.wav,clean
+validation,Nathan,Nathan_07.wav,validation/Nathan/Nathan_07.wav,clean
+validation,Nathan,Nathan_02.wav,validation/Nathan/Nathan_02.wav,clean
+test,Nathan,Nathan_17.wav,test/Nathan/Nathan_17.wav,clean
+test,Nathan,Nathan_18.wav,test/Nathan/Nathan_18.wav,clean
+test,Nathan,Nathan_03.wav,test/Nathan/Nathan_03.wav,clean
+test,Nathan,Nathan_16.wav,test/Nathan/Nathan_16.wav,clean
+test,Nathan,Nathan_05.wav,test/Nathan/Nathan_05.wav,clean
+train,Nicholas,Nicholas_12.wav,train/Nicholas/Nicholas_12.wav,clean
+train,Nicholas,Nicholas_12.wav,train/Nicholas/Nicholas_12_snr_-5dB.wav,-5 dB
+train,Nicholas,Nicholas_12.wav,train/Nicholas/Nicholas_12_snr_0dB.wav,0 dB
+train,Nicholas,Nicholas_12.wav,train/Nicholas/Nicholas_12_snr_5dB.wav,5 dB
+train,Nicholas,Nicholas_12.wav,train/Nicholas/Nicholas_12_snr_10dB.wav,10 dB
+train,Nicholas,Nicholas_12.wav,train/Nicholas/Nicholas_12_snr_15dB.wav,15 dB
+train,Nicholas,Nicholas_05.wav,train/Nicholas/Nicholas_05.wav,clean
+train,Nicholas,Nicholas_05.wav,train/Nicholas/Nicholas_05_snr_-5dB.wav,-5 dB
+train,Nicholas,Nicholas_05.wav,train/Nicholas/Nicholas_05_snr_0dB.wav,0 dB
+train,Nicholas,Nicholas_05.wav,train/Nicholas/Nicholas_05_snr_5dB.wav,5 dB
+train,Nicholas,Nicholas_05.wav,train/Nicholas/Nicholas_05_snr_10dB.wav,10 dB
+train,Nicholas,Nicholas_05.wav,train/Nicholas/Nicholas_05_snr_15dB.wav,15 dB
+train,Nicholas,Nicholas_20.wav,train/Nicholas/Nicholas_20.wav,clean
+train,Nicholas,Nicholas_20.wav,train/Nicholas/Nicholas_20_snr_-5dB.wav,-5 dB
+train,Nicholas,Nicholas_20.wav,train/Nicholas/Nicholas_20_snr_0dB.wav,0 dB
+train,Nicholas,Nicholas_20.wav,train/Nicholas/Nicholas_20_snr_5dB.wav,5 dB
+train,Nicholas,Nicholas_20.wav,train/Nicholas/Nicholas_20_snr_10dB.wav,10 dB
+train,Nicholas,Nicholas_20.wav,train/Nicholas/Nicholas_20_snr_15dB.wav,15 dB
+train,Nicholas,Nicholas_18.wav,train/Nicholas/Nicholas_18.wav,clean
+train,Nicholas,Nicholas_18.wav,train/Nicholas/Nicholas_18_snr_-5dB.wav,-5 dB
+train,Nicholas,Nicholas_18.wav,train/Nicholas/Nicholas_18_snr_0dB.wav,0 dB
+train,Nicholas,Nicholas_18.wav,train/Nicholas/Nicholas_18_snr_5dB.wav,5 dB
+train,Nicholas,Nicholas_18.wav,train/Nicholas/Nicholas_18_snr_10dB.wav,10 dB
+train,Nicholas,Nicholas_18.wav,train/Nicholas/Nicholas_18_snr_15dB.wav,15 dB
+train,Nicholas,Nicholas_09.wav,train/Nicholas/Nicholas_09.wav,clean
+train,Nicholas,Nicholas_09.wav,train/Nicholas/Nicholas_09_snr_-5dB.wav,-5 dB
+train,Nicholas,Nicholas_09.wav,train/Nicholas/Nicholas_09_snr_0dB.wav,0 dB
+train,Nicholas,Nicholas_09.wav,train/Nicholas/Nicholas_09_snr_5dB.wav,5 dB
+train,Nicholas,Nicholas_09.wav,train/Nicholas/Nicholas_09_snr_10dB.wav,10 dB
+train,Nicholas,Nicholas_09.wav,train/Nicholas/Nicholas_09_snr_15dB.wav,15 dB
+train,Nicholas,Nicholas_16.wav,train/Nicholas/Nicholas_16.wav,clean
+train,Nicholas,Nicholas_16.wav,train/Nicholas/Nicholas_16_snr_-5dB.wav,-5 dB
+train,Nicholas,Nicholas_16.wav,train/Nicholas/Nicholas_16_snr_0dB.wav,0 dB
+train,Nicholas,Nicholas_16.wav,train/Nicholas/Nicholas_16_snr_5dB.wav,5 dB
+train,Nicholas,Nicholas_16.wav,train/Nicholas/Nicholas_16_snr_10dB.wav,10 dB
+train,Nicholas,Nicholas_16.wav,train/Nicholas/Nicholas_16_snr_15dB.wav,15 dB
+train,Nicholas,Nicholas_11.wav,train/Nicholas/Nicholas_11.wav,clean
+train,Nicholas,Nicholas_11.wav,train/Nicholas/Nicholas_11_snr_-5dB.wav,-5 dB
+train,Nicholas,Nicholas_11.wav,train/Nicholas/Nicholas_11_snr_0dB.wav,0 dB
+train,Nicholas,Nicholas_11.wav,train/Nicholas/Nicholas_11_snr_5dB.wav,5 dB
+train,Nicholas,Nicholas_11.wav,train/Nicholas/Nicholas_11_snr_10dB.wav,10 dB
+train,Nicholas,Nicholas_11.wav,train/Nicholas/Nicholas_11_snr_15dB.wav,15 dB
+train,Nicholas,Nicholas_07.wav,train/Nicholas/Nicholas_07.wav,clean
+train,Nicholas,Nicholas_07.wav,train/Nicholas/Nicholas_07_snr_-5dB.wav,-5 dB
+train,Nicholas,Nicholas_07.wav,train/Nicholas/Nicholas_07_snr_0dB.wav,0 dB
+train,Nicholas,Nicholas_07.wav,train/Nicholas/Nicholas_07_snr_5dB.wav,5 dB
+train,Nicholas,Nicholas_07.wav,train/Nicholas/Nicholas_07_snr_10dB.wav,10 dB
+train,Nicholas,Nicholas_07.wav,train/Nicholas/Nicholas_07_snr_15dB.wav,15 dB
+train,Nicholas,Nicholas_02.wav,train/Nicholas/Nicholas_02.wav,clean
+train,Nicholas,Nicholas_02.wav,train/Nicholas/Nicholas_02_snr_-5dB.wav,-5 dB
+train,Nicholas,Nicholas_02.wav,train/Nicholas/Nicholas_02_snr_0dB.wav,0 dB
+train,Nicholas,Nicholas_02.wav,train/Nicholas/Nicholas_02_snr_5dB.wav,5 dB
+train,Nicholas,Nicholas_02.wav,train/Nicholas/Nicholas_02_snr_10dB.wav,10 dB
+train,Nicholas,Nicholas_02.wav,train/Nicholas/Nicholas_02_snr_15dB.wav,15 dB
+train,Nicholas,Nicholas_15.wav,train/Nicholas/Nicholas_15.wav,clean
+train,Nicholas,Nicholas_15.wav,train/Nicholas/Nicholas_15_snr_-5dB.wav,-5 dB
+train,Nicholas,Nicholas_15.wav,train/Nicholas/Nicholas_15_snr_0dB.wav,0 dB
+train,Nicholas,Nicholas_15.wav,train/Nicholas/Nicholas_15_snr_5dB.wav,5 dB
+train,Nicholas,Nicholas_15.wav,train/Nicholas/Nicholas_15_snr_10dB.wav,10 dB
+train,Nicholas,Nicholas_15.wav,train/Nicholas/Nicholas_15_snr_15dB.wav,15 dB
+train,Nicholas,Nicholas_08.wav,train/Nicholas/Nicholas_08.wav,clean
+train,Nicholas,Nicholas_08.wav,train/Nicholas/Nicholas_08_snr_-5dB.wav,-5 dB
+train,Nicholas,Nicholas_08.wav,train/Nicholas/Nicholas_08_snr_0dB.wav,0 dB
+train,Nicholas,Nicholas_08.wav,train/Nicholas/Nicholas_08_snr_5dB.wav,5 dB
+train,Nicholas,Nicholas_08.wav,train/Nicholas/Nicholas_08_snr_10dB.wav,10 dB
+train,Nicholas,Nicholas_08.wav,train/Nicholas/Nicholas_08_snr_15dB.wav,15 dB
+train,Nicholas,Nicholas_19.wav,train/Nicholas/Nicholas_19.wav,clean
+train,Nicholas,Nicholas_19.wav,train/Nicholas/Nicholas_19_snr_-5dB.wav,-5 dB
+train,Nicholas,Nicholas_19.wav,train/Nicholas/Nicholas_19_snr_0dB.wav,0 dB
+train,Nicholas,Nicholas_19.wav,train/Nicholas/Nicholas_19_snr_5dB.wav,5 dB
+train,Nicholas,Nicholas_19.wav,train/Nicholas/Nicholas_19_snr_10dB.wav,10 dB
+train,Nicholas,Nicholas_19.wav,train/Nicholas/Nicholas_19_snr_15dB.wav,15 dB
+validation,Nicholas,Nicholas_17.wav,validation/Nicholas/Nicholas_17.wav,clean
+validation,Nicholas,Nicholas_03.wav,validation/Nicholas/Nicholas_03.wav,clean
+validation,Nicholas,Nicholas_06.wav,validation/Nicholas/Nicholas_06.wav,clean
+test,Nicholas,Nicholas_01.wav,test/Nicholas/Nicholas_01.wav,clean
+test,Nicholas,Nicholas_13.wav,test/Nicholas/Nicholas_13.wav,clean
+test,Nicholas,Nicholas_04.wav,test/Nicholas/Nicholas_04.wav,clean
+test,Nicholas,Nicholas_10.wav,test/Nicholas/Nicholas_10.wav,clean
+test,Nicholas,Nicholas_14.wav,test/Nicholas/Nicholas_14.wav,clean
+train,Sam,Sam_16.wav,train/Sam/Sam_16.wav,clean
+train,Sam,Sam_16.wav,train/Sam/Sam_16_snr_-5dB.wav,-5 dB
+train,Sam,Sam_16.wav,train/Sam/Sam_16_snr_0dB.wav,0 dB
+train,Sam,Sam_16.wav,train/Sam/Sam_16_snr_5dB.wav,5 dB
+train,Sam,Sam_16.wav,train/Sam/Sam_16_snr_10dB.wav,10 dB
+train,Sam,Sam_16.wav,train/Sam/Sam_16_snr_15dB.wav,15 dB
+train,Sam,Sam_09.wav,train/Sam/Sam_09.wav,clean
+train,Sam,Sam_09.wav,train/Sam/Sam_09_snr_-5dB.wav,-5 dB
+train,Sam,Sam_09.wav,train/Sam/Sam_09_snr_0dB.wav,0 dB
+train,Sam,Sam_09.wav,train/Sam/Sam_09_snr_5dB.wav,5 dB
+train,Sam,Sam_09.wav,train/Sam/Sam_09_snr_10dB.wav,10 dB
+train,Sam,Sam_09.wav,train/Sam/Sam_09_snr_15dB.wav,15 dB
+train,Sam,Sam_13.wav,train/Sam/Sam_13.wav,clean
+train,Sam,Sam_13.wav,train/Sam/Sam_13_snr_-5dB.wav,-5 dB
+train,Sam,Sam_13.wav,train/Sam/Sam_13_snr_0dB.wav,0 dB
+train,Sam,Sam_13.wav,train/Sam/Sam_13_snr_5dB.wav,5 dB
+train,Sam,Sam_13.wav,train/Sam/Sam_13_snr_10dB.wav,10 dB
+train,Sam,Sam_13.wav,train/Sam/Sam_13_snr_15dB.wav,15 dB
+train,Sam,Sam_15.wav,train/Sam/Sam_15.wav,clean
+train,Sam,Sam_15.wav,train/Sam/Sam_15_snr_-5dB.wav,-5 dB
+train,Sam,Sam_15.wav,train/Sam/Sam_15_snr_0dB.wav,0 dB
+train,Sam,Sam_15.wav,train/Sam/Sam_15_snr_5dB.wav,5 dB
+train,Sam,Sam_15.wav,train/Sam/Sam_15_snr_10dB.wav,10 dB
+train,Sam,Sam_15.wav,train/Sam/Sam_15_snr_15dB.wav,15 dB
+train,Sam,Sam_10.wav,train/Sam/Sam_10.wav,clean
+train,Sam,Sam_10.wav,train/Sam/Sam_10_snr_-5dB.wav,-5 dB
+train,Sam,Sam_10.wav,train/Sam/Sam_10_snr_0dB.wav,0 dB
+train,Sam,Sam_10.wav,train/Sam/Sam_10_snr_5dB.wav,5 dB
+train,Sam,Sam_10.wav,train/Sam/Sam_10_snr_10dB.wav,10 dB
+train,Sam,Sam_10.wav,train/Sam/Sam_10_snr_15dB.wav,15 dB
+train,Sam,Sam_07.wav,train/Sam/Sam_07.wav,clean
+train,Sam,Sam_07.wav,train/Sam/Sam_07_snr_-5dB.wav,-5 dB
+train,Sam,Sam_07.wav,train/Sam/Sam_07_snr_0dB.wav,0 dB
+train,Sam,Sam_07.wav,train/Sam/Sam_07_snr_5dB.wav,5 dB
+train,Sam,Sam_07.wav,train/Sam/Sam_07_snr_10dB.wav,10 dB
+train,Sam,Sam_07.wav,train/Sam/Sam_07_snr_15dB.wav,15 dB
+train,Sam,Sam_02.wav,train/Sam/Sam_02.wav,clean
+train,Sam,Sam_02.wav,train/Sam/Sam_02_snr_-5dB.wav,-5 dB
+train,Sam,Sam_02.wav,train/Sam/Sam_02_snr_0dB.wav,0 dB
+train,Sam,Sam_02.wav,train/Sam/Sam_02_snr_5dB.wav,5 dB
+train,Sam,Sam_02.wav,train/Sam/Sam_02_snr_10dB.wav,10 dB
+train,Sam,Sam_02.wav,train/Sam/Sam_02_snr_15dB.wav,15 dB
+train,Sam,Sam_11.wav,train/Sam/Sam_11.wav,clean
+train,Sam,Sam_11.wav,train/Sam/Sam_11_snr_-5dB.wav,-5 dB
+train,Sam,Sam_11.wav,train/Sam/Sam_11_snr_0dB.wav,0 dB
+train,Sam,Sam_11.wav,train/Sam/Sam_11_snr_5dB.wav,5 dB
+train,Sam,Sam_11.wav,train/Sam/Sam_11_snr_10dB.wav,10 dB
+train,Sam,Sam_11.wav,train/Sam/Sam_11_snr_15dB.wav,15 dB
+train,Sam,Sam_08.wav,train/Sam/Sam_08.wav,clean
+train,Sam,Sam_08.wav,train/Sam/Sam_08_snr_-5dB.wav,-5 dB
+train,Sam,Sam_08.wav,train/Sam/Sam_08_snr_0dB.wav,0 dB
+train,Sam,Sam_08.wav,train/Sam/Sam_08_snr_5dB.wav,5 dB
+train,Sam,Sam_08.wav,train/Sam/Sam_08_snr_10dB.wav,10 dB
+train,Sam,Sam_08.wav,train/Sam/Sam_08_snr_15dB.wav,15 dB
+train,Sam,Sam_18.wav,train/Sam/Sam_18.wav,clean
+train,Sam,Sam_18.wav,train/Sam/Sam_18_snr_-5dB.wav,-5 dB
+train,Sam,Sam_18.wav,train/Sam/Sam_18_snr_0dB.wav,0 dB
+train,Sam,Sam_18.wav,train/Sam/Sam_18_snr_5dB.wav,5 dB
+train,Sam,Sam_18.wav,train/Sam/Sam_18_snr_10dB.wav,10 dB
+train,Sam,Sam_18.wav,train/Sam/Sam_18_snr_15dB.wav,15 dB
+train,Sam,Sam_04.wav,train/Sam/Sam_04.wav,clean
+train,Sam,Sam_04.wav,train/Sam/Sam_04_snr_-5dB.wav,-5 dB
+train,Sam,Sam_04.wav,train/Sam/Sam_04_snr_0dB.wav,0 dB
+train,Sam,Sam_04.wav,train/Sam/Sam_04_snr_5dB.wav,5 dB
+train,Sam,Sam_04.wav,train/Sam/Sam_04_snr_10dB.wav,10 dB
+train,Sam,Sam_04.wav,train/Sam/Sam_04_snr_15dB.wav,15 dB
+train,Sam,Sam_19.wav,train/Sam/Sam_19.wav,clean
+train,Sam,Sam_19.wav,train/Sam/Sam_19_snr_-5dB.wav,-5 dB
+train,Sam,Sam_19.wav,train/Sam/Sam_19_snr_0dB.wav,0 dB
+train,Sam,Sam_19.wav,train/Sam/Sam_19_snr_5dB.wav,5 dB
+train,Sam,Sam_19.wav,train/Sam/Sam_19_snr_10dB.wav,10 dB
+train,Sam,Sam_19.wav,train/Sam/Sam_19_snr_15dB.wav,15 dB
+validation,Sam,Sam_05.wav,validation/Sam/Sam_05.wav,clean
+validation,Sam,Sam_06.wav,validation/Sam/Sam_06.wav,clean
+validation,Sam,Sam_01.wav,validation/Sam/Sam_01.wav,clean
+test,Sam,Sam_12.wav,test/Sam/Sam_12.wav,clean
+test,Sam,Sam_20.wav,test/Sam/Sam_20.wav,clean
+test,Sam,Sam_14.wav,test/Sam/Sam_14.wav,clean
+test,Sam,Sam_03.wav,test/Sam/Sam_03.wav,clean
+test,Sam,Sam_17.wav,test/Sam/Sam_17.wav,clean
+train,Samuel,Samuel_05.wav,train/Samuel/Samuel_05.wav,clean
+train,Samuel,Samuel_05.wav,train/Samuel/Samuel_05_snr_-5dB.wav,-5 dB
+train,Samuel,Samuel_05.wav,train/Samuel/Samuel_05_snr_0dB.wav,0 dB
+train,Samuel,Samuel_05.wav,train/Samuel/Samuel_05_snr_5dB.wav,5 dB
+train,Samuel,Samuel_05.wav,train/Samuel/Samuel_05_snr_10dB.wav,10 dB
+train,Samuel,Samuel_05.wav,train/Samuel/Samuel_05_snr_15dB.wav,15 dB
+train,Samuel,Samuel_17.wav,train/Samuel/Samuel_17.wav,clean
+train,Samuel,Samuel_17.wav,train/Samuel/Samuel_17_snr_-5dB.wav,-5 dB
+train,Samuel,Samuel_17.wav,train/Samuel/Samuel_17_snr_0dB.wav,0 dB
+train,Samuel,Samuel_17.wav,train/Samuel/Samuel_17_snr_5dB.wav,5 dB
+train,Samuel,Samuel_17.wav,train/Samuel/Samuel_17_snr_10dB.wav,10 dB
+train,Samuel,Samuel_17.wav,train/Samuel/Samuel_17_snr_15dB.wav,15 dB
+train,Samuel,Samuel_15.wav,train/Samuel/Samuel_15.wav,clean
+train,Samuel,Samuel_15.wav,train/Samuel/Samuel_15_snr_-5dB.wav,-5 dB
+train,Samuel,Samuel_15.wav,train/Samuel/Samuel_15_snr_0dB.wav,0 dB
+train,Samuel,Samuel_15.wav,train/Samuel/Samuel_15_snr_5dB.wav,5 dB
+train,Samuel,Samuel_15.wav,train/Samuel/Samuel_15_snr_10dB.wav,10 dB
+train,Samuel,Samuel_15.wav,train/Samuel/Samuel_15_snr_15dB.wav,15 dB
+train,Samuel,Samuel_18.wav,train/Samuel/Samuel_18.wav,clean
+train,Samuel,Samuel_18.wav,train/Samuel/Samuel_18_snr_-5dB.wav,-5 dB
+train,Samuel,Samuel_18.wav,train/Samuel/Samuel_18_snr_0dB.wav,0 dB
+train,Samuel,Samuel_18.wav,train/Samuel/Samuel_18_snr_5dB.wav,5 dB
+train,Samuel,Samuel_18.wav,train/Samuel/Samuel_18_snr_10dB.wav,10 dB
+train,Samuel,Samuel_18.wav,train/Samuel/Samuel_18_snr_15dB.wav,15 dB
+train,Samuel,Samuel_10.wav,train/Samuel/Samuel_10.wav,clean
+train,Samuel,Samuel_10.wav,train/Samuel/Samuel_10_snr_-5dB.wav,-5 dB
+train,Samuel,Samuel_10.wav,train/Samuel/Samuel_10_snr_0dB.wav,0 dB
+train,Samuel,Samuel_10.wav,train/Samuel/Samuel_10_snr_5dB.wav,5 dB
+train,Samuel,Samuel_10.wav,train/Samuel/Samuel_10_snr_10dB.wav,10 dB
+train,Samuel,Samuel_10.wav,train/Samuel/Samuel_10_snr_15dB.wav,15 dB
+train,Samuel,Samuel_04.wav,train/Samuel/Samuel_04.wav,clean
+train,Samuel,Samuel_04.wav,train/Samuel/Samuel_04_snr_-5dB.wav,-5 dB
+train,Samuel,Samuel_04.wav,train/Samuel/Samuel_04_snr_0dB.wav,0 dB
+train,Samuel,Samuel_04.wav,train/Samuel/Samuel_04_snr_5dB.wav,5 dB
+train,Samuel,Samuel_04.wav,train/Samuel/Samuel_04_snr_10dB.wav,10 dB
+train,Samuel,Samuel_04.wav,train/Samuel/Samuel_04_snr_15dB.wav,15 dB
+train,Samuel,Samuel_08.wav,train/Samuel/Samuel_08.wav,clean
+train,Samuel,Samuel_08.wav,train/Samuel/Samuel_08_snr_-5dB.wav,-5 dB
+train,Samuel,Samuel_08.wav,train/Samuel/Samuel_08_snr_0dB.wav,0 dB
+train,Samuel,Samuel_08.wav,train/Samuel/Samuel_08_snr_5dB.wav,5 dB
+train,Samuel,Samuel_08.wav,train/Samuel/Samuel_08_snr_10dB.wav,10 dB
+train,Samuel,Samuel_08.wav,train/Samuel/Samuel_08_snr_15dB.wav,15 dB
+train,Samuel,Samuel_07.wav,train/Samuel/Samuel_07.wav,clean
+train,Samuel,Samuel_07.wav,train/Samuel/Samuel_07_snr_-5dB.wav,-5 dB
+train,Samuel,Samuel_07.wav,train/Samuel/Samuel_07_snr_0dB.wav,0 dB
+train,Samuel,Samuel_07.wav,train/Samuel/Samuel_07_snr_5dB.wav,5 dB
+train,Samuel,Samuel_07.wav,train/Samuel/Samuel_07_snr_10dB.wav,10 dB
+train,Samuel,Samuel_07.wav,train/Samuel/Samuel_07_snr_15dB.wav,15 dB
+train,Samuel,Samuel_01.wav,train/Samuel/Samuel_01.wav,clean
+train,Samuel,Samuel_01.wav,train/Samuel/Samuel_01_snr_-5dB.wav,-5 dB
+train,Samuel,Samuel_01.wav,train/Samuel/Samuel_01_snr_0dB.wav,0 dB
+train,Samuel,Samuel_01.wav,train/Samuel/Samuel_01_snr_5dB.wav,5 dB
+train,Samuel,Samuel_01.wav,train/Samuel/Samuel_01_snr_10dB.wav,10 dB
+train,Samuel,Samuel_01.wav,train/Samuel/Samuel_01_snr_15dB.wav,15 dB
+train,Samuel,Samuel_11.wav,train/Samuel/Samuel_11.wav,clean
+train,Samuel,Samuel_11.wav,train/Samuel/Samuel_11_snr_-5dB.wav,-5 dB
+train,Samuel,Samuel_11.wav,train/Samuel/Samuel_11_snr_0dB.wav,0 dB
+train,Samuel,Samuel_11.wav,train/Samuel/Samuel_11_snr_5dB.wav,5 dB
+train,Samuel,Samuel_11.wav,train/Samuel/Samuel_11_snr_10dB.wav,10 dB
+train,Samuel,Samuel_11.wav,train/Samuel/Samuel_11_snr_15dB.wav,15 dB
+train,Samuel,Samuel_16.wav,train/Samuel/Samuel_16.wav,clean
+train,Samuel,Samuel_16.wav,train/Samuel/Samuel_16_snr_-5dB.wav,-5 dB
+train,Samuel,Samuel_16.wav,train/Samuel/Samuel_16_snr_0dB.wav,0 dB
+train,Samuel,Samuel_16.wav,train/Samuel/Samuel_16_snr_5dB.wav,5 dB
+train,Samuel,Samuel_16.wav,train/Samuel/Samuel_16_snr_10dB.wav,10 dB
+train,Samuel,Samuel_16.wav,train/Samuel/Samuel_16_snr_15dB.wav,15 dB
+train,Samuel,Samuel_13.wav,train/Samuel/Samuel_13.wav,clean
+train,Samuel,Samuel_13.wav,train/Samuel/Samuel_13_snr_-5dB.wav,-5 dB
+train,Samuel,Samuel_13.wav,train/Samuel/Samuel_13_snr_0dB.wav,0 dB
+train,Samuel,Samuel_13.wav,train/Samuel/Samuel_13_snr_5dB.wav,5 dB
+train,Samuel,Samuel_13.wav,train/Samuel/Samuel_13_snr_10dB.wav,10 dB
+train,Samuel,Samuel_13.wav,train/Samuel/Samuel_13_snr_15dB.wav,15 dB
+validation,Samuel,Samuel_20.wav,validation/Samuel/Samuel_20.wav,clean
+validation,Samuel,Samuel_09.wav,validation/Samuel/Samuel_09.wav,clean
+validation,Samuel,Samuel_02.wav,validation/Samuel/Samuel_02.wav,clean
+test,Samuel,Samuel_12.wav,test/Samuel/Samuel_12.wav,clean
+test,Samuel,Samuel_03.wav,test/Samuel/Samuel_03.wav,clean
+test,Samuel,Samuel_06.wav,test/Samuel/Samuel_06.wav,clean
+test,Samuel,Samuel_14.wav,test/Samuel/Samuel_14.wav,clean
+test,Samuel,Samuel_19.wav,test/Samuel/Samuel_19.wav,clean
+train,Sean,Sean_03.wav,train/Sean/Sean_03.wav,clean
+train,Sean,Sean_03.wav,train/Sean/Sean_03_snr_-5dB.wav,-5 dB
+train,Sean,Sean_03.wav,train/Sean/Sean_03_snr_0dB.wav,0 dB
+train,Sean,Sean_03.wav,train/Sean/Sean_03_snr_5dB.wav,5 dB
+train,Sean,Sean_03.wav,train/Sean/Sean_03_snr_10dB.wav,10 dB
+train,Sean,Sean_03.wav,train/Sean/Sean_03_snr_15dB.wav,15 dB
+train,Sean,Sean_11.wav,train/Sean/Sean_11.wav,clean
+train,Sean,Sean_11.wav,train/Sean/Sean_11_snr_-5dB.wav,-5 dB
+train,Sean,Sean_11.wav,train/Sean/Sean_11_snr_0dB.wav,0 dB
+train,Sean,Sean_11.wav,train/Sean/Sean_11_snr_5dB.wav,5 dB
+train,Sean,Sean_11.wav,train/Sean/Sean_11_snr_10dB.wav,10 dB
+train,Sean,Sean_11.wav,train/Sean/Sean_11_snr_15dB.wav,15 dB
+train,Sean,Sean_16.wav,train/Sean/Sean_16.wav,clean
+train,Sean,Sean_16.wav,train/Sean/Sean_16_snr_-5dB.wav,-5 dB
+train,Sean,Sean_16.wav,train/Sean/Sean_16_snr_0dB.wav,0 dB
+train,Sean,Sean_16.wav,train/Sean/Sean_16_snr_5dB.wav,5 dB
+train,Sean,Sean_16.wav,train/Sean/Sean_16_snr_10dB.wav,10 dB
+train,Sean,Sean_16.wav,train/Sean/Sean_16_snr_15dB.wav,15 dB
+train,Sean,Sean_06.wav,train/Sean/Sean_06.wav,clean
+train,Sean,Sean_06.wav,train/Sean/Sean_06_snr_-5dB.wav,-5 dB
+train,Sean,Sean_06.wav,train/Sean/Sean_06_snr_0dB.wav,0 dB
+train,Sean,Sean_06.wav,train/Sean/Sean_06_snr_5dB.wav,5 dB
+train,Sean,Sean_06.wav,train/Sean/Sean_06_snr_10dB.wav,10 dB
+train,Sean,Sean_06.wav,train/Sean/Sean_06_snr_15dB.wav,15 dB
+train,Sean,Sean_07.wav,train/Sean/Sean_07.wav,clean
+train,Sean,Sean_07.wav,train/Sean/Sean_07_snr_-5dB.wav,-5 dB
+train,Sean,Sean_07.wav,train/Sean/Sean_07_snr_0dB.wav,0 dB
+train,Sean,Sean_07.wav,train/Sean/Sean_07_snr_5dB.wav,5 dB
+train,Sean,Sean_07.wav,train/Sean/Sean_07_snr_10dB.wav,10 dB
+train,Sean,Sean_07.wav,train/Sean/Sean_07_snr_15dB.wav,15 dB
+train,Sean,Sean_01.wav,train/Sean/Sean_01.wav,clean
+train,Sean,Sean_01.wav,train/Sean/Sean_01_snr_-5dB.wav,-5 dB
+train,Sean,Sean_01.wav,train/Sean/Sean_01_snr_0dB.wav,0 dB
+train,Sean,Sean_01.wav,train/Sean/Sean_01_snr_5dB.wav,5 dB
+train,Sean,Sean_01.wav,train/Sean/Sean_01_snr_10dB.wav,10 dB
+train,Sean,Sean_01.wav,train/Sean/Sean_01_snr_15dB.wav,15 dB
+train,Sean,Sean_02.wav,train/Sean/Sean_02.wav,clean
+train,Sean,Sean_02.wav,train/Sean/Sean_02_snr_-5dB.wav,-5 dB
+train,Sean,Sean_02.wav,train/Sean/Sean_02_snr_0dB.wav,0 dB
+train,Sean,Sean_02.wav,train/Sean/Sean_02_snr_5dB.wav,5 dB
+train,Sean,Sean_02.wav,train/Sean/Sean_02_snr_10dB.wav,10 dB
+train,Sean,Sean_02.wav,train/Sean/Sean_02_snr_15dB.wav,15 dB
+train,Sean,Sean_15.wav,train/Sean/Sean_15.wav,clean
+train,Sean,Sean_15.wav,train/Sean/Sean_15_snr_-5dB.wav,-5 dB
+train,Sean,Sean_15.wav,train/Sean/Sean_15_snr_0dB.wav,0 dB
+train,Sean,Sean_15.wav,train/Sean/Sean_15_snr_5dB.wav,5 dB
+train,Sean,Sean_15.wav,train/Sean/Sean_15_snr_10dB.wav,10 dB
+train,Sean,Sean_15.wav,train/Sean/Sean_15_snr_15dB.wav,15 dB
+train,Sean,Sean_14.wav,train/Sean/Sean_14.wav,clean
+train,Sean,Sean_14.wav,train/Sean/Sean_14_snr_-5dB.wav,-5 dB
+train,Sean,Sean_14.wav,train/Sean/Sean_14_snr_0dB.wav,0 dB
+train,Sean,Sean_14.wav,train/Sean/Sean_14_snr_5dB.wav,5 dB
+train,Sean,Sean_14.wav,train/Sean/Sean_14_snr_10dB.wav,10 dB
+train,Sean,Sean_14.wav,train/Sean/Sean_14_snr_15dB.wav,15 dB
+train,Sean,Sean_10.wav,train/Sean/Sean_10.wav,clean
+train,Sean,Sean_10.wav,train/Sean/Sean_10_snr_-5dB.wav,-5 dB
+train,Sean,Sean_10.wav,train/Sean/Sean_10_snr_0dB.wav,0 dB
+train,Sean,Sean_10.wav,train/Sean/Sean_10_snr_5dB.wav,5 dB
+train,Sean,Sean_10.wav,train/Sean/Sean_10_snr_10dB.wav,10 dB
+train,Sean,Sean_10.wav,train/Sean/Sean_10_snr_15dB.wav,15 dB
+train,Sean,Sean_20.wav,train/Sean/Sean_20.wav,clean
+train,Sean,Sean_20.wav,train/Sean/Sean_20_snr_-5dB.wav,-5 dB
+train,Sean,Sean_20.wav,train/Sean/Sean_20_snr_0dB.wav,0 dB
+train,Sean,Sean_20.wav,train/Sean/Sean_20_snr_5dB.wav,5 dB
+train,Sean,Sean_20.wav,train/Sean/Sean_20_snr_10dB.wav,10 dB
+train,Sean,Sean_20.wav,train/Sean/Sean_20_snr_15dB.wav,15 dB
+train,Sean,Sean_08.wav,train/Sean/Sean_08.wav,clean
+train,Sean,Sean_08.wav,train/Sean/Sean_08_snr_-5dB.wav,-5 dB
+train,Sean,Sean_08.wav,train/Sean/Sean_08_snr_0dB.wav,0 dB
+train,Sean,Sean_08.wav,train/Sean/Sean_08_snr_5dB.wav,5 dB
+train,Sean,Sean_08.wav,train/Sean/Sean_08_snr_10dB.wav,10 dB
+train,Sean,Sean_08.wav,train/Sean/Sean_08_snr_15dB.wav,15 dB
+validation,Sean,Sean_12.wav,validation/Sean/Sean_12.wav,clean
+validation,Sean,Sean_05.wav,validation/Sean/Sean_05.wav,clean
+validation,Sean,Sean_19.wav,validation/Sean/Sean_19.wav,clean
+test,Sean,Sean_09.wav,test/Sean/Sean_09.wav,clean
+test,Sean,Sean_04.wav,test/Sean/Sean_04.wav,clean
+test,Sean,Sean_18.wav,test/Sean/Sean_18.wav,clean
+test,Sean,Sean_13.wav,test/Sean/Sean_13.wav,clean
+test,Sean,Sean_17.wav,test/Sean/Sean_17.wav,clean
+train,Toby,Toby_16.wav,train/Toby/Toby_16.wav,clean
+train,Toby,Toby_16.wav,train/Toby/Toby_16_snr_-5dB.wav,-5 dB
+train,Toby,Toby_16.wav,train/Toby/Toby_16_snr_0dB.wav,0 dB
+train,Toby,Toby_16.wav,train/Toby/Toby_16_snr_5dB.wav,5 dB
+train,Toby,Toby_16.wav,train/Toby/Toby_16_snr_10dB.wav,10 dB
+train,Toby,Toby_16.wav,train/Toby/Toby_16_snr_15dB.wav,15 dB
+train,Toby,Toby_06.wav,train/Toby/Toby_06.wav,clean
+train,Toby,Toby_06.wav,train/Toby/Toby_06_snr_-5dB.wav,-5 dB
+train,Toby,Toby_06.wav,train/Toby/Toby_06_snr_0dB.wav,0 dB
+train,Toby,Toby_06.wav,train/Toby/Toby_06_snr_5dB.wav,5 dB
+train,Toby,Toby_06.wav,train/Toby/Toby_06_snr_10dB.wav,10 dB
+train,Toby,Toby_06.wav,train/Toby/Toby_06_snr_15dB.wav,15 dB
+train,Toby,Toby_07.wav,train/Toby/Toby_07.wav,clean
+train,Toby,Toby_07.wav,train/Toby/Toby_07_snr_-5dB.wav,-5 dB
+train,Toby,Toby_07.wav,train/Toby/Toby_07_snr_0dB.wav,0 dB
+train,Toby,Toby_07.wav,train/Toby/Toby_07_snr_5dB.wav,5 dB
+train,Toby,Toby_07.wav,train/Toby/Toby_07_snr_10dB.wav,10 dB
+train,Toby,Toby_07.wav,train/Toby/Toby_07_snr_15dB.wav,15 dB
+train,Toby,Toby_19.wav,train/Toby/Toby_19.wav,clean
+train,Toby,Toby_19.wav,train/Toby/Toby_19_snr_-5dB.wav,-5 dB
+train,Toby,Toby_19.wav,train/Toby/Toby_19_snr_0dB.wav,0 dB
+train,Toby,Toby_19.wav,train/Toby/Toby_19_snr_5dB.wav,5 dB
+train,Toby,Toby_19.wav,train/Toby/Toby_19_snr_10dB.wav,10 dB
+train,Toby,Toby_19.wav,train/Toby/Toby_19_snr_15dB.wav,15 dB
+train,Toby,Toby_10.wav,train/Toby/Toby_10.wav,clean
+train,Toby,Toby_10.wav,train/Toby/Toby_10_snr_-5dB.wav,-5 dB
+train,Toby,Toby_10.wav,train/Toby/Toby_10_snr_0dB.wav,0 dB
+train,Toby,Toby_10.wav,train/Toby/Toby_10_snr_5dB.wav,5 dB
+train,Toby,Toby_10.wav,train/Toby/Toby_10_snr_10dB.wav,10 dB
+train,Toby,Toby_10.wav,train/Toby/Toby_10_snr_15dB.wav,15 dB
+train,Toby,Toby_09.wav,train/Toby/Toby_09.wav,clean
+train,Toby,Toby_09.wav,train/Toby/Toby_09_snr_-5dB.wav,-5 dB
+train,Toby,Toby_09.wav,train/Toby/Toby_09_snr_0dB.wav,0 dB
+train,Toby,Toby_09.wav,train/Toby/Toby_09_snr_5dB.wav,5 dB
+train,Toby,Toby_09.wav,train/Toby/Toby_09_snr_10dB.wav,10 dB
+train,Toby,Toby_09.wav,train/Toby/Toby_09_snr_15dB.wav,15 dB
+train,Toby,Toby_01.wav,train/Toby/Toby_01.wav,clean
+train,Toby,Toby_01.wav,train/Toby/Toby_01_snr_-5dB.wav,-5 dB
+train,Toby,Toby_01.wav,train/Toby/Toby_01_snr_0dB.wav,0 dB
+train,Toby,Toby_01.wav,train/Toby/Toby_01_snr_5dB.wav,5 dB
+train,Toby,Toby_01.wav,train/Toby/Toby_01_snr_10dB.wav,10 dB
+train,Toby,Toby_01.wav,train/Toby/Toby_01_snr_15dB.wav,15 dB
+train,Toby,Toby_13.wav,train/Toby/Toby_13.wav,clean
+train,Toby,Toby_13.wav,train/Toby/Toby_13_snr_-5dB.wav,-5 dB
+train,Toby,Toby_13.wav,train/Toby/Toby_13_snr_0dB.wav,0 dB
+train,Toby,Toby_13.wav,train/Toby/Toby_13_snr_5dB.wav,5 dB
+train,Toby,Toby_13.wav,train/Toby/Toby_13_snr_10dB.wav,10 dB
+train,Toby,Toby_13.wav,train/Toby/Toby_13_snr_15dB.wav,15 dB
+train,Toby,Toby_03.wav,train/Toby/Toby_03.wav,clean
+train,Toby,Toby_03.wav,train/Toby/Toby_03_snr_-5dB.wav,-5 dB
+train,Toby,Toby_03.wav,train/Toby/Toby_03_snr_0dB.wav,0 dB
+train,Toby,Toby_03.wav,train/Toby/Toby_03_snr_5dB.wav,5 dB
+train,Toby,Toby_03.wav,train/Toby/Toby_03_snr_10dB.wav,10 dB
+train,Toby,Toby_03.wav,train/Toby/Toby_03_snr_15dB.wav,15 dB
+train,Toby,Toby_15.wav,train/Toby/Toby_15.wav,clean
+train,Toby,Toby_15.wav,train/Toby/Toby_15_snr_-5dB.wav,-5 dB
+train,Toby,Toby_15.wav,train/Toby/Toby_15_snr_0dB.wav,0 dB
+train,Toby,Toby_15.wav,train/Toby/Toby_15_snr_5dB.wav,5 dB
+train,Toby,Toby_15.wav,train/Toby/Toby_15_snr_10dB.wav,10 dB
+train,Toby,Toby_15.wav,train/Toby/Toby_15_snr_15dB.wav,15 dB
+train,Toby,Toby_14.wav,train/Toby/Toby_14.wav,clean
+train,Toby,Toby_14.wav,train/Toby/Toby_14_snr_-5dB.wav,-5 dB
+train,Toby,Toby_14.wav,train/Toby/Toby_14_snr_0dB.wav,0 dB
+train,Toby,Toby_14.wav,train/Toby/Toby_14_snr_5dB.wav,5 dB
+train,Toby,Toby_14.wav,train/Toby/Toby_14_snr_10dB.wav,10 dB
+train,Toby,Toby_14.wav,train/Toby/Toby_14_snr_15dB.wav,15 dB
+train,Toby,Toby_20.wav,train/Toby/Toby_20.wav,clean
+train,Toby,Toby_20.wav,train/Toby/Toby_20_snr_-5dB.wav,-5 dB
+train,Toby,Toby_20.wav,train/Toby/Toby_20_snr_0dB.wav,0 dB
+train,Toby,Toby_20.wav,train/Toby/Toby_20_snr_5dB.wav,5 dB
+train,Toby,Toby_20.wav,train/Toby/Toby_20_snr_10dB.wav,10 dB
+train,Toby,Toby_20.wav,train/Toby/Toby_20_snr_15dB.wav,15 dB
+validation,Toby,Toby_02.wav,validation/Toby/Toby_02.wav,clean
+validation,Toby,Toby_08.wav,validation/Toby/Toby_08.wav,clean
+validation,Toby,Toby_18.wav,validation/Toby/Toby_18.wav,clean
+test,Toby,Toby_11.wav,test/Toby/Toby_11.wav,clean
+test,Toby,Toby_04.wav,test/Toby/Toby_04.wav,clean
+test,Toby,Toby_17.wav,test/Toby/Toby_17.wav,clean
+test,Toby,Toby_12.wav,test/Toby/Toby_12.wav,clean
+test,Toby,Toby_05.wav,test/Toby/Toby_05.wav,clean
+train,Tommy,Tommy_10.wav,train/Tommy/Tommy_10.wav,clean
+train,Tommy,Tommy_10.wav,train/Tommy/Tommy_10_snr_-5dB.wav,-5 dB
+train,Tommy,Tommy_10.wav,train/Tommy/Tommy_10_snr_0dB.wav,0 dB
+train,Tommy,Tommy_10.wav,train/Tommy/Tommy_10_snr_5dB.wav,5 dB
+train,Tommy,Tommy_10.wav,train/Tommy/Tommy_10_snr_10dB.wav,10 dB
+train,Tommy,Tommy_10.wav,train/Tommy/Tommy_10_snr_15dB.wav,15 dB
+train,Tommy,Tommy_13.wav,train/Tommy/Tommy_13.wav,clean
+train,Tommy,Tommy_13.wav,train/Tommy/Tommy_13_snr_-5dB.wav,-5 dB
+train,Tommy,Tommy_13.wav,train/Tommy/Tommy_13_snr_0dB.wav,0 dB
+train,Tommy,Tommy_13.wav,train/Tommy/Tommy_13_snr_5dB.wav,5 dB
+train,Tommy,Tommy_13.wav,train/Tommy/Tommy_13_snr_10dB.wav,10 dB
+train,Tommy,Tommy_13.wav,train/Tommy/Tommy_13_snr_15dB.wav,15 dB
+train,Tommy,Tommy_18.wav,train/Tommy/Tommy_18.wav,clean
+train,Tommy,Tommy_18.wav,train/Tommy/Tommy_18_snr_-5dB.wav,-5 dB
+train,Tommy,Tommy_18.wav,train/Tommy/Tommy_18_snr_0dB.wav,0 dB
+train,Tommy,Tommy_18.wav,train/Tommy/Tommy_18_snr_5dB.wav,5 dB
+train,Tommy,Tommy_18.wav,train/Tommy/Tommy_18_snr_10dB.wav,10 dB
+train,Tommy,Tommy_18.wav,train/Tommy/Tommy_18_snr_15dB.wav,15 dB
+train,Tommy,Tommy_17.wav,train/Tommy/Tommy_17.wav,clean
+train,Tommy,Tommy_17.wav,train/Tommy/Tommy_17_snr_-5dB.wav,-5 dB
+train,Tommy,Tommy_17.wav,train/Tommy/Tommy_17_snr_0dB.wav,0 dB
+train,Tommy,Tommy_17.wav,train/Tommy/Tommy_17_snr_5dB.wav,5 dB
+train,Tommy,Tommy_17.wav,train/Tommy/Tommy_17_snr_10dB.wav,10 dB
+train,Tommy,Tommy_17.wav,train/Tommy/Tommy_17_snr_15dB.wav,15 dB
+train,Tommy,Tommy_05.wav,train/Tommy/Tommy_05.wav,clean
+train,Tommy,Tommy_05.wav,train/Tommy/Tommy_05_snr_-5dB.wav,-5 dB
+train,Tommy,Tommy_05.wav,train/Tommy/Tommy_05_snr_0dB.wav,0 dB
+train,Tommy,Tommy_05.wav,train/Tommy/Tommy_05_snr_5dB.wav,5 dB
+train,Tommy,Tommy_05.wav,train/Tommy/Tommy_05_snr_10dB.wav,10 dB
+train,Tommy,Tommy_05.wav,train/Tommy/Tommy_05_snr_15dB.wav,15 dB
+train,Tommy,Tommy_02.wav,train/Tommy/Tommy_02.wav,clean
+train,Tommy,Tommy_02.wav,train/Tommy/Tommy_02_snr_-5dB.wav,-5 dB
+train,Tommy,Tommy_02.wav,train/Tommy/Tommy_02_snr_0dB.wav,0 dB
+train,Tommy,Tommy_02.wav,train/Tommy/Tommy_02_snr_5dB.wav,5 dB
+train,Tommy,Tommy_02.wav,train/Tommy/Tommy_02_snr_10dB.wav,10 dB
+train,Tommy,Tommy_02.wav,train/Tommy/Tommy_02_snr_15dB.wav,15 dB
+train,Tommy,Tommy_06.wav,train/Tommy/Tommy_06.wav,clean
+train,Tommy,Tommy_06.wav,train/Tommy/Tommy_06_snr_-5dB.wav,-5 dB
+train,Tommy,Tommy_06.wav,train/Tommy/Tommy_06_snr_0dB.wav,0 dB
+train,Tommy,Tommy_06.wav,train/Tommy/Tommy_06_snr_5dB.wav,5 dB
+train,Tommy,Tommy_06.wav,train/Tommy/Tommy_06_snr_10dB.wav,10 dB
+train,Tommy,Tommy_06.wav,train/Tommy/Tommy_06_snr_15dB.wav,15 dB
+train,Tommy,Tommy_19.wav,train/Tommy/Tommy_19.wav,clean
+train,Tommy,Tommy_19.wav,train/Tommy/Tommy_19_snr_-5dB.wav,-5 dB
+train,Tommy,Tommy_19.wav,train/Tommy/Tommy_19_snr_0dB.wav,0 dB
+train,Tommy,Tommy_19.wav,train/Tommy/Tommy_19_snr_5dB.wav,5 dB
+train,Tommy,Tommy_19.wav,train/Tommy/Tommy_19_snr_10dB.wav,10 dB
+train,Tommy,Tommy_19.wav,train/Tommy/Tommy_19_snr_15dB.wav,15 dB
+train,Tommy,Tommy_08.wav,train/Tommy/Tommy_08.wav,clean
+train,Tommy,Tommy_08.wav,train/Tommy/Tommy_08_snr_-5dB.wav,-5 dB
+train,Tommy,Tommy_08.wav,train/Tommy/Tommy_08_snr_0dB.wav,0 dB
+train,Tommy,Tommy_08.wav,train/Tommy/Tommy_08_snr_5dB.wav,5 dB
+train,Tommy,Tommy_08.wav,train/Tommy/Tommy_08_snr_10dB.wav,10 dB
+train,Tommy,Tommy_08.wav,train/Tommy/Tommy_08_snr_15dB.wav,15 dB
+train,Tommy,Tommy_09.wav,train/Tommy/Tommy_09.wav,clean
+train,Tommy,Tommy_09.wav,train/Tommy/Tommy_09_snr_-5dB.wav,-5 dB
+train,Tommy,Tommy_09.wav,train/Tommy/Tommy_09_snr_0dB.wav,0 dB
+train,Tommy,Tommy_09.wav,train/Tommy/Tommy_09_snr_5dB.wav,5 dB
+train,Tommy,Tommy_09.wav,train/Tommy/Tommy_09_snr_10dB.wav,10 dB
+train,Tommy,Tommy_09.wav,train/Tommy/Tommy_09_snr_15dB.wav,15 dB
+train,Tommy,Tommy_16.wav,train/Tommy/Tommy_16.wav,clean
+train,Tommy,Tommy_16.wav,train/Tommy/Tommy_16_snr_-5dB.wav,-5 dB
+train,Tommy,Tommy_16.wav,train/Tommy/Tommy_16_snr_0dB.wav,0 dB
+train,Tommy,Tommy_16.wav,train/Tommy/Tommy_16_snr_5dB.wav,5 dB
+train,Tommy,Tommy_16.wav,train/Tommy/Tommy_16_snr_10dB.wav,10 dB
+train,Tommy,Tommy_16.wav,train/Tommy/Tommy_16_snr_15dB.wav,15 dB
+train,Tommy,Tommy_04.wav,train/Tommy/Tommy_04.wav,clean
+train,Tommy,Tommy_04.wav,train/Tommy/Tommy_04_snr_-5dB.wav,-5 dB
+train,Tommy,Tommy_04.wav,train/Tommy/Tommy_04_snr_0dB.wav,0 dB
+train,Tommy,Tommy_04.wav,train/Tommy/Tommy_04_snr_5dB.wav,5 dB
+train,Tommy,Tommy_04.wav,train/Tommy/Tommy_04_snr_10dB.wav,10 dB
+train,Tommy,Tommy_04.wav,train/Tommy/Tommy_04_snr_15dB.wav,15 dB
+validation,Tommy,Tommy_12.wav,validation/Tommy/Tommy_12.wav,clean
+validation,Tommy,Tommy_20.wav,validation/Tommy/Tommy_20.wav,clean
+validation,Tommy,Tommy_03.wav,validation/Tommy/Tommy_03.wav,clean
+test,Tommy,Tommy_14.wav,test/Tommy/Tommy_14.wav,clean
+test,Tommy,Tommy_11.wav,test/Tommy/Tommy_11.wav,clean
+test,Tommy,Tommy_15.wav,test/Tommy/Tommy_15.wav,clean
+test,Tommy,Tommy_01.wav,test/Tommy/Tommy_01.wav,clean
+test,Tommy,Tommy_07.wav,test/Tommy/Tommy_07.wav,clean
+train,Xingchen,Xingchen_05.wav,train/Xingchen/Xingchen_05.wav,clean
+train,Xingchen,Xingchen_05.wav,train/Xingchen/Xingchen_05_snr_-5dB.wav,-5 dB
+train,Xingchen,Xingchen_05.wav,train/Xingchen/Xingchen_05_snr_0dB.wav,0 dB
+train,Xingchen,Xingchen_05.wav,train/Xingchen/Xingchen_05_snr_5dB.wav,5 dB
+train,Xingchen,Xingchen_05.wav,train/Xingchen/Xingchen_05_snr_10dB.wav,10 dB
+train,Xingchen,Xingchen_05.wav,train/Xingchen/Xingchen_05_snr_15dB.wav,15 dB
+train,Xingchen,Xingchen_18.wav,train/Xingchen/Xingchen_18.wav,clean
+train,Xingchen,Xingchen_18.wav,train/Xingchen/Xingchen_18_snr_-5dB.wav,-5 dB
+train,Xingchen,Xingchen_18.wav,train/Xingchen/Xingchen_18_snr_0dB.wav,0 dB
+train,Xingchen,Xingchen_18.wav,train/Xingchen/Xingchen_18_snr_5dB.wav,5 dB
+train,Xingchen,Xingchen_18.wav,train/Xingchen/Xingchen_18_snr_10dB.wav,10 dB
+train,Xingchen,Xingchen_18.wav,train/Xingchen/Xingchen_18_snr_15dB.wav,15 dB
+train,Xingchen,Xingchen_09.wav,train/Xingchen/Xingchen_09.wav,clean
+train,Xingchen,Xingchen_09.wav,train/Xingchen/Xingchen_09_snr_-5dB.wav,-5 dB
+train,Xingchen,Xingchen_09.wav,train/Xingchen/Xingchen_09_snr_0dB.wav,0 dB
+train,Xingchen,Xingchen_09.wav,train/Xingchen/Xingchen_09_snr_5dB.wav,5 dB
+train,Xingchen,Xingchen_09.wav,train/Xingchen/Xingchen_09_snr_10dB.wav,10 dB
+train,Xingchen,Xingchen_09.wav,train/Xingchen/Xingchen_09_snr_15dB.wav,15 dB
+train,Xingchen,Xingchen_04.wav,train/Xingchen/Xingchen_04.wav,clean
+train,Xingchen,Xingchen_04.wav,train/Xingchen/Xingchen_04_snr_-5dB.wav,-5 dB
+train,Xingchen,Xingchen_04.wav,train/Xingchen/Xingchen_04_snr_0dB.wav,0 dB
+train,Xingchen,Xingchen_04.wav,train/Xingchen/Xingchen_04_snr_5dB.wav,5 dB
+train,Xingchen,Xingchen_04.wav,train/Xingchen/Xingchen_04_snr_10dB.wav,10 dB
+train,Xingchen,Xingchen_04.wav,train/Xingchen/Xingchen_04_snr_15dB.wav,15 dB
+train,Xingchen,Xingchen_10.wav,train/Xingchen/Xingchen_10.wav,clean
+train,Xingchen,Xingchen_10.wav,train/Xingchen/Xingchen_10_snr_-5dB.wav,-5 dB
+train,Xingchen,Xingchen_10.wav,train/Xingchen/Xingchen_10_snr_0dB.wav,0 dB
+train,Xingchen,Xingchen_10.wav,train/Xingchen/Xingchen_10_snr_5dB.wav,5 dB
+train,Xingchen,Xingchen_10.wav,train/Xingchen/Xingchen_10_snr_10dB.wav,10 dB
+train,Xingchen,Xingchen_10.wav,train/Xingchen/Xingchen_10_snr_15dB.wav,15 dB
+train,Xingchen,Xingchen_01.wav,train/Xingchen/Xingchen_01.wav,clean
+train,Xingchen,Xingchen_01.wav,train/Xingchen/Xingchen_01_snr_-5dB.wav,-5 dB
+train,Xingchen,Xingchen_01.wav,train/Xingchen/Xingchen_01_snr_0dB.wav,0 dB
+train,Xingchen,Xingchen_01.wav,train/Xingchen/Xingchen_01_snr_5dB.wav,5 dB
+train,Xingchen,Xingchen_01.wav,train/Xingchen/Xingchen_01_snr_10dB.wav,10 dB
+train,Xingchen,Xingchen_01.wav,train/Xingchen/Xingchen_01_snr_15dB.wav,15 dB
+train,Xingchen,Xingchen_12.wav,train/Xingchen/Xingchen_12.wav,clean
+train,Xingchen,Xingchen_12.wav,train/Xingchen/Xingchen_12_snr_-5dB.wav,-5 dB
+train,Xingchen,Xingchen_12.wav,train/Xingchen/Xingchen_12_snr_0dB.wav,0 dB
+train,Xingchen,Xingchen_12.wav,train/Xingchen/Xingchen_12_snr_5dB.wav,5 dB
+train,Xingchen,Xingchen_12.wav,train/Xingchen/Xingchen_12_snr_10dB.wav,10 dB
+train,Xingchen,Xingchen_12.wav,train/Xingchen/Xingchen_12_snr_15dB.wav,15 dB
+train,Xingchen,Xingchen_20.wav,train/Xingchen/Xingchen_20.wav,clean
+train,Xingchen,Xingchen_20.wav,train/Xingchen/Xingchen_20_snr_-5dB.wav,-5 dB
+train,Xingchen,Xingchen_20.wav,train/Xingchen/Xingchen_20_snr_0dB.wav,0 dB
+train,Xingchen,Xingchen_20.wav,train/Xingchen/Xingchen_20_snr_5dB.wav,5 dB
+train,Xingchen,Xingchen_20.wav,train/Xingchen/Xingchen_20_snr_10dB.wav,10 dB
+train,Xingchen,Xingchen_20.wav,train/Xingchen/Xingchen_20_snr_15dB.wav,15 dB
+train,Xingchen,Xingchen_08.wav,train/Xingchen/Xingchen_08.wav,clean
+train,Xingchen,Xingchen_08.wav,train/Xingchen/Xingchen_08_snr_-5dB.wav,-5 dB
+train,Xingchen,Xingchen_08.wav,train/Xingchen/Xingchen_08_snr_0dB.wav,0 dB
+train,Xingchen,Xingchen_08.wav,train/Xingchen/Xingchen_08_snr_5dB.wav,5 dB
+train,Xingchen,Xingchen_08.wav,train/Xingchen/Xingchen_08_snr_10dB.wav,10 dB
+train,Xingchen,Xingchen_08.wav,train/Xingchen/Xingchen_08_snr_15dB.wav,15 dB
+train,Xingchen,Xingchen_19.wav,train/Xingchen/Xingchen_19.wav,clean
+train,Xingchen,Xingchen_19.wav,train/Xingchen/Xingchen_19_snr_-5dB.wav,-5 dB
+train,Xingchen,Xingchen_19.wav,train/Xingchen/Xingchen_19_snr_0dB.wav,0 dB
+train,Xingchen,Xingchen_19.wav,train/Xingchen/Xingchen_19_snr_5dB.wav,5 dB
+train,Xingchen,Xingchen_19.wav,train/Xingchen/Xingchen_19_snr_10dB.wav,10 dB
+train,Xingchen,Xingchen_19.wav,train/Xingchen/Xingchen_19_snr_15dB.wav,15 dB
+train,Xingchen,Xingchen_03.wav,train/Xingchen/Xingchen_03.wav,clean
+train,Xingchen,Xingchen_03.wav,train/Xingchen/Xingchen_03_snr_-5dB.wav,-5 dB
+train,Xingchen,Xingchen_03.wav,train/Xingchen/Xingchen_03_snr_0dB.wav,0 dB
+train,Xingchen,Xingchen_03.wav,train/Xingchen/Xingchen_03_snr_5dB.wav,5 dB
+train,Xingchen,Xingchen_03.wav,train/Xingchen/Xingchen_03_snr_10dB.wav,10 dB
+train,Xingchen,Xingchen_03.wav,train/Xingchen/Xingchen_03_snr_15dB.wav,15 dB
+train,Xingchen,Xingchen_15.wav,train/Xingchen/Xingchen_15.wav,clean
+train,Xingchen,Xingchen_15.wav,train/Xingchen/Xingchen_15_snr_-5dB.wav,-5 dB
+train,Xingchen,Xingchen_15.wav,train/Xingchen/Xingchen_15_snr_0dB.wav,0 dB
+train,Xingchen,Xingchen_15.wav,train/Xingchen/Xingchen_15_snr_5dB.wav,5 dB
+train,Xingchen,Xingchen_15.wav,train/Xingchen/Xingchen_15_snr_10dB.wav,10 dB
+train,Xingchen,Xingchen_15.wav,train/Xingchen/Xingchen_15_snr_15dB.wav,15 dB
+validation,Xingchen,Xingchen_16.wav,validation/Xingchen/Xingchen_16.wav,clean
+validation,Xingchen,Xingchen_07.wav,validation/Xingchen/Xingchen_07.wav,clean
+validation,Xingchen,Xingchen_02.wav,validation/Xingchen/Xingchen_02.wav,clean
+test,Xingchen,Xingchen_11.wav,test/Xingchen/Xingchen_11.wav,clean
+test,Xingchen,Xingchen_17.wav,test/Xingchen/Xingchen_17.wav,clean
+test,Xingchen,Xingchen_14.wav,test/Xingchen/Xingchen_14.wav,clean
+test,Xingchen,Xingchen_13.wav,test/Xingchen/Xingchen_13.wav,clean
+test,Xingchen,Xingchen_06.wav,test/Xingchen/Xingchen_06.wav,clean
+train,Ziang,Ziang_16.wav,train/Ziang/Ziang_16.wav,clean
+train,Ziang,Ziang_16.wav,train/Ziang/Ziang_16_snr_-5dB.wav,-5 dB
+train,Ziang,Ziang_16.wav,train/Ziang/Ziang_16_snr_0dB.wav,0 dB
+train,Ziang,Ziang_16.wav,train/Ziang/Ziang_16_snr_5dB.wav,5 dB
+train,Ziang,Ziang_16.wav,train/Ziang/Ziang_16_snr_10dB.wav,10 dB
+train,Ziang,Ziang_16.wav,train/Ziang/Ziang_16_snr_15dB.wav,15 dB
+train,Ziang,Ziang_12.wav,train/Ziang/Ziang_12.wav,clean
+train,Ziang,Ziang_12.wav,train/Ziang/Ziang_12_snr_-5dB.wav,-5 dB
+train,Ziang,Ziang_12.wav,train/Ziang/Ziang_12_snr_0dB.wav,0 dB
+train,Ziang,Ziang_12.wav,train/Ziang/Ziang_12_snr_5dB.wav,5 dB
+train,Ziang,Ziang_12.wav,train/Ziang/Ziang_12_snr_10dB.wav,10 dB
+train,Ziang,Ziang_12.wav,train/Ziang/Ziang_12_snr_15dB.wav,15 dB
+train,Ziang,Ziang_14.wav,train/Ziang/Ziang_14.wav,clean
+train,Ziang,Ziang_14.wav,train/Ziang/Ziang_14_snr_-5dB.wav,-5 dB
+train,Ziang,Ziang_14.wav,train/Ziang/Ziang_14_snr_0dB.wav,0 dB
+train,Ziang,Ziang_14.wav,train/Ziang/Ziang_14_snr_5dB.wav,5 dB
+train,Ziang,Ziang_14.wav,train/Ziang/Ziang_14_snr_10dB.wav,10 dB
+train,Ziang,Ziang_14.wav,train/Ziang/Ziang_14_snr_15dB.wav,15 dB
+train,Ziang,Ziang_19.wav,train/Ziang/Ziang_19.wav,clean
+train,Ziang,Ziang_19.wav,train/Ziang/Ziang_19_snr_-5dB.wav,-5 dB
+train,Ziang,Ziang_19.wav,train/Ziang/Ziang_19_snr_0dB.wav,0 dB
+train,Ziang,Ziang_19.wav,train/Ziang/Ziang_19_snr_5dB.wav,5 dB
+train,Ziang,Ziang_19.wav,train/Ziang/Ziang_19_snr_10dB.wav,10 dB
+train,Ziang,Ziang_19.wav,train/Ziang/Ziang_19_snr_15dB.wav,15 dB
+train,Ziang,Ziang_17.wav,train/Ziang/Ziang_17.wav,clean
+train,Ziang,Ziang_17.wav,train/Ziang/Ziang_17_snr_-5dB.wav,-5 dB
+train,Ziang,Ziang_17.wav,train/Ziang/Ziang_17_snr_0dB.wav,0 dB
+train,Ziang,Ziang_17.wav,train/Ziang/Ziang_17_snr_5dB.wav,5 dB
+train,Ziang,Ziang_17.wav,train/Ziang/Ziang_17_snr_10dB.wav,10 dB
+train,Ziang,Ziang_17.wav,train/Ziang/Ziang_17_snr_15dB.wav,15 dB
+train,Ziang,Ziang_09.wav,train/Ziang/Ziang_09.wav,clean
+train,Ziang,Ziang_09.wav,train/Ziang/Ziang_09_snr_-5dB.wav,-5 dB
+train,Ziang,Ziang_09.wav,train/Ziang/Ziang_09_snr_0dB.wav,0 dB
+train,Ziang,Ziang_09.wav,train/Ziang/Ziang_09_snr_5dB.wav,5 dB
+train,Ziang,Ziang_09.wav,train/Ziang/Ziang_09_snr_10dB.wav,10 dB
+train,Ziang,Ziang_09.wav,train/Ziang/Ziang_09_snr_15dB.wav,15 dB
+train,Ziang,Ziang_11.wav,train/Ziang/Ziang_11.wav,clean
+train,Ziang,Ziang_11.wav,train/Ziang/Ziang_11_snr_-5dB.wav,-5 dB
+train,Ziang,Ziang_11.wav,train/Ziang/Ziang_11_snr_0dB.wav,0 dB
+train,Ziang,Ziang_11.wav,train/Ziang/Ziang_11_snr_5dB.wav,5 dB
+train,Ziang,Ziang_11.wav,train/Ziang/Ziang_11_snr_10dB.wav,10 dB
+train,Ziang,Ziang_11.wav,train/Ziang/Ziang_11_snr_15dB.wav,15 dB
+train,Ziang,Ziang_10.wav,train/Ziang/Ziang_10.wav,clean
+train,Ziang,Ziang_10.wav,train/Ziang/Ziang_10_snr_-5dB.wav,-5 dB
+train,Ziang,Ziang_10.wav,train/Ziang/Ziang_10_snr_0dB.wav,0 dB
+train,Ziang,Ziang_10.wav,train/Ziang/Ziang_10_snr_5dB.wav,5 dB
+train,Ziang,Ziang_10.wav,train/Ziang/Ziang_10_snr_10dB.wav,10 dB
+train,Ziang,Ziang_10.wav,train/Ziang/Ziang_10_snr_15dB.wav,15 dB
+train,Ziang,Ziang_07.wav,train/Ziang/Ziang_07.wav,clean
+train,Ziang,Ziang_07.wav,train/Ziang/Ziang_07_snr_-5dB.wav,-5 dB
+train,Ziang,Ziang_07.wav,train/Ziang/Ziang_07_snr_0dB.wav,0 dB
+train,Ziang,Ziang_07.wav,train/Ziang/Ziang_07_snr_5dB.wav,5 dB
+train,Ziang,Ziang_07.wav,train/Ziang/Ziang_07_snr_10dB.wav,10 dB
+train,Ziang,Ziang_07.wav,train/Ziang/Ziang_07_snr_15dB.wav,15 dB
+train,Ziang,Ziang_01.wav,train/Ziang/Ziang_01.wav,clean
+train,Ziang,Ziang_01.wav,train/Ziang/Ziang_01_snr_-5dB.wav,-5 dB
+train,Ziang,Ziang_01.wav,train/Ziang/Ziang_01_snr_0dB.wav,0 dB
+train,Ziang,Ziang_01.wav,train/Ziang/Ziang_01_snr_5dB.wav,5 dB
+train,Ziang,Ziang_01.wav,train/Ziang/Ziang_01_snr_10dB.wav,10 dB
+train,Ziang,Ziang_01.wav,train/Ziang/Ziang_01_snr_15dB.wav,15 dB
+train,Ziang,Ziang_02.wav,train/Ziang/Ziang_02.wav,clean
+train,Ziang,Ziang_02.wav,train/Ziang/Ziang_02_snr_-5dB.wav,-5 dB
+train,Ziang,Ziang_02.wav,train/Ziang/Ziang_02_snr_0dB.wav,0 dB
+train,Ziang,Ziang_02.wav,train/Ziang/Ziang_02_snr_5dB.wav,5 dB
+train,Ziang,Ziang_02.wav,train/Ziang/Ziang_02_snr_10dB.wav,10 dB
+train,Ziang,Ziang_02.wav,train/Ziang/Ziang_02_snr_15dB.wav,15 dB
+train,Ziang,Ziang_04.wav,train/Ziang/Ziang_04.wav,clean
+train,Ziang,Ziang_04.wav,train/Ziang/Ziang_04_snr_-5dB.wav,-5 dB
+train,Ziang,Ziang_04.wav,train/Ziang/Ziang_04_snr_0dB.wav,0 dB
+train,Ziang,Ziang_04.wav,train/Ziang/Ziang_04_snr_5dB.wav,5 dB
+train,Ziang,Ziang_04.wav,train/Ziang/Ziang_04_snr_10dB.wav,10 dB
+train,Ziang,Ziang_04.wav,train/Ziang/Ziang_04_snr_15dB.wav,15 dB
+validation,Ziang,Ziang_05.wav,validation/Ziang/Ziang_05.wav,clean
+validation,Ziang,Ziang_03.wav,validation/Ziang/Ziang_03.wav,clean
+validation,Ziang,Ziang_06.wav,validation/Ziang/Ziang_06.wav,clean
+test,Ziang,Ziang_15.wav,test/Ziang/Ziang_15.wav,clean
+test,Ziang,Ziang_20.wav,test/Ziang/Ziang_20.wav,clean
+test,Ziang,Ziang_08.wav,test/Ziang/Ziang_08.wav,clean
+test,Ziang,Ziang_13.wav,test/Ziang/Ziang_13.wav,clean
+test,Ziang,Ziang_18.wav,test/Ziang/Ziang_18.wav,clean
+train,Zihan,Zihan_16.wav,train/Zihan/Zihan_16.wav,clean
+train,Zihan,Zihan_16.wav,train/Zihan/Zihan_16_snr_-5dB.wav,-5 dB
+train,Zihan,Zihan_16.wav,train/Zihan/Zihan_16_snr_0dB.wav,0 dB
+train,Zihan,Zihan_16.wav,train/Zihan/Zihan_16_snr_5dB.wav,5 dB
+train,Zihan,Zihan_16.wav,train/Zihan/Zihan_16_snr_10dB.wav,10 dB
+train,Zihan,Zihan_16.wav,train/Zihan/Zihan_16_snr_15dB.wav,15 dB
+train,Zihan,Zihan_11.wav,train/Zihan/Zihan_11.wav,clean
+train,Zihan,Zihan_11.wav,train/Zihan/Zihan_11_snr_-5dB.wav,-5 dB
+train,Zihan,Zihan_11.wav,train/Zihan/Zihan_11_snr_0dB.wav,0 dB
+train,Zihan,Zihan_11.wav,train/Zihan/Zihan_11_snr_5dB.wav,5 dB
+train,Zihan,Zihan_11.wav,train/Zihan/Zihan_11_snr_10dB.wav,10 dB
+train,Zihan,Zihan_11.wav,train/Zihan/Zihan_11_snr_15dB.wav,15 dB
+train,Zihan,Zihan_12.wav,train/Zihan/Zihan_12.wav,clean
+train,Zihan,Zihan_12.wav,train/Zihan/Zihan_12_snr_-5dB.wav,-5 dB
+train,Zihan,Zihan_12.wav,train/Zihan/Zihan_12_snr_0dB.wav,0 dB
+train,Zihan,Zihan_12.wav,train/Zihan/Zihan_12_snr_5dB.wav,5 dB
+train,Zihan,Zihan_12.wav,train/Zihan/Zihan_12_snr_10dB.wav,10 dB
+train,Zihan,Zihan_12.wav,train/Zihan/Zihan_12_snr_15dB.wav,15 dB
+train,Zihan,Zihan_06.wav,train/Zihan/Zihan_06.wav,clean
+train,Zihan,Zihan_06.wav,train/Zihan/Zihan_06_snr_-5dB.wav,-5 dB
+train,Zihan,Zihan_06.wav,train/Zihan/Zihan_06_snr_0dB.wav,0 dB
+train,Zihan,Zihan_06.wav,train/Zihan/Zihan_06_snr_5dB.wav,5 dB
+train,Zihan,Zihan_06.wav,train/Zihan/Zihan_06_snr_10dB.wav,10 dB
+train,Zihan,Zihan_06.wav,train/Zihan/Zihan_06_snr_15dB.wav,15 dB
+train,Zihan,Zihan_18.wav,train/Zihan/Zihan_18.wav,clean
+train,Zihan,Zihan_18.wav,train/Zihan/Zihan_18_snr_-5dB.wav,-5 dB
+train,Zihan,Zihan_18.wav,train/Zihan/Zihan_18_snr_0dB.wav,0 dB
+train,Zihan,Zihan_18.wav,train/Zihan/Zihan_18_snr_5dB.wav,5 dB
+train,Zihan,Zihan_18.wav,train/Zihan/Zihan_18_snr_10dB.wav,10 dB
+train,Zihan,Zihan_18.wav,train/Zihan/Zihan_18_snr_15dB.wav,15 dB
+train,Zihan,Zihan_19.wav,train/Zihan/Zihan_19.wav,clean
+train,Zihan,Zihan_19.wav,train/Zihan/Zihan_19_snr_-5dB.wav,-5 dB
+train,Zihan,Zihan_19.wav,train/Zihan/Zihan_19_snr_0dB.wav,0 dB
+train,Zihan,Zihan_19.wav,train/Zihan/Zihan_19_snr_5dB.wav,5 dB
+train,Zihan,Zihan_19.wav,train/Zihan/Zihan_19_snr_10dB.wav,10 dB
+train,Zihan,Zihan_19.wav,train/Zihan/Zihan_19_snr_15dB.wav,15 dB
+train,Zihan,Zihan_20.wav,train/Zihan/Zihan_20.wav,clean
+train,Zihan,Zihan_20.wav,train/Zihan/Zihan_20_snr_-5dB.wav,-5 dB
+train,Zihan,Zihan_20.wav,train/Zihan/Zihan_20_snr_0dB.wav,0 dB
+train,Zihan,Zihan_20.wav,train/Zihan/Zihan_20_snr_5dB.wav,5 dB
+train,Zihan,Zihan_20.wav,train/Zihan/Zihan_20_snr_10dB.wav,10 dB
+train,Zihan,Zihan_20.wav,train/Zihan/Zihan_20_snr_15dB.wav,15 dB
+train,Zihan,Zihan_04.wav,train/Zihan/Zihan_04.wav,clean
+train,Zihan,Zihan_04.wav,train/Zihan/Zihan_04_snr_-5dB.wav,-5 dB
+train,Zihan,Zihan_04.wav,train/Zihan/Zihan_04_snr_0dB.wav,0 dB
+train,Zihan,Zihan_04.wav,train/Zihan/Zihan_04_snr_5dB.wav,5 dB
+train,Zihan,Zihan_04.wav,train/Zihan/Zihan_04_snr_10dB.wav,10 dB
+train,Zihan,Zihan_04.wav,train/Zihan/Zihan_04_snr_15dB.wav,15 dB
+train,Zihan,Zihan_03.wav,train/Zihan/Zihan_03.wav,clean
+train,Zihan,Zihan_03.wav,train/Zihan/Zihan_03_snr_-5dB.wav,-5 dB
+train,Zihan,Zihan_03.wav,train/Zihan/Zihan_03_snr_0dB.wav,0 dB
+train,Zihan,Zihan_03.wav,train/Zihan/Zihan_03_snr_5dB.wav,5 dB
+train,Zihan,Zihan_03.wav,train/Zihan/Zihan_03_snr_10dB.wav,10 dB
+train,Zihan,Zihan_03.wav,train/Zihan/Zihan_03_snr_15dB.wav,15 dB
+train,Zihan,Zihan_15.wav,train/Zihan/Zihan_15.wav,clean
+train,Zihan,Zihan_15.wav,train/Zihan/Zihan_15_snr_-5dB.wav,-5 dB
+train,Zihan,Zihan_15.wav,train/Zihan/Zihan_15_snr_0dB.wav,0 dB
+train,Zihan,Zihan_15.wav,train/Zihan/Zihan_15_snr_5dB.wav,5 dB
+train,Zihan,Zihan_15.wav,train/Zihan/Zihan_15_snr_10dB.wav,10 dB
+train,Zihan,Zihan_15.wav,train/Zihan/Zihan_15_snr_15dB.wav,15 dB
+train,Zihan,Zihan_07.wav,train/Zihan/Zihan_07.wav,clean
+train,Zihan,Zihan_07.wav,train/Zihan/Zihan_07_snr_-5dB.wav,-5 dB
+train,Zihan,Zihan_07.wav,train/Zihan/Zihan_07_snr_0dB.wav,0 dB
+train,Zihan,Zihan_07.wav,train/Zihan/Zihan_07_snr_5dB.wav,5 dB
+train,Zihan,Zihan_07.wav,train/Zihan/Zihan_07_snr_10dB.wav,10 dB
+train,Zihan,Zihan_07.wav,train/Zihan/Zihan_07_snr_15dB.wav,15 dB
+train,Zihan,Zihan_13.wav,train/Zihan/Zihan_13.wav,clean
+train,Zihan,Zihan_13.wav,train/Zihan/Zihan_13_snr_-5dB.wav,-5 dB
+train,Zihan,Zihan_13.wav,train/Zihan/Zihan_13_snr_0dB.wav,0 dB
+train,Zihan,Zihan_13.wav,train/Zihan/Zihan_13_snr_5dB.wav,5 dB
+train,Zihan,Zihan_13.wav,train/Zihan/Zihan_13_snr_10dB.wav,10 dB
+train,Zihan,Zihan_13.wav,train/Zihan/Zihan_13_snr_15dB.wav,15 dB
+validation,Zihan,Zihan_10.wav,validation/Zihan/Zihan_10.wav,clean
+validation,Zihan,Zihan_09.wav,validation/Zihan/Zihan_09.wav,clean
+validation,Zihan,Zihan_17.wav,validation/Zihan/Zihan_17.wav,clean
+test,Zihan,Zihan_01.wav,test/Zihan/Zihan_01.wav,clean
+test,Zihan,Zihan_05.wav,test/Zihan/Zihan_05.wav,clean
+test,Zihan,Zihan_08.wav,test/Zihan/Zihan_08.wav,clean
+test,Zihan,Zihan_02.wav,test/Zihan/Zihan_02.wav,clean
+test,Zihan,Zihan_14.wav,test/Zihan/Zihan_14.wav,clean
