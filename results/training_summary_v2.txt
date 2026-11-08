@@ -1,0 +1,24 @@
+IMPROVED SPEECH RECOGNITION MODEL - CNN
+
+Feature extraction:
+Manual MFCC
+40 Mel filters
+13 MFCC coefficients
+
+Training dataset: 1440
+Validation dataset: 60
+Number of classes: 20
+
+Model:
+TensorFlow 2D CNN
+Total parameters: 112660
+
+Training epochs: 30
+Best epoch: 27
+
+Best validation accuracy: 98.33%
+Final training accuracy: 100%
+
+Model saved:
+models_v2/best_cnn_v2.keras
+models_v2/final_cnn_v2.keras

@@ -1,0 +1,7 @@
+Condition,SNR_dB,Correct,Total,Accuracy_Percent
+Clean,Clean,98,100,98.0
+-5 dB,-5,86,100,86.0
+0 dB,0,95,100,95.0
+5 dB,5,97,100,97.0
+10 dB,10,97,100,97.0
+15 dB,15,98,100,98.0

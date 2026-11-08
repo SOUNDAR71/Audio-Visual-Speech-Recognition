@@ -1,0 +1,7 @@
+SNR,Test recordings,Correct predictions,Accuracy (%)
+Clean,6,3,50.0
+-5,17,0,0.0
+0,15,3,20.0
+5,15,7,46.67
+10,16,5,31.25
+15,11,9,81.82

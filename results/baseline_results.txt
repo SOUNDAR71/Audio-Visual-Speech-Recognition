@@ -1,0 +1,78 @@
+# Baseline Model Evaluation – Experiment 1
+
+## Model
+Deep Neural Network (MLPClassifier)
+
+## Dataset
+- Number of names: 20
+- Original recordings: 20
+- Augmented recordings: 380
+- Total audio recordings: 400
+
+## Feature Extraction
+- Feature type: MFCC
+- MFCC coefficients: 40
+- Features per recording: 80 (mean and standard deviation)
+
+## Training and Testing
+- Training samples: 320
+- Testing samples: 80
+- Training/testing split: 80% / 20%
+
+## Evaluation Result
+- Correct predictions: 27
+- Incorrect predictions: 53
+- Test accuracy: 33.75%
+
+## Initial Observation
+The baseline model achieved an accuracy of 33.75%. The model successfully recognised some names but struggled with several other classes.
+
+## Limitation
+The augmented recordings were generated from only one original recording per name. Therefore, different noisy versions of the same original utterance could appear in both training and testing sets. The result should be considered an exploratory baseline rather than a reliable estimate of performance on independent speech recordings.
+
+## Future Improvement
+Collect multiple independent recordings for each name, apply noise augmentation, retrain the model and compare the evaluation results.
+
+
+## Background Noise Evaluation
+
+The model was evaluated under six recording conditions: clean audio and five signal-to-noise ratio (SNR) levels (-5, 0, 5, 10 and 15 dB).
+
+The observed accuracies were:
+
+- Clean: 50.00%
+- -5 dB: 0.00%
+- 0 dB: 20.00%
+- 5 dB: 46.67%
+- 10 dB: 31.25%
+- 15 dB: 81.82%
+
+The highest accuracy was achieved at 15 dB, while the lowest was at -5 dB. Overall, the results suggest that stronger background noise can negatively affect speech recognition performance.
+
+However, the results are exploratory because the test groups are small and the augmented recordings originate from only one original recording per name. A more reliable evaluation requires multiple independent speech recordings for each name.
+
+## Limitations and Overall Findings
+
+### Limitations
+
+The first experiment has several limitations:
+
+1. **Limited original dataset:** Only one original recording was collected for each of the 20 names. This limits the variation in speech samples available for model training.
+2. **Limited speaker and pronunciation variation:** The dataset does not adequately represent differences in speakers, accents, pronunciation and speaking speed.
+3. **Risk of data leakage:** Noisy versions were generated from the same original recordings. Since the dataset was randomly divided into training and testing sets, related versions of the same speech recording could appear in both sets.
+4. **Low recognition accuracy:** The baseline model achieved 33.75% accuracy, indicating that it struggled to recognise several names correctly.
+5. **Unequal SNR test groups:** The number of test recordings varied across noise conditions, so the noise evaluation results should be interpreted cautiously.
+
+### Overall Findings
+
+The first experiment demonstrated a complete audio speech recognition pipeline using noise augmentation, MFCC feature extraction and a neural network classifier.
+
+A total of 400 audio recordings were generated from 20 original recordings and 19 background noise recordings. MFCC features were extracted and used to train a neural network model to recognise 20 different names.
+
+The baseline model achieved 33.75% test accuracy. The noise evaluation showed that accuracy varied across SNR conditions, ranging from 0% at -5 dB to 81.82% at 15 dB.
+
+These findings suggest that background noise affects recognition performance. However, the small test groups and limited number of independent original recordings mean that the results cannot yet demonstrate reliable generalisation to unseen speech.
+
+### Future Improvements
+
+The next experiment will focus on collecting 20 independent speech recordings for each name, producing a dataset of 400 original recordings. Different background noise recordings and SNR levels will then be used to

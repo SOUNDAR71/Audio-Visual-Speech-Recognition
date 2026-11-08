@@ -1,0 +1,601 @@
+Condition,Actual,Predicted,Correct,Noise_File
+Clean,Aaron,Aaron,True,None
+Clean,Aaron,Aaron,True,None
+Clean,Aaron,Aaron,True,None
+Clean,Aaron,Aaron,True,None
+Clean,Aaron,Aaron,True,None
+Clean,Alex,Alex,True,None
+Clean,Alex,Alex,True,None
+Clean,Alex,Alex,True,None
+Clean,Alex,Alex,True,None
+Clean,Alex,Alex,True,None
+Clean,Ali,Ali,True,None
+Clean,Ali,Ali,True,None
+Clean,Ali,Ali,True,None
+Clean,Ali,Ali,True,None
+Clean,Ali,Ali,True,None
+Clean,Charlie,Charlie,True,None
+Clean,Charlie,Ali,False,None
+Clean,Charlie,Charlie,True,None
+Clean,Charlie,Charlie,True,None
+Clean,Charlie,Charlie,True,None
+Clean,Harriet,Jacek,False,None
+Clean,Harriet,Harriet,True,None
+Clean,Harriet,Harriet,True,None
+Clean,Harriet,Harriet,True,None
+Clean,Harriet,Harriet,True,None
+Clean,Jacek,Jacek,True,None
+Clean,Jacek,Jacek,True,None
+Clean,Jacek,Jacek,True,None
+Clean,Jacek,Jacek,True,None
+Clean,Jacek,Jacek,True,None
+Clean,Jack,Jack,True,None
+Clean,Jack,Jack,True,None
+Clean,Jack,Jack,True,None
+Clean,Jack,Jack,True,None
+Clean,Jack,Jack,True,None
+Clean,Jade,Jade,True,None
+Clean,Jade,Jade,True,None
+Clean,Jade,Jade,True,None
+Clean,Jade,Jade,True,None
+Clean,Jade,Jade,True,None
+Clean,Joshua,Joshua,True,None
+Clean,Joshua,Joshua,True,None
+Clean,Joshua,Joshua,True,None
+Clean,Joshua,Joshua,True,None
+Clean,Joshua,Joshua,True,None
+Clean,Mason,Mason,True,None
+Clean,Mason,Mason,True,None
+Clean,Mason,Mason,True,None
+Clean,Mason,Mason,True,None
+Clean,Mason,Mason,True,None
+Clean,Nathan,Nathan,True,None
+Clean,Nathan,Nathan,True,None
+Clean,Nathan,Nathan,True,None
+Clean,Nathan,Nathan,True,None
+Clean,Nathan,Nathan,True,None
+Clean,Nicholas,Nicholas,True,None
+Clean,Nicholas,Nicholas,True,None
+Clean,Nicholas,Nicholas,True,None
+Clean,Nicholas,Nicholas,True,None
+Clean,Nicholas,Nicholas,True,None
+Clean,Sam,Sam,True,None
+Clean,Sam,Sam,True,None
+Clean,Sam,Sam,True,None
+Clean,Sam,Sam,True,None
+Clean,Sam,Sam,True,None
+Clean,Samuel,Samuel,True,None
+Clean,Samuel,Samuel,True,None
+Clean,Samuel,Samuel,True,None
+Clean,Samuel,Samuel,True,None
+Clean,Samuel,Samuel,True,None
+Clean,Sean,Sean,True,None
+Clean,Sean,Sean,True,None
+Clean,Sean,Sean,True,None
+Clean,Sean,Sean,True,None
+Clean,Sean,Sean,True,None
+Clean,Toby,Toby,True,None
+Clean,Toby,Toby,True,None
+Clean,Toby,Toby,True,None
+Clean,Toby,Toby,True,None
+Clean,Toby,Toby,True,None
+Clean,Tommy,Tommy,True,None
+Clean,Tommy,Tommy,True,None
+Clean,Tommy,Tommy,True,None
+Clean,Tommy,Tommy,True,None
+Clean,Tommy,Tommy,True,None
+Clean,Xingchen,Xingchen,True,None
+Clean,Xingchen,Xingchen,True,None
+Clean,Xingchen,Xingchen,True,None
+Clean,Xingchen,Xingchen,True,None
+Clean,Xingchen,Xingchen,True,None
+Clean,Ziang,Ziang,True,None
+Clean,Ziang,Ziang,True,None
+Clean,Ziang,Ziang,True,None
+Clean,Ziang,Ziang,True,None
+Clean,Ziang,Ziang,True,None
+Clean,Zihan,Zihan,True,None
+Clean,Zihan,Zihan,True,None
+Clean,Zihan,Zihan,True,None
+Clean,Zihan,Zihan,True,None
+Clean,Zihan,Zihan,True,None
+-5 dB,Aaron,Aaron,True,crowd_talking.wav
+-5 dB,Aaron,Aaron,True,birdswindsuburbansounds.wav
+-5 dB,Aaron,Aaron,True,ambientsoundapp__people-distant.wav
+-5 dB,Aaron,Aaron,True,scooter-street-200420_0157.wav
+-5 dB,Aaron,Aaron,True,aeroplane-takeoff-from-cabin.wav
+-5 dB,Alex,Alex,True,construction-ambience.wav
+-5 dB,Alex,Alex,True,vacuumcleanere.wav
+-5 dB,Alex,Alex,True,aeroplane-takeoff-from-cabin.wav
+-5 dB,Alex,Alex,True,construction-ambience.wav
+-5 dB,Alex,Alex,True,washing-machine-spin-cycle-2.wav
+-5 dB,Ali,Tommy,False,crowd_talking.wav
+-5 dB,Ali,Ali,True,water_running.wav
+-5 dB,Ali,Ali,True,aeroplane-takeoff-from-cabin.wav
+-5 dB,Ali,Ali,True,scooter-street-200420_0157.wav
+-5 dB,Ali,Ali,True,fan.wav.flac
+-5 dB,Charlie,Charlie,True,construction-ambience.wav
+-5 dB,Charlie,Charlie,True,birdswindsuburbansounds.wav
+-5 dB,Charlie,Charlie,True,rain.wav.wav
+-5 dB,Charlie,Charlie,True,office.wav.wav
+-5 dB,Charlie,Charlie,True,wind.wav.wav
+-5 dB,Harriet,Harriet,True,air-conditioning-unit-2.wav
+-5 dB,Harriet,Jacek,False,washing-machine-spin-cycle-2.wav
+-5 dB,Harriet,Harriet,True,rain.wav.wav
+-5 dB,Harriet,Ali,False,washing-machine-spin-cycle-2.wav
+-5 dB,Harriet,Jacek,False,wind.wav.wav
+-5 dB,Jacek,Jacek,True,office.wav.wav
+-5 dB,Jacek,Jade,False,construction-ambience.wav
+-5 dB,Jacek,Jacek,True,ambientsoundapp__people-distant.wav
+-5 dB,Jacek,Jacek,True,crowd_talking.wav
+-5 dB,Jacek,Jacek,True,ambientsoundapp__people-distant.wav
+-5 dB,Jack,Jack,True,birdswindsuburbansounds.wav
+-5 dB,Jack,Jack,True,fan.wav.flac
+-5 dB,Jack,Jack,True,office.wav.wav
+-5 dB,Jack,Jack,True,office.wav.wav
+-5 dB,Jack,Jack,True,construction-ambience.wav
+-5 dB,Jade,Jade,True,fan.wav.flac
+-5 dB,Jade,Jade,True,ambientsoundapp__people-distant.wav
+-5 dB,Jade,Jade,True,cafe.wav.wav
+-5 dB,Jade,Jade,True,cafe.wav.wav
+-5 dB,Jade,Jacek,False,rain.wav.wav
+-5 dB,Joshua,Joshua,True,washing-machine-spin-cycle-2.wav
+-5 dB,Joshua,Joshua,True,midnight-clock02ms.wav
+-5 dB,Joshua,Joshua,True,crowd_talking.wav
+-5 dB,Joshua,Joshua,True,midnight-clock02ms.wav
+-5 dB,Joshua,Joshua,True,fan.wav.flac
+-5 dB,Mason,Mason,True,construction-ambience.wav
+-5 dB,Mason,Mason,True,midnight-clock02ms.wav
+-5 dB,Mason,Mason,True,train-people-neighborhood.wav
+-5 dB,Mason,Mason,True,traffic.wav.wav
+-5 dB,Mason,Mason,True,fan.wav.flac
+-5 dB,Nathan,Nathan,True,crowd_talking.wav
+-5 dB,Nathan,Aaron,False,washing-machine-spin-cycle-2.wav
+-5 dB,Nathan,Nathan,True,water_running.wav
+-5 dB,Nathan,Nathan,True,water_running.wav
+-5 dB,Nathan,Nathan,True,office.wav.wav
+-5 dB,Nicholas,Nicholas,True,bus_interior_highway.wav
+-5 dB,Nicholas,Nicholas,True,train-people-neighborhood.wav
+-5 dB,Nicholas,Nicholas,True,air-conditioning-unit-2.wav
+-5 dB,Nicholas,Nicholas,True,bus_interior_highway.wav
+-5 dB,Nicholas,Nicholas,True,scooter-street-200420_0157.wav
+-5 dB,Sam,Sam,True,ambientsoundapp__people-distant.wav
+-5 dB,Sam,Sam,True,rain.wav.wav
+-5 dB,Sam,Sam,True,traffic.wav.wav
+-5 dB,Sam,Sam,True,fan.wav.flac
+-5 dB,Sam,Sam,True,aeroplane-takeoff-from-cabin.wav
+-5 dB,Samuel,Sam,False,washing-machine-spin-cycle-2.wav
+-5 dB,Samuel,Samuel,True,midnight-clock02ms.wav
+-5 dB,Samuel,Samuel,True,keyboard-typing.wav
+-5 dB,Samuel,Samuel,True,cafe.wav.wav
+-5 dB,Samuel,Samuel,True,aeroplane-takeoff-from-cabin.wav
+-5 dB,Sean,Sean,True,vacuumcleanere.wav
+-5 dB,Sean,Sean,True,cafe.wav.wav
+-5 dB,Sean,Sean,True,birdswindsuburbansounds.wav
+-5 dB,Sean,Sean,True,keyboard-typing.wav
+-5 dB,Sean,Sean,True,wind.wav.wav
+-5 dB,Toby,Toby,True,bus_interior_highway.wav
+-5 dB,Toby,Toby,True,cafe.wav.wav
+-5 dB,Toby,Toby,True,wind.wav.wav
+-5 dB,Toby,Toby,True,train-people-neighborhood.wav
+-5 dB,Toby,Nathan,False,birdswindsuburbansounds.wav
+-5 dB,Tommy,Nicholas,False,keyboard-typing.wav
+-5 dB,Tommy,Tommy,True,air-conditioning-unit-2.wav
+-5 dB,Tommy,Tommy,True,water_running.wav
+-5 dB,Tommy,Sean,False,ambientsoundapp__people-distant.wav
+-5 dB,Tommy,Tommy,True,train-people-neighborhood.wav
+-5 dB,Xingchen,Xingchen,True,washing-machine-spin-cycle-2.wav
+-5 dB,Xingchen,Xingchen,True,bus_interior_highway.wav
+-5 dB,Xingchen,Xingchen,True,washing-machine-spin-cycle-2.wav
+-5 dB,Xingchen,Xingchen,True,fan.wav.flac
+-5 dB,Xingchen,Xingchen,True,wind.wav.wav
+-5 dB,Ziang,Ziang,True,construction-ambience.wav
+-5 dB,Ziang,Ziang,True,construction-ambience.wav
+-5 dB,Ziang,Ziang,True,keyboard-typing.wav
+-5 dB,Ziang,Ziang,True,office.wav.wav
+-5 dB,Ziang,Samuel,False,vacuumcleanere.wav
+-5 dB,Zihan,Toby,False,birdswindsuburbansounds.wav
+-5 dB,Zihan,Zihan,True,crowd_talking.wav
+-5 dB,Zihan,Zihan,True,midnight-clock02ms.wav
+-5 dB,Zihan,Toby,False,water_running.wav
+-5 dB,Zihan,Zihan,True,crowd_talking.wav
+0 dB,Aaron,Aaron,True,crowd_talking.wav
+0 dB,Aaron,Aaron,True,ambientsoundapp__people-distant.wav
+0 dB,Aaron,Aaron,True,air-conditioning-unit-2.wav
+0 dB,Aaron,Aaron,True,ambientsoundapp__people-distant.wav
+0 dB,Aaron,Aaron,True,midnight-clock02ms.wav
+0 dB,Alex,Alex,True,vacuumcleanere.wav
+0 dB,Alex,Alex,True,fan.wav.flac
+0 dB,Alex,Alex,True,train-people-neighborhood.wav
+0 dB,Alex,Alex,True,washing-machine-spin-cycle-2.wav
+0 dB,Alex,Alex,True,water_running.wav
+0 dB,Ali,Ali,True,train-people-neighborhood.wav
+0 dB,Ali,Ali,True,train-people-neighborhood.wav
+0 dB,Ali,Ali,True,construction-ambience.wav
+0 dB,Ali,Ali,True,birdswindsuburbansounds.wav
+0 dB,Ali,Ali,True,scooter-street-200420_0157.wav
+0 dB,Charlie,Charlie,True,scooter-street-200420_0157.wav
+0 dB,Charlie,Charlie,True,traffic.wav.wav
+0 dB,Charlie,Charlie,True,air-conditioning-unit-2.wav
+0 dB,Charlie,Charlie,True,air-conditioning-unit-2.wav
+0 dB,Charlie,Charlie,True,midnight-clock02ms.wav
+0 dB,Harriet,Harriet,True,crowd_talking.wav
+0 dB,Harriet,Harriet,True,construction-ambience.wav
+0 dB,Harriet,Harriet,True,traffic.wav.wav
+0 dB,Harriet,Harriet,True,scooter-street-200420_0157.wav
+0 dB,Harriet,Harriet,True,fan.wav.flac
+0 dB,Jacek,Jacek,True,crowd_talking.wav
+0 dB,Jacek,Jacek,True,traffic.wav.wav
+0 dB,Jacek,Harriet,False,birdswindsuburbansounds.wav
+0 dB,Jacek,Jack,False,washing-machine-spin-cycle-2.wav
+0 dB,Jacek,Jade,False,ambientsoundapp__people-distant.wav
+0 dB,Jack,Jack,True,crowd_talking.wav
+0 dB,Jack,Jack,True,scooter-street-200420_0157.wav
+0 dB,Jack,Jack,True,train-people-neighborhood.wav
+0 dB,Jack,Jack,True,rain.wav.wav
+0 dB,Jack,Jack,True,cafe.wav.wav
+0 dB,Jade,Jade,True,aeroplane-takeoff-from-cabin.wav
+0 dB,Jade,Jade,True,fan.wav.flac
+0 dB,Jade,Jade,True,traffic.wav.wav
+0 dB,Jade,Jade,True,scooter-street-200420_0157.wav
+0 dB,Jade,Jade,True,washing-machine-spin-cycle-2.wav
+0 dB,Joshua,Joshua,True,bus_interior_highway.wav
+0 dB,Joshua,Joshua,True,keyboard-typing.wav
+0 dB,Joshua,Joshua,True,air-conditioning-unit-2.wav
+0 dB,Joshua,Joshua,True,midnight-clock02ms.wav
+0 dB,Joshua,Joshua,True,air-conditioning-unit-2.wav
+0 dB,Mason,Mason,True,vacuumcleanere.wav
+0 dB,Mason,Mason,True,cafe.wav.wav
+0 dB,Mason,Mason,True,vacuumcleanere.wav
+0 dB,Mason,Mason,True,cafe.wav.wav
+0 dB,Mason,Mason,True,wind.wav.wav
+0 dB,Nathan,Nathan,True,crowd_talking.wav
+0 dB,Nathan,Nathan,True,birdswindsuburbansounds.wav
+0 dB,Nathan,Nathan,True,crowd_talking.wav
+0 dB,Nathan,Nathan,True,wind.wav.wav
+0 dB,Nathan,Nathan,True,wind.wav.wav
+0 dB,Nicholas,Nicholas,True,scooter-street-200420_0157.wav
+0 dB,Nicholas,Nicholas,True,water_running.wav
+0 dB,Nicholas,Nicholas,True,vacuumcleanere.wav
+0 dB,Nicholas,Nicholas,True,fan.wav.flac
+0 dB,Nicholas,Nicholas,True,midnight-clock02ms.wav
+0 dB,Sam,Sam,True,fan.wav.flac
+0 dB,Sam,Sam,True,bus_interior_highway.wav
+0 dB,Sam,Sam,True,traffic.wav.wav
+0 dB,Sam,Sam,True,ambientsoundapp__people-distant.wav
+0 dB,Sam,Sam,True,traffic.wav.wav
+0 dB,Samuel,Samuel,True,water_running.wav
+0 dB,Samuel,Samuel,True,ambientsoundapp__people-distant.wav
+0 dB,Samuel,Samuel,True,construction-ambience.wav
+0 dB,Samuel,Samuel,True,fan.wav.flac
+0 dB,Samuel,Samuel,True,office.wav.wav
+0 dB,Sean,Sean,True,crowd_talking.wav
+0 dB,Sean,Sean,True,keyboard-typing.wav
+0 dB,Sean,Sean,True,traffic.wav.wav
+0 dB,Sean,Sean,True,keyboard-typing.wav
+0 dB,Sean,Sean,True,aeroplane-takeoff-from-cabin.wav
+0 dB,Toby,Toby,True,washing-machine-spin-cycle-2.wav
+0 dB,Toby,Toby,True,birdswindsuburbansounds.wav
+0 dB,Toby,Toby,True,fan.wav.flac
+0 dB,Toby,Toby,True,birdswindsuburbansounds.wav
+0 dB,Toby,Toby,True,bus_interior_highway.wav
+0 dB,Tommy,Tommy,True,keyboard-typing.wav
+0 dB,Tommy,Tommy,True,midnight-clock02ms.wav
+0 dB,Tommy,Tommy,True,fan.wav.flac
+0 dB,Tommy,Jack,False,train-people-neighborhood.wav
+0 dB,Tommy,Tommy,True,air-conditioning-unit-2.wav
+0 dB,Xingchen,Xingchen,True,scooter-street-200420_0157.wav
+0 dB,Xingchen,Xingchen,True,fan.wav.flac
+0 dB,Xingchen,Xingchen,True,aeroplane-takeoff-from-cabin.wav
+0 dB,Xingchen,Xingchen,True,bus_interior_highway.wav
+0 dB,Xingchen,Xingchen,True,cafe.wav.wav
+0 dB,Ziang,Ziang,True,washing-machine-spin-cycle-2.wav
+0 dB,Ziang,Ziang,True,washing-machine-spin-cycle-2.wav
+0 dB,Ziang,Ziang,True,birdswindsuburbansounds.wav
+0 dB,Ziang,Jade,False,bus_interior_highway.wav
+0 dB,Ziang,Ziang,True,office.wav.wav
+0 dB,Zihan,Zihan,True,washing-machine-spin-cycle-2.wav
+0 dB,Zihan,Zihan,True,scooter-street-200420_0157.wav
+0 dB,Zihan,Zihan,True,air-conditioning-unit-2.wav
+0 dB,Zihan,Zihan,True,office.wav.wav
+0 dB,Zihan,Zihan,True,office.wav.wav
+5 dB,Aaron,Aaron,True,crowd_talking.wav
+5 dB,Aaron,Aaron,True,office.wav.wav
+5 dB,Aaron,Aaron,True,scooter-street-200420_0157.wav
+5 dB,Aaron,Aaron,True,bus_interior_highway.wav
+5 dB,Aaron,Aaron,True,cafe.wav.wav
+5 dB,Alex,Alex,True,scooter-street-200420_0157.wav
+5 dB,Alex,Alex,True,cafe.wav.wav
+5 dB,Alex,Alex,True,scooter-street-200420_0157.wav
+5 dB,Alex,Alex,True,crowd_talking.wav
+5 dB,Alex,Alex,True,cafe.wav.wav
+5 dB,Ali,Ali,True,rain.wav.wav
+5 dB,Ali,Ali,True,train-people-neighborhood.wav
+5 dB,Ali,Ali,True,construction-ambience.wav
+5 dB,Ali,Ali,True,office.wav.wav
+5 dB,Ali,Ali,True,crowd_talking.wav
+5 dB,Charlie,Charlie,True,aeroplane-takeoff-from-cabin.wav
+5 dB,Charlie,Charlie,True,construction-ambience.wav
+5 dB,Charlie,Charlie,True,midnight-clock02ms.wav
+5 dB,Charlie,Charlie,True,ambientsoundapp__people-distant.wav
+5 dB,Charlie,Charlie,True,fan.wav.flac
+5 dB,Harriet,Jade,False,vacuumcleanere.wav
+5 dB,Harriet,Harriet,True,washing-machine-spin-cycle-2.wav
+5 dB,Harriet,Harriet,True,aeroplane-takeoff-from-cabin.wav
+5 dB,Harriet,Harriet,True,fan.wav.flac
+5 dB,Harriet,Harriet,True,water_running.wav
+5 dB,Jacek,Jacek,True,air-conditioning-unit-2.wav
+5 dB,Jacek,Jacek,True,wind.wav.wav
+5 dB,Jacek,Jacek,True,office.wav.wav
+5 dB,Jacek,Jacek,True,midnight-clock02ms.wav
+5 dB,Jacek,Jade,False,wind.wav.wav
+5 dB,Jack,Jack,True,birdswindsuburbansounds.wav
+5 dB,Jack,Jack,True,water_running.wav
+5 dB,Jack,Jack,True,fan.wav.flac
+5 dB,Jack,Jack,True,scooter-street-200420_0157.wav
+5 dB,Jack,Jack,True,vacuumcleanere.wav
+5 dB,Jade,Jade,True,construction-ambience.wav
+5 dB,Jade,Jade,True,scooter-street-200420_0157.wav
+5 dB,Jade,Jade,True,midnight-clock02ms.wav
+5 dB,Jade,Jade,True,midnight-clock02ms.wav
+5 dB,Jade,Jade,True,birdswindsuburbansounds.wav
+5 dB,Joshua,Joshua,True,vacuumcleanere.wav
+5 dB,Joshua,Joshua,True,scooter-street-200420_0157.wav
+5 dB,Joshua,Joshua,True,rain.wav.wav
+5 dB,Joshua,Joshua,True,keyboard-typing.wav
+5 dB,Joshua,Joshua,True,construction-ambience.wav
+5 dB,Mason,Mason,True,rain.wav.wav
+5 dB,Mason,Mason,True,cafe.wav.wav
+5 dB,Mason,Mason,True,rain.wav.wav
+5 dB,Mason,Mason,True,aeroplane-takeoff-from-cabin.wav
+5 dB,Mason,Mason,True,keyboard-typing.wav
+5 dB,Nathan,Nathan,True,scooter-street-200420_0157.wav
+5 dB,Nathan,Nathan,True,water_running.wav
+5 dB,Nathan,Nathan,True,traffic.wav.wav
+5 dB,Nathan,Nathan,True,traffic.wav.wav
+5 dB,Nathan,Nathan,True,construction-ambience.wav
+5 dB,Nicholas,Nicholas,True,train-people-neighborhood.wav
+5 dB,Nicholas,Nicholas,True,ambientsoundapp__people-distant.wav
+5 dB,Nicholas,Nicholas,True,vacuumcleanere.wav
+5 dB,Nicholas,Nicholas,True,wind.wav.wav
+5 dB,Nicholas,Nicholas,True,ambientsoundapp__people-distant.wav
+5 dB,Sam,Sam,True,crowd_talking.wav
+5 dB,Sam,Sam,True,crowd_talking.wav
+5 dB,Sam,Sam,True,bus_interior_highway.wav
+5 dB,Sam,Sam,True,air-conditioning-unit-2.wav
+5 dB,Sam,Sam,True,train-people-neighborhood.wav
+5 dB,Samuel,Samuel,True,ambientsoundapp__people-distant.wav
+5 dB,Samuel,Samuel,True,scooter-street-200420_0157.wav
+5 dB,Samuel,Samuel,True,water_running.wav
+5 dB,Samuel,Samuel,True,rain.wav.wav
+5 dB,Samuel,Samuel,True,rain.wav.wav
+5 dB,Sean,Sean,True,bus_interior_highway.wav
+5 dB,Sean,Sean,True,birdswindsuburbansounds.wav
+5 dB,Sean,Sean,True,crowd_talking.wav
+5 dB,Sean,Sean,True,vacuumcleanere.wav
+5 dB,Sean,Sean,True,air-conditioning-unit-2.wav
+5 dB,Toby,Toby,True,birdswindsuburbansounds.wav
+5 dB,Toby,Toby,True,bus_interior_highway.wav
+5 dB,Toby,Toby,True,vacuumcleanere.wav
+5 dB,Toby,Toby,True,wind.wav.wav
+5 dB,Toby,Toby,True,traffic.wav.wav
+5 dB,Tommy,Toby,False,vacuumcleanere.wav
+5 dB,Tommy,Tommy,True,washing-machine-spin-cycle-2.wav
+5 dB,Tommy,Tommy,True,cafe.wav.wav
+5 dB,Tommy,Tommy,True,traffic.wav.wav
+5 dB,Tommy,Tommy,True,crowd_talking.wav
+5 dB,Xingchen,Xingchen,True,fan.wav.flac
+5 dB,Xingchen,Xingchen,True,vacuumcleanere.wav
+5 dB,Xingchen,Xingchen,True,crowd_talking.wav
+5 dB,Xingchen,Xingchen,True,traffic.wav.wav
+5 dB,Xingchen,Xingchen,True,keyboard-typing.wav
+5 dB,Ziang,Ziang,True,fan.wav.flac
+5 dB,Ziang,Ziang,True,midnight-clock02ms.wav
+5 dB,Ziang,Ziang,True,ambientsoundapp__people-distant.wav
+5 dB,Ziang,Ziang,True,bus_interior_highway.wav
+5 dB,Ziang,Ziang,True,rain.wav.wav
+5 dB,Zihan,Zihan,True,bus_interior_highway.wav
+5 dB,Zihan,Zihan,True,ambientsoundapp__people-distant.wav
+5 dB,Zihan,Zihan,True,scooter-street-200420_0157.wav
+5 dB,Zihan,Zihan,True,washing-machine-spin-cycle-2.wav
+5 dB,Zihan,Zihan,True,scooter-street-200420_0157.wav
+10 dB,Aaron,Aaron,True,construction-ambience.wav
+10 dB,Aaron,Aaron,True,rain.wav.wav
+10 dB,Aaron,Aaron,True,water_running.wav
+10 dB,Aaron,Aaron,True,water_running.wav
+10 dB,Aaron,Aaron,True,train-people-neighborhood.wav
+10 dB,Alex,Alex,True,office.wav.wav
+10 dB,Alex,Alex,True,rain.wav.wav
+10 dB,Alex,Alex,True,washing-machine-spin-cycle-2.wav
+10 dB,Alex,Alex,True,train-people-neighborhood.wav
+10 dB,Alex,Alex,True,fan.wav.flac
+10 dB,Ali,Ali,True,train-people-neighborhood.wav
+10 dB,Ali,Ali,True,rain.wav.wav
+10 dB,Ali,Ali,True,rain.wav.wav
+10 dB,Ali,Ali,True,cafe.wav.wav
+10 dB,Ali,Ali,True,bus_interior_highway.wav
+10 dB,Charlie,Charlie,True,rain.wav.wav
+10 dB,Charlie,Charlie,True,water_running.wav
+10 dB,Charlie,Charlie,True,ambientsoundapp__people-distant.wav
+10 dB,Charlie,Charlie,True,scooter-street-200420_0157.wav
+10 dB,Charlie,Charlie,True,traffic.wav.wav
+10 dB,Harriet,Jacek,False,air-conditioning-unit-2.wav
+10 dB,Harriet,Harriet,True,rain.wav.wav
+10 dB,Harriet,Harriet,True,construction-ambience.wav
+10 dB,Harriet,Harriet,True,midnight-clock02ms.wav
+10 dB,Harriet,Harriet,True,rain.wav.wav
+10 dB,Jacek,Jacek,True,scooter-street-200420_0157.wav
+10 dB,Jacek,Jacek,True,ambientsoundapp__people-distant.wav
+10 dB,Jacek,Jacek,True,aeroplane-takeoff-from-cabin.wav
+10 dB,Jacek,Jacek,True,air-conditioning-unit-2.wav
+10 dB,Jacek,Jade,False,crowd_talking.wav
+10 dB,Jack,Jack,True,ambientsoundapp__people-distant.wav
+10 dB,Jack,Jack,True,air-conditioning-unit-2.wav
+10 dB,Jack,Jack,True,crowd_talking.wav
+10 dB,Jack,Jack,True,aeroplane-takeoff-from-cabin.wav
+10 dB,Jack,Jack,True,bus_interior_highway.wav
+10 dB,Jade,Jade,True,bus_interior_highway.wav
+10 dB,Jade,Jade,True,birdswindsuburbansounds.wav
+10 dB,Jade,Jade,True,construction-ambience.wav
+10 dB,Jade,Jade,True,fan.wav.flac
+10 dB,Jade,Jade,True,office.wav.wav
+10 dB,Joshua,Joshua,True,wind.wav.wav
+10 dB,Joshua,Joshua,True,birdswindsuburbansounds.wav
+10 dB,Joshua,Joshua,True,keyboard-typing.wav
+10 dB,Joshua,Joshua,True,water_running.wav
+10 dB,Joshua,Joshua,True,keyboard-typing.wav
+10 dB,Mason,Mason,True,rain.wav.wav
+10 dB,Mason,Mason,True,construction-ambience.wav
+10 dB,Mason,Mason,True,water_running.wav
+10 dB,Mason,Mason,True,birdswindsuburbansounds.wav
+10 dB,Mason,Mason,True,wind.wav.wav
+10 dB,Nathan,Nathan,True,birdswindsuburbansounds.wav
+10 dB,Nathan,Nathan,True,air-conditioning-unit-2.wav
+10 dB,Nathan,Nathan,True,washing-machine-spin-cycle-2.wav
+10 dB,Nathan,Nathan,True,office.wav.wav
+10 dB,Nathan,Nathan,True,vacuumcleanere.wav
+10 dB,Nicholas,Nicholas,True,midnight-clock02ms.wav
+10 dB,Nicholas,Nicholas,True,scooter-street-200420_0157.wav
+10 dB,Nicholas,Nicholas,True,train-people-neighborhood.wav
+10 dB,Nicholas,Nicholas,True,scooter-street-200420_0157.wav
+10 dB,Nicholas,Nicholas,True,traffic.wav.wav
+10 dB,Sam,Sam,True,bus_interior_highway.wav
+10 dB,Sam,Sam,True,cafe.wav.wav
+10 dB,Sam,Sam,True,wind.wav.wav
+10 dB,Sam,Sam,True,washing-machine-spin-cycle-2.wav
+10 dB,Sam,Sam,True,traffic.wav.wav
+10 dB,Samuel,Samuel,True,water_running.wav
+10 dB,Samuel,Samuel,True,midnight-clock02ms.wav
+10 dB,Samuel,Samuel,True,ambientsoundapp__people-distant.wav
+10 dB,Samuel,Sam,False,traffic.wav.wav
+10 dB,Samuel,Samuel,True,traffic.wav.wav
+10 dB,Sean,Sean,True,wind.wav.wav
+10 dB,Sean,Sean,True,rain.wav.wav
+10 dB,Sean,Sean,True,aeroplane-takeoff-from-cabin.wav
+10 dB,Sean,Sean,True,midnight-clock02ms.wav
+10 dB,Sean,Sean,True,train-people-neighborhood.wav
+10 dB,Toby,Toby,True,office.wav.wav
+10 dB,Toby,Toby,True,midnight-clock02ms.wav
+10 dB,Toby,Toby,True,wind.wav.wav
+10 dB,Toby,Toby,True,fan.wav.flac
+10 dB,Toby,Toby,True,aeroplane-takeoff-from-cabin.wav
+10 dB,Tommy,Tommy,True,construction-ambience.wav
+10 dB,Tommy,Tommy,True,crowd_talking.wav
+10 dB,Tommy,Tommy,True,train-people-neighborhood.wav
+10 dB,Tommy,Tommy,True,crowd_talking.wav
+10 dB,Tommy,Tommy,True,train-people-neighborhood.wav
+10 dB,Xingchen,Xingchen,True,aeroplane-takeoff-from-cabin.wav
+10 dB,Xingchen,Xingchen,True,keyboard-typing.wav
+10 dB,Xingchen,Xingchen,True,rain.wav.wav
+10 dB,Xingchen,Xingchen,True,crowd_talking.wav
+10 dB,Xingchen,Xingchen,True,water_running.wav
+10 dB,Ziang,Ziang,True,train-people-neighborhood.wav
+10 dB,Ziang,Ziang,True,vacuumcleanere.wav
+10 dB,Ziang,Ziang,True,scooter-street-200420_0157.wav
+10 dB,Ziang,Ziang,True,washing-machine-spin-cycle-2.wav
+10 dB,Ziang,Ziang,True,office.wav.wav
+10 dB,Zihan,Zihan,True,traffic.wav.wav
+10 dB,Zihan,Zihan,True,keyboard-typing.wav
+10 dB,Zihan,Zihan,True,crowd_talking.wav
+10 dB,Zihan,Zihan,True,construction-ambience.wav
+10 dB,Zihan,Zihan,True,birdswindsuburbansounds.wav
+15 dB,Aaron,Aaron,True,cafe.wav.wav
+15 dB,Aaron,Aaron,True,construction-ambience.wav
+15 dB,Aaron,Aaron,True,fan.wav.flac
+15 dB,Aaron,Aaron,True,water_running.wav
+15 dB,Aaron,Aaron,True,wind.wav.wav
+15 dB,Alex,Alex,True,birdswindsuburbansounds.wav
+15 dB,Alex,Alex,True,keyboard-typing.wav
+15 dB,Alex,Alex,True,office.wav.wav
+15 dB,Alex,Alex,True,keyboard-typing.wav
+15 dB,Alex,Alex,True,washing-machine-spin-cycle-2.wav
+15 dB,Ali,Ali,True,fan.wav.flac
+15 dB,Ali,Ali,True,air-conditioning-unit-2.wav
+15 dB,Ali,Ali,True,bus_interior_highway.wav
+15 dB,Ali,Ali,True,birdswindsuburbansounds.wav
+15 dB,Ali,Ali,True,water_running.wav
+15 dB,Charlie,Charlie,True,train-people-neighborhood.wav
+15 dB,Charlie,Ali,False,traffic.wav.wav
+15 dB,Charlie,Charlie,True,cafe.wav.wav
+15 dB,Charlie,Charlie,True,fan.wav.flac
+15 dB,Charlie,Charlie,True,train-people-neighborhood.wav
+15 dB,Harriet,Jacek,False,ambientsoundapp__people-distant.wav
+15 dB,Harriet,Harriet,True,train-people-neighborhood.wav
+15 dB,Harriet,Harriet,True,water_running.wav
+15 dB,Harriet,Harriet,True,bus_interior_highway.wav
+15 dB,Harriet,Harriet,True,water_running.wav
+15 dB,Jacek,Jacek,True,ambientsoundapp__people-distant.wav
+15 dB,Jacek,Jacek,True,birdswindsuburbansounds.wav
+15 dB,Jacek,Jacek,True,scooter-street-200420_0157.wav
+15 dB,Jacek,Jacek,True,wind.wav.wav
+15 dB,Jacek,Jacek,True,wind.wav.wav
+15 dB,Jack,Jack,True,vacuumcleanere.wav
+15 dB,Jack,Jack,True,traffic.wav.wav
+15 dB,Jack,Jack,True,keyboard-typing.wav
+15 dB,Jack,Jack,True,keyboard-typing.wav
+15 dB,Jack,Jack,True,wind.wav.wav
+15 dB,Jade,Jade,True,birdswindsuburbansounds.wav
+15 dB,Jade,Jade,True,construction-ambience.wav
+15 dB,Jade,Jade,True,ambientsoundapp__people-distant.wav
+15 dB,Jade,Jade,True,crowd_talking.wav
+15 dB,Jade,Jade,True,washing-machine-spin-cycle-2.wav
+15 dB,Joshua,Joshua,True,cafe.wav.wav
+15 dB,Joshua,Joshua,True,scooter-street-200420_0157.wav
+15 dB,Joshua,Joshua,True,wind.wav.wav
+15 dB,Joshua,Joshua,True,keyboard-typing.wav
+15 dB,Joshua,Joshua,True,crowd_talking.wav
+15 dB,Mason,Mason,True,keyboard-typing.wav
+15 dB,Mason,Mason,True,ambientsoundapp__people-distant.wav
+15 dB,Mason,Mason,True,crowd_talking.wav
+15 dB,Mason,Mason,True,water_running.wav
+15 dB,Mason,Mason,True,scooter-street-200420_0157.wav
+15 dB,Nathan,Nathan,True,washing-machine-spin-cycle-2.wav
+15 dB,Nathan,Nathan,True,bus_interior_highway.wav
+15 dB,Nathan,Nathan,True,bus_interior_highway.wav
+15 dB,Nathan,Nathan,True,air-conditioning-unit-2.wav
+15 dB,Nathan,Nathan,True,keyboard-typing.wav
+15 dB,Nicholas,Nicholas,True,traffic.wav.wav
+15 dB,Nicholas,Nicholas,True,traffic.wav.wav
+15 dB,Nicholas,Nicholas,True,keyboard-typing.wav
+15 dB,Nicholas,Nicholas,True,fan.wav.flac
+15 dB,Nicholas,Nicholas,True,washing-machine-spin-cycle-2.wav
+15 dB,Sam,Sam,True,traffic.wav.wav
+15 dB,Sam,Sam,True,wind.wav.wav
+15 dB,Sam,Sam,True,scooter-street-200420_0157.wav
+15 dB,Sam,Sam,True,midnight-clock02ms.wav
+15 dB,Sam,Sam,True,fan.wav.flac
+15 dB,Samuel,Samuel,True,ambientsoundapp__people-distant.wav
+15 dB,Samuel,Samuel,True,water_running.wav
+15 dB,Samuel,Samuel,True,fan.wav.flac
+15 dB,Samuel,Samuel,True,air-conditioning-unit-2.wav
+15 dB,Samuel,Samuel,True,train-people-neighborhood.wav
+15 dB,Sean,Sean,True,traffic.wav.wav
+15 dB,Sean,Sean,True,cafe.wav.wav
+15 dB,Sean,Sean,True,train-people-neighborhood.wav
+15 dB,Sean,Sean,True,train-people-neighborhood.wav
+15 dB,Sean,Sean,True,scooter-street-200420_0157.wav
+15 dB,Toby,Toby,True,midnight-clock02ms.wav
+15 dB,Toby,Toby,True,birdswindsuburbansounds.wav
+15 dB,Toby,Toby,True,midnight-clock02ms.wav
+15 dB,Toby,Toby,True,train-people-neighborhood.wav
+15 dB,Toby,Toby,True,rain.wav.wav
+15 dB,Tommy,Tommy,True,washing-machine-spin-cycle-2.wav
+15 dB,Tommy,Tommy,True,traffic.wav.wav
+15 dB,Tommy,Tommy,True,midnight-clock02ms.wav
+15 dB,Tommy,Tommy,True,midnight-clock02ms.wav
+15 dB,Tommy,Tommy,True,rain.wav.wav
+15 dB,Xingchen,Xingchen,True,aeroplane-takeoff-from-cabin.wav
+15 dB,Xingchen,Xingchen,True,washing-machine-spin-cycle-2.wav
+15 dB,Xingchen,Xingchen,True,scooter-street-200420_0157.wav
+15 dB,Xingchen,Xingchen,True,construction-ambience.wav
+15 dB,Xingchen,Xingchen,True,office.wav.wav
+15 dB,Ziang,Ziang,True,train-people-neighborhood.wav
+15 dB,Ziang,Ziang,True,traffic.wav.wav
+15 dB,Ziang,Ziang,True,air-conditioning-unit-2.wav
+15 dB,Ziang,Ziang,True,fan.wav.flac
+15 dB,Ziang,Ziang,True,bus_interior_highway.wav
+15 dB,Zihan,Zihan,True,traffic.wav.wav
+15 dB,Zihan,Zihan,True,train-people-neighborhood.wav
+15 dB,Zihan,Zihan,True,aeroplane-takeoff-from-cabin.wav
+15 dB,Zihan,Zihan,True,wind.wav.wav
+15 dB,Zihan,Zihan,True,crowd_talking.wav
